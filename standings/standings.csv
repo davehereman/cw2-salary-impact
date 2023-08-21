@@ -1,0 +1,2437 @@
+﻿League,Year,Code,Team,Standing,Played,Wins,Losses,Draws,Points
+epl,2013,MNC,Manchester City,1,38,27,6,5,86
+epl,2013,LIV,Liverpool,2,38,26,6,6,84
+epl,2013,CHE,Chelsea,3,38,25,6,7,82
+epl,2013,ARS,Arsenal,4,38,24,7,7,79
+epl,2013,EVE,Everton,5,38,21,8,9,72
+epl,2013,TOT,Tottenham Hotspur,6,38,21,11,6,69
+epl,2013,MAN,Manchester United,7,38,19,12,7,64
+epl,2013,SOU,Southampton,8,38,15,12,11,56
+epl,2013,STK,Stoke City,9,38,13,14,11,50
+epl,2013,NEW,Newcastle United,10,38,15,19,4,49
+epl,2013,CRY,Crystal Palace,11,38,13,19,6,45
+epl,2013,SWA,Swansea City,12,38,11,18,9,42
+epl,2013,WHU,West Ham United,13,38,11,20,7,40
+epl,2013,SUN,Sunderland,14,38,10,20,8,38
+epl,2013,AVL,Aston Villa,15,38,10,20,8,38
+epl,2013,HUL,Hull City,16,38,10,21,7,37
+epl,2013,WBA,West Bromwich Albion,17,38,7,16,15,36
+epl,2013,NOR,Norwich City,18,38,8,21,9,33
+epl,2013,FUL,Fulham,19,38,9,24,5,32
+epl,2013,CAR,Cardiff City,20,38,7,22,9,30
+epl,2014,CHE,Chelsea,1,38,26,3,9,87
+epl,2014,MNC,Manchester City,2,38,24,7,7,79
+epl,2014,ARS,Arsenal,3,38,22,7,9,75
+epl,2014,MAN,Manchester United,4,38,20,8,10,70
+epl,2014,TOT,Tottenham Hotspur,5,38,19,12,7,64
+epl,2014,LIV,Liverpool,6,38,18,12,8,62
+epl,2014,SOU,Southampton,7,38,18,14,6,60
+epl,2014,SWA,Swansea City,8,38,16,14,8,56
+epl,2014,STK,Stoke City,9,38,15,14,9,54
+epl,2014,CRY,Crystal Palace,10,38,13,16,9,48
+epl,2014,EVE,Everton,11,38,12,15,11,47
+epl,2014,WHU,West Ham United,12,38,12,15,11,47
+epl,2014,WBA,West Bromwich Albion,13,38,11,16,11,44
+epl,2014,LEI,Leicester City,14,38,11,19,8,41
+epl,2014,NEW,Newcastle United,15,38,10,19,9,39
+epl,2014,SUN,Sunderland,16,38,7,14,17,38
+epl,2014,AVL,Aston Villa,17,38,10,20,8,38
+epl,2014,HUL,Hull City,18,38,8,19,11,35
+epl,2014,BUR,Burnley,19,38,7,19,12,33
+epl,2014,QPR,Queens Park Rangers,20,38,8,24,6,30
+epl,2015,LEI,Leicester City,1,38,23,3,12,81
+epl,2015,ARS,Arsenal,2,38,20,7,11,71
+epl,2015,TOT,Tottenham Hotspur,3,38,19,6,13,70
+epl,2015,MNC,Manchester City,4,38,19,10,9,66
+epl,2015,MAN,Manchester United,5,38,19,10,9,66
+epl,2015,SOU,Southampton,6,38,18,11,9,63
+epl,2015,WHU,West Ham United,7,38,16,8,14,62
+epl,2015,LIV,Liverpool,8,38,16,10,12,60
+epl,2015,STK,Stoke City,9,38,14,15,9,51
+epl,2015,CHE,Chelsea,10,38,12,12,14,50
+epl,2015,EVE,Everton,11,38,11,13,14,47
+epl,2015,SWA,Swansea City,12,38,12,15,11,47
+epl,2015,WAT,Watford,13,38,12,17,9,45
+epl,2015,WBA,West Bromwich Albion,14,38,10,15,13,43
+epl,2015,CRY,Crystal Palace,15,38,11,18,9,42
+epl,2015,BOU,AFC Bournemouth,16,38,11,18,9,42
+epl,2015,SUN,Sunderland,17,38,9,17,12,39
+epl,2015,NEW,Newcastle United,18,38,9,19,10,37
+epl,2015,NOR,Norwich City,19,38,9,22,7,34
+epl,2015,AVL,Aston Villa,20,38,3,27,8,17
+epl,2016,CHE,Chelsea,1,38,30,5,3,93
+epl,2016,TOT,Tottenham Hotspur,2,38,26,4,8,86
+epl,2016,MNC,Manchester City,3,38,23,6,9,78
+epl,2016,LIV,Liverpool,4,38,22,6,10,76
+epl,2016,ARS,Arsenal,5,38,23,9,6,75
+epl,2016,MAN,Manchester United,6,38,18,5,15,69
+epl,2016,EVE,Everton,7,38,17,11,10,61
+epl,2016,SOU,Southampton,8,38,12,16,10,46
+epl,2016,BOU,AFC Bournemouth,9,38,12,16,10,46
+epl,2016,WBA,West Bromwich Albion,10,38,12,17,9,45
+epl,2016,WHU,West Ham United,11,38,12,17,9,45
+epl,2016,LEI,Leicester City,12,38,12,18,8,44
+epl,2016,STK,Stoke City,13,38,11,16,11,44
+epl,2016,CRY,Crystal Palace,14,38,12,21,5,41
+epl,2016,SWA,Swansea City,15,38,12,21,5,41
+epl,2016,BUR,Burnley,16,38,11,20,7,40
+epl,2016,WAT,Watford,17,38,11,20,7,40
+epl,2016,HUL,Hull City,18,38,9,22,7,34
+epl,2016,MID,Middlesbrough,19,38,5,20,13,28
+epl,2016,SUN,Sunderland,20,38,6,26,6,24
+epl,2017,MNC,Manchester City,1,38,32,2,4,100
+epl,2017,MAN,Manchester United,2,38,25,7,6,81
+epl,2017,TOT,Tottenham Hotspur,3,38,23,7,8,77
+epl,2017,LIV,Liverpool,4,38,21,5,12,75
+epl,2017,CHE,Chelsea,5,38,21,10,7,70
+epl,2017,ARS,Arsenal,6,38,19,13,6,63
+epl,2017,BUR,Burnley,7,38,14,12,12,54
+epl,2017,EVE,Everton,8,38,13,15,10,49
+epl,2017,LEI,Leicester City,9,38,12,15,11,47
+epl,2017,NEW,Newcastle United,10,38,12,18,8,44
+epl,2017,CRY,Crystal Palace,11,38,11,16,11,44
+epl,2017,BOU,AFC Bournemouth,12,38,11,16,11,44
+epl,2017,WHU,West Ham United,13,38,10,16,12,42
+epl,2017,WAT,Watford,14,38,11,19,8,41
+epl,2017,BHA,Brighton & Hove Albion,15,38,9,16,13,40
+epl,2017,HUD,Huddersfield Town,16,38,9,19,10,37
+epl,2017,SOU,Southampton,17,38,7,16,15,36
+epl,2017,SWA,Swansea City,18,38,8,21,9,33
+epl,2017,STK,Stoke City,19,38,7,19,12,33
+epl,2017,WBA,West Bromwich Albion,20,38,6,19,13,31
+epl,2018,MNC,Manchester City,1,38,32,4,2,98
+epl,2018,LIV,Liverpool,2,38,30,1,7,97
+epl,2018,CHE,Chelsea,3,38,21,8,9,72
+epl,2018,TOT,Tottenham Hotspur,4,38,23,13,2,71
+epl,2018,ARS,Arsenal,5,38,21,10,7,70
+epl,2018,MAN,Manchester United,6,38,19,10,9,66
+epl,2018,WOL,Wolverhampton Wanderers,7,38,16,13,9,57
+epl,2018,EVE,Everton,8,38,15,14,9,54
+epl,2018,LEI,Leicester City,9,38,15,16,7,52
+epl,2018,WHU,West Ham United,10,38,15,16,7,52
+epl,2018,WAT,Watford,11,38,14,16,8,50
+epl,2018,CRY,Crystal Palace,12,38,14,17,7,49
+epl,2018,NEW,Newcastle United,13,38,12,17,9,45
+epl,2018,BOU,AFC Bournemouth,14,38,13,19,6,45
+epl,2018,BUR,Burnley,15,38,11,20,7,40
+epl,2018,SOU,Southampton,16,38,9,17,12,39
+epl,2018,BHA,Brighton & Hove Albion,17,38,9,20,9,36
+epl,2018,CAR,Cardiff City,18,38,10,24,4,34
+epl,2018,FUL,Fulham,19,38,7,26,5,26
+epl,2018,HUD,Huddersfield Town,20,38,3,28,7,16
+epl,2019,LIV,Liverpool,1,38,32,3,3,99
+epl,2019,MNC,Manchester City,2,38,26,9,3,81
+epl,2019,MAN,Manchester United,3,38,18,8,12,66
+epl,2019,CHE,Chelsea,4,38,20,12,6,66
+epl,2019,LEI,Leicester City,5,38,18,12,8,62
+epl,2019,TOT,Tottenham Hotspur,6,38,16,11,11,59
+epl,2019,WOL,Wolverhampton Wanderers,7,38,15,9,14,59
+epl,2019,ARS,Arsenal,8,38,14,10,14,56
+epl,2019,SHU,Sheffield United,9,38,14,12,12,54
+epl,2019,BUR,Burnley,10,38,15,14,9,54
+epl,2019,SOU,Southampton,11,38,15,16,7,52
+epl,2019,EVE,Everton,12,38,13,15,10,49
+epl,2019,NEW,Newcastle United,13,38,11,16,11,44
+epl,2019,CRY,Crystal Palace,14,38,11,17,10,43
+epl,2019,BHA,Brighton & Hove Albion,15,38,9,15,14,41
+epl,2019,WHU,West Ham United,16,38,10,19,9,39
+epl,2019,AVL,Aston Villa,17,38,9,21,8,35
+epl,2019,BOU,AFC Bournemouth,18,38,9,22,7,34
+epl,2019,WAT,Watford,19,38,8,20,10,34
+epl,2019,NOR,Norwich City,20,38,5,27,6,21
+epl,2020,MNC,Manchester City,1,38,27,6,5,86
+epl,2020,MAN,Manchester United,2,38,21,6,11,74
+epl,2020,LIV,Liverpool,3,38,20,9,9,69
+epl,2020,CHE,Chelsea,4,38,19,9,10,67
+epl,2020,LEI,Leicester City,5,38,20,12,6,66
+epl,2020,WHU,West Ham United,6,38,19,11,8,65
+epl,2020,TOT,Tottenham Hotspur,7,38,18,12,8,62
+epl,2020,ARS,Arsenal,8,38,18,13,7,61
+epl,2020,LEE,Leeds United,9,38,18,15,5,59
+epl,2020,EVE,Everton,10,38,17,13,8,59
+epl,2020,AVL,Aston Villa,11,38,16,15,7,55
+epl,2020,NEW,Newcastle United,12,38,12,17,9,45
+epl,2020,WOL,Wolverhampton Wanderers,13,38,12,17,9,45
+epl,2020,CRY,Crystal Palace,14,38,12,18,8,44
+epl,2020,SOU,Southampton,15,38,12,19,7,43
+epl,2020,BHA,Brighton & Hove Albion,16,38,9,15,14,41
+epl,2020,BUR,Burnley,17,38,10,19,9,39
+epl,2020,FUL,Fulham,18,38,5,20,13,28
+epl,2020,WBA,West Bromwich Albion,19,38,5,22,11,26
+epl,2020,SHU,Sheffield United,20,38,7,29,2,23
+epl,2021,MNC,Manchester City,1,38,29,3,6,93
+epl,2021,LIV,Liverpool,2,38,28,2,8,92
+epl,2021,CHE,Chelsea,3,38,21,6,11,74
+epl,2021,TOT,Tottenham Hotspur,4,38,22,11,5,71
+epl,2021,ARS,Arsenal,5,38,22,13,3,69
+epl,2021,MAN,Manchester United,6,38,16,12,10,58
+epl,2021,WHU,West Ham United,7,38,16,14,8,56
+epl,2021,LEI,Leicester City,8,38,14,14,10,52
+epl,2021,BHA,Brighton & Hove Albion,9,38,12,11,15,51
+epl,2021,WOL,Wolverhampton Wanderers,10,38,15,17,6,51
+epl,2021,NEW,Newcastle United,11,38,13,15,10,49
+epl,2021,CRY,Crystal Palace,12,38,11,12,15,48
+epl,2021,BRE,Brentford,13,38,13,18,7,46
+epl,2021,AVL,Aston Villa,14,38,13,19,6,45
+epl,2021,SOU,Southampton,15,38,9,16,13,40
+epl,2021,EVE,Everton,16,38,11,21,6,39
+epl,2021,LEE,Leeds United,17,38,9,18,11,38
+epl,2021,BUR,Burnley,18,38,7,17,14,35
+epl,2021,WAT,Watford,19,38,6,27,5,23
+epl,2021,NOR,Norwich City,20,38,5,26,7,22
+epl,2022,MNC,Manchester City,1,38,28,5,5,89
+epl,2022,ARS,Arsenal,2,38,26,6,6,84
+epl,2022,MAN,Manchester United,3,38,23,9,6,75
+epl,2022,NEW,Newcastle United,4,38,19,5,14,71
+epl,2022,LIV,Liverpool,5,38,19,9,10,67
+epl,2022,BHA,Brighton & Hove Albion,6,38,18,12,8,62
+epl,2022,AVL,Aston Villa,7,38,18,13,7,61
+epl,2022,TOT,Tottenham Hotspur,8,38,18,14,6,60
+epl,2022,BRE,Brentford,9,38,15,9,14,59
+epl,2022,FUL,Fulham,10,38,15,16,7,52
+epl,2022,CRY,Crystal Palace,11,38,11,15,12,45
+epl,2022,CHE,Chelsea,12,38,11,16,11,44
+epl,2022,WOL,Wolverhampton Wanderers,13,38,11,19,8,41
+epl,2022,WHU,West Ham United,14,38,11,20,7,40
+epl,2022,BOU,AFC Bournemouth,15,38,11,21,6,39
+epl,2022,NFO,Nottingham Forest,16,38,9,18,11,38
+epl,2022,EVE,Everton,17,38,8,18,12,36
+epl,2022,LEI,Leicester City,18,38,9,22,7,34
+epl,2022,LEE,Leeds United,19,38,7,21,10,31
+epl,2022,SOU,Southampton,20,38,6,25,7,25
+fra,2013,PSG,Paris Saint-Germain,1,38,27,3,8,89
+fra,2013,MON,AS Monaco,2,38,23,4,11,80
+fra,2013,LILL,Lille,3,38,20,7,11,71
+fra,2013,ASSE,Saint-Etienne,4,38,20,9,9,69
+fra,2013,LYON,Lyon,5,38,17,11,10,61
+fra,2013,OLM,Marseille,6,38,16,10,12,60
+fra,2013,BOR,Bordeaux,7,38,13,11,14,53
+fra,2013,LOR,Lorient,8,38,13,15,10,49
+fra,2013,TOU,Toulouse,9,38,12,13,13,49
+fra,2013,BAS,Bastia,10,38,13,15,10,49
+fra,2013,REIM,Stade de Reims,11,38,12,14,12,48
+fra,2013,REN,Stade Rennais,12,38,11,14,13,46
+fra,2013,NAN,Nantes,13,38,12,16,10,46
+fra,2013,EVN,Evian Thonon Gaillard,14,38,11,16,11,44
+fra,2013,MONT,Montpellier,15,38,8,12,18,42
+fra,2013,EAG,Guingamp,16,38,11,18,9,42
+fra,2013,NICE,Nice,17,38,12,20,6,42
+fra,2013,SOC,Sochaux,18,38,10,18,10,40
+fra,2013,VAFC,Valenciennes,19,38,7,23,8,29
+fra,2013,ACA,AC Ajaccio,20,38,4,23,11,23
+fra,2014,PSG,Paris Saint-Germain,1,38,24,3,11,83
+fra,2014,LYON,Lyon,2,38,22,7,9,75
+fra,2014,MON,AS Monaco,3,38,20,7,11,71
+fra,2014,OLM,Marseille,4,38,21,11,6,69
+fra,2014,ASSE,Saint-Etienne,5,38,19,7,12,69
+fra,2014,BOR,Bordeaux,6,38,17,9,12,63
+fra,2014,MONT,Montpellier,7,38,16,14,8,56
+fra,2014,LILL,Lille,8,38,16,14,8,56
+fra,2014,REN,Stade Rennais,9,38,13,14,11,50
+fra,2014,EAG,Guingamp,10,38,15,19,4,49
+fra,2014,NICE,Nice,11,38,13,16,9,48
+fra,2014,BAS,Bastia,12,38,12,15,11,47
+fra,2014,CAN,Caen,13,38,12,16,10,46
+fra,2014,NAN,Nantes,14,38,11,15,12,45
+fra,2014,REIM,Stade de Reims,15,38,12,18,8,44
+fra,2014,LOR,Lorient,16,38,12,19,7,43
+fra,2014,TOU,Toulouse,17,38,12,20,6,42
+fra,2014,EVN,Evian Thonon Gaillard,18,38,11,23,4,37
+fra,2014,METZ,Metz,19,38,7,22,9,30
+fra,2014,RCL,Lens,20,38,7,23,8,29
+fra,2015,PSG,Paris Saint-Germain,1,38,30,2,6,96
+fra,2015,LYON,Lyon,2,38,19,11,8,65
+fra,2015,MON,AS Monaco,3,38,17,7,14,65
+fra,2015,NICE,Nice,4,38,18,11,9,63
+fra,2015,LILL,Lille,5,38,15,8,15,60
+fra,2015,ASSE,Saint-Etienne,6,38,17,14,7,58
+fra,2015,CAN,Caen,7,38,16,16,6,54
+fra,2015,REN,Stade Rennais,8,38,13,12,13,52
+fra,2015,ANG,Angers,9,38,13,14,11,50
+fra,2015,BAS,Bastia,10,38,14,16,8,50
+fra,2015,BOR,Bordeaux,11,38,12,12,14,50
+fra,2015,MONT,Montpellier,12,38,14,17,7,49
+fra,2015,OLM,Marseille,13,38,10,10,18,48
+fra,2015,NAN,Nantes,14,38,12,14,12,48
+fra,2015,LOR,Lorient,15,38,11,14,13,46
+fra,2015,EAG,Guingamp,16,38,11,16,11,44
+fra,2015,TOU,Toulouse,17,38,9,16,13,40
+fra,2015,REIM,Stade de Reims,18,38,10,19,9,39
+fra,2015,GFC,GFC Ajaccio,19,38,8,17,13,37
+fra,2015,TRY,Troyes,20,38,3,26,9,18
+fra,2016,MON,AS Monaco,1,38,30,3,5,95
+fra,2016,PSG,Paris Saint-Germain,2,38,27,5,6,87
+fra,2016,NICE,Nice,3,38,22,4,12,78
+fra,2016,LYON,Lyon,4,38,21,13,4,67
+fra,2016,OLM,Marseille,5,38,17,10,11,62
+fra,2016,BOR,Bordeaux,6,38,15,9,14,59
+fra,2016,NAN,Nantes,7,38,14,15,9,51
+fra,2016,ASSE,Saint-Etienne,8,38,12,12,14,50
+fra,2016,REN,Stade Rennais,9,38,12,12,14,50
+fra,2016,EAG,Guingamp,10,38,14,16,8,50
+fra,2016,LILL,Lille,11,38,13,18,7,46
+fra,2016,ANG,Angers,12,38,13,18,7,46
+fra,2016,TOU,Toulouse,13,38,10,14,14,44
+fra,2016,METZ,Metz,14,38,11,17,10,43
+fra,2016,MONT,Montpellier,15,38,10,19,9,39
+fra,2016,DIJO,Dijon FCO,16,38,8,17,13,37
+fra,2016,CAN,Caen,17,38,10,21,7,37
+fra,2016,LOR,Lorient,18,38,10,22,6,36
+fra,2016,ASNL,AS Nancy Lorraine,19,38,9,21,8,35
+fra,2016,BAS,Bastia,20,38,8,20,10,34
+fra,2017,PSG,Paris Saint-Germain,1,38,29,3,6,93
+fra,2017,MON,AS Monaco,2,38,24,6,8,80
+fra,2017,LYON,Lyon,3,38,23,6,9,78
+fra,2017,OLM,Marseille,4,38,22,5,11,77
+fra,2017,REN,Stade Rennais,5,38,16,12,10,58
+fra,2017,BOR,Bordeaux,6,38,16,15,7,55
+fra,2017,ASSE,Saint-Etienne,7,38,15,13,10,55
+fra,2017,NICE,Nice,8,38,15,14,9,54
+fra,2017,NAN,Nantes,9,38,14,14,10,52
+fra,2017,MONT,Montpellier,10,38,11,9,18,51
+fra,2017,DIJO,Dijon FCO,11,38,13,16,9,48
+fra,2017,EAG,Guingamp,12,38,12,15,11,47
+fra,2017,AMI,SC Amiens,13,38,12,17,9,45
+fra,2017,ANG,Angers,14,38,9,15,14,41
+fra,2017,STR,Strasbourg,15,38,9,18,11,38
+fra,2017,CAN,Caen,16,38,10,20,8,38
+fra,2017,LILL,Lille,17,38,10,20,8,38
+fra,2017,TOU,Toulouse,18,38,9,19,10,37
+fra,2017,TRY,Troyes,19,38,9,23,6,33
+fra,2017,METZ,Metz,20,38,6,24,8,26
+fra,2018,PSG,Paris Saint-Germain,1,38,29,5,4,91
+fra,2018,LILL,Lille,2,38,22,7,9,75
+fra,2018,LYON,Lyon,3,38,21,8,9,72
+fra,2018,ASSE,Saint-Etienne,4,38,19,10,9,66
+fra,2018,OLM,Marseille,5,38,18,13,7,61
+fra,2018,MONT,Montpellier,6,38,15,9,14,59
+fra,2018,NICE,Nice,7,38,15,12,11,56
+fra,2018,REIM,Stade de Reims,8,38,13,9,16,55
+fra,2018,NIM,Nimes,9,38,15,15,8,53
+fra,2018,REN,Stade Rennais,10,38,13,12,13,52
+fra,2018,STR,Strasbourg,11,38,11,11,16,49
+fra,2018,NAN,Nantes,12,38,13,16,9,48
+fra,2018,ANG,Angers,13,38,10,12,16,46
+fra,2018,BOR,Bordeaux,14,38,10,17,11,41
+fra,2018,AMI,SC Amiens,15,38,9,18,11,38
+fra,2018,TOU,Toulouse,16,38,8,16,14,38
+fra,2018,MON,AS Monaco,17,38,8,18,12,36
+fra,2018,DIJO,Dijon FCO,18,38,9,22,7,34
+fra,2018,CAN,Caen,19,38,7,19,12,33
+fra,2018,EAG,Guingamp,20,38,5,21,12,27
+fra,2019,PSG,Paris Saint-Germain,1,27,22,3,2,68
+fra,2019,OLM,Marseille,2,28,16,4,8,56
+fra,2019,REN,Stade Rennais,3,28,15,8,5,50
+fra,2019,LILL,Lille,4,28,15,9,4,49
+fra,2019,NICE,Nice,5,28,11,9,8,41
+fra,2019,REIM,Stade de Reims,6,28,10,7,11,41
+fra,2019,LYON,Lyon,7,28,11,10,7,40
+fra,2019,MONT,Montpellier,8,28,11,10,7,40
+fra,2019,MON,AS Monaco,9,28,11,10,7,40
+fra,2019,STR,Strasbourg,10,27,11,11,5,38
+fra,2019,ANG,Angers,11,28,11,11,6,39
+fra,2019,BOR,Bordeaux,12,28,9,9,10,37
+fra,2019,NAN,Nantes,13,28,11,13,4,37
+fra,2019,BRES,Brest,14,28,8,10,10,34
+fra,2019,METZ,Metz,15,28,8,10,10,34
+fra,2019,DIJO,Dijon FCO,16,28,7,12,9,30
+fra,2019,ASSE,Saint-Etienne,17,28,8,14,6,30
+fra,2019,NIM,Nimes,18,28,7,15,6,27
+fra,2019,AMI,SC Amiens,19,28,4,13,11,23
+fra,2019,TOU,Toulouse,20,28,3,21,4,13
+fra,2020,LILL,Lille,1,38,24,3,11,83
+fra,2020,PSG,Paris Saint-Germain,2,38,26,8,4,82
+fra,2020,MON,AS Monaco,3,38,24,8,6,78
+fra,2020,LYON,Lyon,4,38,22,6,10,76
+fra,2020,OLM,Marseille,5,38,16,10,12,60
+fra,2020,REN,Stade Rennais,6,38,16,12,10,58
+fra,2020,RCL,Lens,7,38,15,11,12,57
+fra,2020,MONT,Montpellier,8,38,14,12,12,54
+fra,2020,NICE,Nice,9,38,15,16,7,52
+fra,2020,METZ,Metz,10,38,12,15,11,47
+fra,2020,ASSE,Saint-Etienne,11,38,12,16,10,46
+fra,2020,BOR,Bordeaux,12,38,13,19,6,45
+fra,2020,ANG,Angers,13,38,12,18,8,44
+fra,2020,REIM,Stade de Reims,14,38,9,14,15,42
+fra,2020,STR,Strasbourg,15,38,11,18,9,42
+fra,2020,LOR,Lorient,16,38,11,18,9,42
+fra,2020,BRES,Brest,17,38,11,19,8,41
+fra,2020,NAN,Nantes,18,38,9,16,13,40
+fra,2020,NIM,Nimes,19,38,9,21,8,35
+fra,2020,DIJO,Dijon FCO,20,38,4,25,9,21
+fra,2021,PSG,Paris Saint-Germain,1,38,26,4,8,86
+fra,2021,OLM,Marseille,2,38,21,9,8,71
+fra,2021,MON,AS Monaco,3,38,20,9,9,69
+fra,2021,REN,Stade Rennais,4,38,20,12,6,66
+fra,2021,NICE,Nice,5,38,20,11,7,66
+fra,2021,STR,Strasbourg,6,38,17,9,12,63
+fra,2021,RCL,Lens,7,38,17,10,11,62
+fra,2021,LYON,Lyon,8,38,17,10,11,61
+fra,2021,NAN,Nantes,9,38,15,13,10,55
+fra,2021,LILL,Lille,10,38,14,11,13,55
+fra,2021,BRES,Brest,11,38,13,16,9,48
+fra,2021,REIM,Stade de Reims,12,38,11,14,13,46
+fra,2021,MONT,Montpellier,13,38,12,19,7,43
+fra,2021,ANG,Angers,14,38,10,17,11,41
+fra,2021,TRY,Troyes,15,38,9,18,11,38
+fra,2021,LOR,Lorient,16,38,8,18,12,36
+fra,2021,CLE,Clermont Foot,17,38,9,20,9,36
+fra,2021,ASSE,Saint-Etienne,18,38,7,20,11,32
+fra,2021,METZ,Metz,19,38,6,19,13,31
+fra,2021,BOR,Bordeaux,20,38,6,19,13,31
+fra,2022,PSG,Paris Saint-Germain,1,38,27,7,4,85
+fra,2022,RCL,Lens,2,38,25,4,9,84
+fra,2022,OLM,Marseille,3,38,22,9,7,73
+fra,2022,REN,Stade Rennais,4,38,21,12,5,68
+fra,2022,LILL,Lille,5,38,19,9,10,67
+fra,2022,MON,AS Monaco,6,38,19,11,8,65
+fra,2022,LYON,Lyon,7,38,18,12,8,62
+fra,2022,CLE,Clermont Foot,8,38,17,13,8,59
+fra,2022,NICE,Nice,9,38,15,10,13,58
+fra,2022,LOR,Lorient,10,38,15,13,10,55
+fra,2022,REIM,Stade de Reims,11,38,12,11,15,51
+fra,2022,MONT,Montpellier,12,38,15,18,5,50
+fra,2022,TOU,Toulouse,13,38,13,16,9,48
+fra,2022,BRES,Brest,14,38,11,16,11,44
+fra,2022,STR,Strasbourg,15,38,9,16,13,40
+fra,2022,NAN,Nantes,16,38,7,16,15,36
+fra,2022,AUX,AJ Auxerre,17,38,8,19,11,35
+fra,2022,ACA,AC Ajaccio,18,38,7,26,5,26
+fra,2022,TRY,Troyes,19,38,4,22,12,24
+fra,2022,ANG,Angers,20,38,4,28,6,18
+ger,2013,MUN,Bayern Munich,1,34,29,2,3,90
+ger,2013,DOR,Borussia Dortmund,2,34,22,7,5,71
+ger,2013,S04,Schalke 04,3,34,19,8,7,64
+ger,2013,B04,Bayer Leverkusen,4,34,19,11,4,61
+ger,2013,WOB,VfL Wolfsburg,5,34,18,10,6,60
+ger,2013,BMG,Borussia Monchengladbach,6,34,16,11,7,55
+ger,2013,M05,Mainz,7,34,16,13,5,53
+ger,2013,FCA,FC Augsburg,8,34,15,12,7,52
+ger,2013,TSG,TSG Hoffenheim,9,34,11,12,11,44
+ger,2013,H96,Hannover 96,10,34,12,16,6,42
+ger,2013,BSC,Hertha Berlin,11,34,11,15,8,41
+ger,2013,SVW,Werder Bremen,12,34,10,15,9,39
+ger,2013,SGE,Eintracht Frankfurt,13,34,9,16,9,36
+ger,2013,SCF,SC Freiburg,14,34,9,16,9,36
+ger,2013,VFB,VfB Stuttgart,15,34,8,18,8,32
+ger,2013,HSV,Hamburg SV,16,34,7,21,6,27
+ger,2013,FCN,Nurnberg,17,34,5,18,11,26
+ger,2013,EBS,TSV Eintracht Braunschweig,18,34,6,21,7,25
+ger,2014,MUN,Bayern Munich,1,34,25,5,4,79
+ger,2014,WOB,VfL Wolfsburg,2,34,20,5,9,69
+ger,2014,BMG,Borussia Monchengladbach,3,34,19,6,9,66
+ger,2014,B04,Bayer Leverkusen,4,34,17,7,10,61
+ger,2014,FCA,FC Augsburg,5,34,15,15,4,49
+ger,2014,S04,Schalke 04,6,34,13,12,9,48
+ger,2014,DOR,Borussia Dortmund,7,34,13,14,7,46
+ger,2014,TSG,TSG Hoffenheim,8,34,12,14,8,44
+ger,2014,SGE,Eintracht Frankfurt,9,34,11,13,10,43
+ger,2014,SVW,Werder Bremen,10,34,11,13,10,43
+ger,2014,M05,Mainz,11,34,9,12,13,40
+ger,2014,KOE,FC Cologne,12,34,9,12,13,40
+ger,2014,H96,Hannover 96,13,34,9,15,10,37
+ger,2014,VFB,VfB Stuttgart,14,34,9,16,9,36
+ger,2014,BSC,Hertha Berlin,15,34,9,17,8,35
+ger,2014,HSV,Hamburg SV,16,34,9,17,8,35
+ger,2014,SCF,SC Freiburg,17,34,7,14,13,34
+ger,2014,SCP,SC Paderborn 07,18,34,7,17,10,31
+ger,2015,MUN,Bayern Munich,1,34,28,2,4,88
+ger,2015,DOR,Borussia Dortmund,2,34,24,4,6,78
+ger,2015,B04,Bayer Leverkusen,3,34,18,10,6,60
+ger,2015,BMG,Borussia Monchengladbach,4,34,17,13,4,55
+ger,2015,S04,Schalke 04,5,34,15,12,7,52
+ger,2015,M05,Mainz,6,34,14,12,8,50
+ger,2015,BSC,Hertha Berlin,7,34,14,12,8,50
+ger,2015,WOB,VfL Wolfsburg,8,34,12,13,9,45
+ger,2015,KOE,FC Cologne,9,34,10,11,13,43
+ger,2015,HSV,Hamburg SV,10,34,11,15,8,41
+ger,2015,ING,FC Ingolstadt 04,11,34,10,14,10,40
+ger,2015,FCA,FC Augsburg,12,34,9,14,11,38
+ger,2015,SVW,Werder Bremen,13,34,10,16,8,38
+ger,2015,SVD,SV Darmstadt 98,14,34,9,14,11,38
+ger,2015,TSG,TSG Hoffenheim,15,34,9,15,10,37
+ger,2015,SGE,Eintracht Frankfurt,16,34,9,16,9,36
+ger,2015,VFB,VfB Stuttgart,17,34,9,19,6,33
+ger,2015,H96,Hannover 96,18,34,7,23,4,25
+ger,2016,MUN,Bayern Munich,1,34,25,2,7,82
+ger,2016,RBL,RB Leipzig,2,34,20,7,7,67
+ger,2016,DOR,Borussia Dortmund,3,34,18,6,10,64
+ger,2016,TSG,TSG Hoffenheim,4,34,16,4,14,62
+ger,2016,KOE,FC Cologne,5,34,12,9,13,49
+ger,2016,BSC,Hertha Berlin,6,34,15,15,4,49
+ger,2016,SCF,SC Freiburg,7,34,14,14,6,48
+ger,2016,SVW,Werder Bremen,8,34,13,15,6,45
+ger,2016,BMG,Borussia Monchengladbach,9,34,12,13,9,45
+ger,2016,S04,Schalke 04,10,34,11,13,10,43
+ger,2016,SGE,Eintracht Frankfurt,11,34,11,14,9,42
+ger,2016,B04,Bayer Leverkusen,12,34,11,15,8,41
+ger,2016,FCA,FC Augsburg,13,34,9,14,11,38
+ger,2016,HSV,Hamburg SV,14,34,10,16,8,38
+ger,2016,M05,Mainz,15,34,10,17,7,37
+ger,2016,WOB,VfL Wolfsburg,16,34,10,17,7,37
+ger,2016,ING,FC Ingolstadt 04,17,34,8,18,8,32
+ger,2016,SVD,SV Darmstadt 98,18,34,7,23,4,25
+ger,2017,MUN,Bayern Munich,1,34,27,4,3,84
+ger,2017,S04,Schalke 04,2,34,18,7,9,63
+ger,2017,TSG,TSG Hoffenheim,3,34,15,9,10,55
+ger,2017,DOR,Borussia Dortmund,4,34,15,9,10,55
+ger,2017,B04,Bayer Leverkusen,5,34,15,9,10,55
+ger,2017,RBL,RB Leipzig,6,34,15,11,8,53
+ger,2017,VFB,VfB Stuttgart,7,34,15,13,6,51
+ger,2017,SGE,Eintracht Frankfurt,8,34,14,13,7,49
+ger,2017,BMG,Borussia Monchengladbach,9,34,13,13,8,47
+ger,2017,BSC,Hertha Berlin,10,34,10,11,13,43
+ger,2017,SVW,Werder Bremen,11,34,10,12,12,42
+ger,2017,FCA,FC Augsburg,12,34,10,13,11,41
+ger,2017,H96,Hannover 96,13,34,10,15,9,39
+ger,2017,M05,Mainz,14,34,9,16,9,36
+ger,2017,SCF,SC Freiburg,15,34,8,14,12,36
+ger,2017,WOB,VfL Wolfsburg,16,34,6,13,15,33
+ger,2017,HSV,Hamburg SV,17,34,8,19,7,31
+ger,2017,KOE,FC Cologne,18,34,5,22,7,22
+ger,2018,MUN,Bayern Munich,1,34,24,4,6,78
+ger,2018,DOR,Borussia Dortmund,2,34,23,4,7,76
+ger,2018,RBL,RB Leipzig,3,34,19,6,9,66
+ger,2018,B04,Bayer Leverkusen,4,34,18,12,4,58
+ger,2018,BMG,Borussia Monchengladbach,5,34,16,11,7,55
+ger,2018,WOB,VfL Wolfsburg,6,34,16,11,7,55
+ger,2018,SGE,Eintracht Frankfurt,7,34,15,10,9,54
+ger,2018,SVW,Werder Bremen,8,34,14,9,11,53
+ger,2018,TSG,TSG Hoffenheim,9,34,13,9,12,51
+ger,2018,F95,Fortuna Düsseldorf,10,34,13,16,5,44
+ger,2018,BSC,Hertha Berlin,11,34,11,13,10,43
+ger,2018,M05,Mainz,12,34,12,15,7,43
+ger,2018,SCF,SC Freiburg,13,34,8,14,12,36
+ger,2018,S04,Schalke 04,14,34,8,17,9,33
+ger,2018,FCA,FC Augsburg,15,34,8,18,8,32
+ger,2018,VFB,VfB Stuttgart,16,34,7,20,7,28
+ger,2018,H96,Hannover 96,17,34,5,23,6,21
+ger,2018,FCN,Nurnberg,18,34,3,21,10,19
+ger,2019,MUN,Bayern Munich,1,34,26,4,4,82
+ger,2019,DOR,Borussia Dortmund,2,34,21,7,6,69
+ger,2019,RBL,RB Leipzig,3,34,18,4,12,66
+ger,2019,BMG,Borussia Monchengladbach,4,34,20,9,5,65
+ger,2019,B04,Bayer Leverkusen,5,34,19,9,6,63
+ger,2019,TSG,TSG Hoffenheim,6,34,15,12,7,52
+ger,2019,WOB,VfL Wolfsburg,7,34,13,11,10,49
+ger,2019,SCF,SC Freiburg,8,34,13,12,9,48
+ger,2019,SGE,Eintracht Frankfurt,9,34,13,15,6,45
+ger,2019,BSC,Hertha Berlin,10,34,11,15,8,41
+ger,2019,FCU,1. FC Union Berlin,11,34,12,17,5,41
+ger,2019,S04,Schalke 04,12,34,9,13,12,39
+ger,2019,M05,Mainz,13,34,11,19,4,37
+ger,2019,KOE,FC Cologne,14,34,10,18,6,36
+ger,2019,FCA,FC Augsburg,15,34,9,16,9,36
+ger,2019,SVW,Werder Bremen,16,34,8,19,7,31
+ger,2019,F95,Fortuna Düsseldorf,17,34,6,16,12,30
+ger,2019,SCP,SC Paderborn 07,18,34,4,22,8,20
+ger,2020,MUN,Bayern Munich,1,34,24,4,6,78
+ger,2020,RBL,RB Leipzig,2,34,19,7,8,65
+ger,2020,DOR,Borussia Dortmund,3,34,20,10,4,64
+ger,2020,WOB,VfL Wolfsburg,4,34,17,7,10,61
+ger,2020,SGE,Eintracht Frankfurt,5,34,16,6,12,60
+ger,2020,B04,Bayer Leverkusen,6,34,14,10,10,52
+ger,2020,FCU,1. FC Union Berlin,7,34,12,8,14,50
+ger,2020,BMG,Borussia Monchengladbach,8,34,13,11,10,49
+ger,2020,VFB,VfB Stuttgart,9,34,12,13,9,45
+ger,2020,SCF,SC Freiburg,10,34,12,13,9,45
+ger,2020,TSG,TSG Hoffenheim,11,34,11,13,10,43
+ger,2020,M05,Mainz,12,34,10,15,9,39
+ger,2020,FCA,FC Augsburg,13,34,10,18,6,36
+ger,2020,BSC,Hertha Berlin,14,34,8,15,11,35
+ger,2020,DSC,Arminia Bielefeld,15,34,9,17,8,35
+ger,2020,KOE,FC Cologne,16,34,8,17,9,33
+ger,2020,SVW,Werder Bremen,17,34,7,17,10,31
+ger,2020,S04,Schalke 04,18,34,3,24,7,16
+ger,2021,MUN,Bayern Munich,1,34,24,5,5,77
+ger,2021,DOR,Borussia Dortmund,2,34,22,9,3,69
+ger,2021,B04,Bayer Leverkusen,3,34,19,8,7,64
+ger,2021,RBL,RB Leipzig,4,34,17,10,7,58
+ger,2021,FCU,1. FC Union Berlin,5,34,16,9,9,57
+ger,2021,SCF,SC Freiburg,6,34,15,9,10,55
+ger,2021,KOE,FC Cologne,7,34,14,10,10,52
+ger,2021,M05,Mainz,8,34,13,14,7,46
+ger,2021,TSG,TSG Hoffenheim,9,34,13,14,7,46
+ger,2021,BMG,Borussia Monchengladbach,10,34,12,13,9,45
+ger,2021,SGE,Eintracht Frankfurt,11,34,10,12,12,42
+ger,2021,WOB,VfL Wolfsburg,12,34,12,16,6,42
+ger,2021,BOC,VfL Bochum,13,34,12,16,6,42
+ger,2021,FCA,FC Augsburg,14,34,10,16,8,38
+ger,2021,VFB,VfB Stuttgart,15,34,7,15,12,33
+ger,2021,BSC,Hertha Berlin,16,34,9,19,6,33
+ger,2021,DSC,Arminia Bielefeld,17,34,5,16,13,28
+ger,2021,SGF,SpVgg Greuther Furth,18,34,3,22,9,18
+ger,2022,MUN,Bayern Munich,1,34,21,5,8,71
+ger,2022,DOR,Borussia Dortmund,2,34,22,7,5,71
+ger,2022,RBL,RB Leipzig,3,34,20,8,6,66
+ger,2022,FCU,1. FC Union Berlin,4,34,18,8,8,62
+ger,2022,SCF,SC Freiburg,5,34,17,9,8,59
+ger,2022,B04,Bayer Leverkusen,6,34,14,12,8,50
+ger,2022,SGE,Eintracht Frankfurt,7,34,13,10,11,50
+ger,2022,WOB,VfL Wolfsburg,8,34,13,11,10,49
+ger,2022,M05,Mainz,9,34,12,12,10,46
+ger,2022,BMG,Borussia Monchengladbach,10,34,11,13,10,43
+ger,2022,KOE,FC Cologne,11,34,10,12,12,42
+ger,2022,TSG,TSG Hoffenheim,12,34,10,18,6,36
+ger,2022,SVW,Werder Bremen,13,34,10,18,6,36
+ger,2022,BOC,VfL Bochum,14,34,10,19,5,35
+ger,2022,FCA,FC Augsburg,15,34,9,18,7,34
+ger,2022,VFB,VfB Stuttgart,16,34,7,15,12,33
+ger,2022,S04,Schalke 04,17,34,7,17,10,31
+ger,2022,BSC,Hertha Berlin,18,34,7,19,8,29
+itl,2013,JUV,Juventus,1,38,33,2,3,102
+itl,2013,ROMA,AS Roma,2,38,26,5,7,85
+itl,2013,NAP,Napoli,3,38,23,6,9,78
+itl,2013,FIO,Fiorentina,4,38,19,11,8,65
+itl,2013,INT,Internazionale,5,38,15,8,15,60
+itl,2013,PAR,Parma,6,38,15,10,13,58
+itl,2013,TOR,Torino,7,38,15,11,12,57
+itl,2013,MIL,AC Milan,8,38,16,13,9,57
+itl,2013,LAZ,Lazio,9,38,15,12,11,56
+itl,2013,VER,Hellas Verona,10,38,16,16,6,54
+itl,2013,ATA,Atalanta,11,38,15,18,5,50
+itl,2013,SAM,Sampdoria,12,38,12,17,9,45
+itl,2013,UDI,Udinese,13,38,12,18,8,44
+itl,2013,GEN,Genoa,14,38,11,16,11,44
+itl,2013,CAG,Cagliari,15,38,9,17,12,39
+itl,2013,CVO,Chievo Verona,16,38,10,22,6,36
+itl,2013,SAS,Sassuolo,17,38,9,22,7,34
+itl,2013,CAT,Catania,18,38,8,22,8,32
+itl,2013,BOL,Bologna,19,38,5,19,14,29
+itl,2013,LVO,Livorno,20,38,6,25,7,25
+itl,2014,JUV,Juventus,1,38,26,3,9,87
+itl,2014,ROMA,AS Roma,2,38,19,6,13,70
+itl,2014,LAZ,Lazio,3,38,21,11,6,69
+itl,2014,FIO,Fiorentina,4,38,18,10,10,64
+itl,2014,NAP,Napoli,5,38,18,11,9,63
+itl,2014,GEN,Genoa,6,38,16,11,11,59
+itl,2014,SAM,Sampdoria,7,38,13,8,17,56
+itl,2014,INT,Internazionale,8,38,14,11,13,55
+itl,2014,TOR,Torino,9,38,14,12,12,54
+itl,2014,MIL,AC Milan,10,38,13,12,13,52
+itl,2014,PAL,Palermo,11,38,12,13,13,49
+itl,2014,SAS,Sassuolo,12,38,12,13,13,49
+itl,2014,VER,Hellas Verona,13,38,11,14,13,46
+itl,2014,CVO,Chievo Verona,14,38,10,15,13,43
+itl,2014,EMP,Empoli,15,38,8,12,18,42
+itl,2014,UDI,Udinese,16,38,10,17,11,41
+itl,2014,ATA,Atalanta,17,38,7,15,16,37
+itl,2014,CAG,Cagliari,18,38,8,20,10,34
+itl,2014,CES,Cesena,19,38,4,22,12,24
+itl,2014,PAR,Parma,20,38,6,24,8,19
+itl,2015,JUV,Juventus,1,38,29,5,4,91
+itl,2015,NAP,Napoli,2,38,25,6,7,82
+itl,2015,ROMA,AS Roma,3,38,23,4,11,80
+itl,2015,INT,Internazionale,4,38,20,11,7,67
+itl,2015,FIO,Fiorentina,5,38,18,10,10,64
+itl,2015,SAS,Sassuolo,6,38,16,9,13,61
+itl,2015,MIL,AC Milan,7,38,15,11,12,57
+itl,2015,LAZ,Lazio,8,38,15,14,9,54
+itl,2015,CVO,Chievo Verona,9,38,13,14,11,50
+itl,2015,EMP,Empoli,10,38,12,16,10,46
+itl,2015,GEN,Genoa,11,38,13,18,7,46
+itl,2015,TOR,Torino,12,38,12,17,9,45
+itl,2015,ATA,Atalanta,13,38,11,15,12,45
+itl,2015,BOL,Bologna,14,38,11,18,9,42
+itl,2015,SAM,Sampdoria,15,38,10,18,10,40
+itl,2015,PAL,Palermo,16,38,10,19,9,39
+itl,2015,UDI,Udinese,17,38,10,19,9,39
+itl,2015,CAR,Carpi,18,38,9,18,11,38
+itl,2015,FRO,Frosinone,19,38,8,23,7,31
+itl,2015,VER,Hellas Verona,20,38,5,20,13,28
+itl,2016,JUV,Juventus,1,38,29,5,4,91
+itl,2016,ROMA,AS Roma,2,38,28,7,3,87
+itl,2016,NAP,Napoli,3,38,26,4,8,86
+itl,2016,ATA,Atalanta,4,38,21,8,9,72
+itl,2016,LAZ,Lazio,5,38,21,10,7,70
+itl,2016,MIL,AC Milan,6,38,18,11,9,63
+itl,2016,INT,Internazionale,7,38,19,14,5,62
+itl,2016,FIO,Fiorentina,8,38,16,10,12,60
+itl,2016,TOR,Torino,9,38,13,11,14,53
+itl,2016,SAM,Sampdoria,10,38,12,14,12,48
+itl,2016,CAG,Cagliari,11,38,14,19,5,47
+itl,2016,SAS,Sassuolo,12,38,13,18,7,46
+itl,2016,UDI,Udinese,13,38,12,17,9,45
+itl,2016,CVO,Chievo Verona,14,38,12,19,7,43
+itl,2016,BOL,Bologna,15,38,11,19,8,41
+itl,2016,GEN,Genoa,16,38,9,20,9,36
+itl,2016,CRO,Crotone,17,38,9,22,7,34
+itl,2016,EMP,Empoli,18,38,8,22,8,32
+itl,2016,PAL,Palermo,19,38,6,24,8,26
+itl,2016,PES,US Pescara,20,38,3,26,9,18
+itl,2017,JUV,Juventus,1,38,30,3,5,95
+itl,2017,NAP,Napoli,2,38,28,3,7,91
+itl,2017,ROMA,AS Roma,3,38,23,7,8,77
+itl,2017,INT,Internazionale,4,38,20,6,12,72
+itl,2017,LAZ,Lazio,5,38,21,8,9,72
+itl,2017,MIL,AC Milan,6,38,18,10,10,64
+itl,2017,ATA,Atalanta,7,38,16,10,12,60
+itl,2017,FIO,Fiorentina,8,38,16,13,9,57
+itl,2017,TOR,Torino,9,38,13,10,15,54
+itl,2017,SAM,Sampdoria,10,38,16,16,6,54
+itl,2017,SAS,Sassuolo,11,38,11,17,10,43
+itl,2017,GEN,Genoa,12,38,11,19,8,41
+itl,2017,CVO,Chievo Verona,13,38,10,18,10,40
+itl,2017,UDI,Udinese,14,38,12,22,4,40
+itl,2017,BOL,Bologna,15,38,11,21,6,39
+itl,2017,CAG,Cagliari,16,38,11,21,6,39
+itl,2017,SPA,SPAL,17,38,8,16,14,38
+itl,2017,CRO,Crotone,18,38,9,21,8,35
+itl,2017,VER,Hellas Verona,19,38,7,27,4,25
+itl,2017,BEN,Benevento,20,38,6,29,3,21
+itl,2018,JUV,Juventus,1,38,28,4,6,90
+itl,2018,NAP,Napoli,2,38,24,7,7,79
+itl,2018,ATA,Atalanta,3,38,20,9,9,69
+itl,2018,INT,Internazionale,4,38,20,9,9,69
+itl,2018,MIL,AC Milan,5,38,19,8,11,68
+itl,2018,ROMA,AS Roma,6,38,18,8,12,66
+itl,2018,TOR,Torino,7,38,16,7,15,63
+itl,2018,LAZ,Lazio,8,38,17,13,8,59
+itl,2018,SAM,Sampdoria,9,38,15,15,8,53
+itl,2018,BOL,Bologna,10,38,11,16,11,44
+itl,2018,SAS,Sassuolo,11,38,9,13,16,43
+itl,2018,UDI,Udinese,12,38,11,17,10,43
+itl,2018,SPA,SPAL,13,38,11,18,9,42
+itl,2018,PAR,Parma,14,38,10,17,11,41
+itl,2018,CAG,Cagliari,15,38,10,17,11,41
+itl,2018,FIO,Fiorentina,16,38,8,13,17,41
+itl,2018,GEN,Genoa,17,38,8,16,14,38
+itl,2018,EMP,Empoli,18,38,10,20,8,38
+itl,2018,FRO,Frosinone,19,38,5,23,10,25
+itl,2018,CVO,Chievo Verona,20,38,2,22,14,17
+itl,2019,JUV,Juventus,1,38,26,7,5,83
+itl,2019,INT,Internazionale,2,38,24,4,10,82
+itl,2019,ATA,Atalanta,3,38,23,6,9,78
+itl,2019,LAZ,Lazio,4,38,24,8,6,78
+itl,2019,ROMA,AS Roma,5,38,21,10,7,70
+itl,2019,MIL,AC Milan,6,38,19,10,9,66
+itl,2019,NAP,Napoli,7,38,18,12,8,62
+itl,2019,SAS,Sassuolo,8,38,14,15,9,51
+itl,2019,VER,Hellas Verona,9,38,12,13,13,49
+itl,2019,FIO,Fiorentina,10,38,12,13,13,49
+itl,2019,PAR,Parma,11,38,14,17,7,49
+itl,2019,BOL,Bologna,12,38,12,15,11,47
+itl,2019,UDI,Udinese,13,38,12,17,9,45
+itl,2019,CAG,Cagliari,14,38,11,15,12,45
+itl,2019,SAM,Sampdoria,15,38,12,20,6,42
+itl,2019,TOR,Torino,16,38,11,20,7,40
+itl,2019,GEN,Genoa,17,38,10,19,9,39
+itl,2019,LEC,Lecce,18,38,9,21,8,35
+itl,2019,BRE,Brescia,19,38,6,25,7,25
+itl,2019,SPA,SPAL,20,38,5,28,5,20
+itl,2020,INT,Internazionale,1,38,28,3,7,91
+itl,2020,MIL,AC Milan,2,38,24,7,7,79
+itl,2020,ATA,Atalanta,3,38,23,6,9,78
+itl,2020,JUV,Juventus,4,38,23,6,9,78
+itl,2020,NAP,Napoli,5,38,24,9,5,77
+itl,2020,LAZ,Lazio,6,38,21,12,5,68
+itl,2020,ROMA,AS Roma,7,38,18,12,8,62
+itl,2020,SAS,Sassuolo,8,38,17,10,11,62
+itl,2020,SAM,Sampdoria,9,38,15,16,7,52
+itl,2020,VER,Hellas Verona,10,38,11,15,12,45
+itl,2020,GEN,Genoa,11,38,10,16,12,42
+itl,2020,BOL,Bologna,12,38,10,17,11,41
+itl,2020,FIO,Fiorentina,13,38,9,16,13,40
+itl,2020,UDI,Udinese,14,38,10,18,10,40
+itl,2020,SPE,Spezia,15,38,9,17,12,39
+itl,2020,CAG,Cagliari,16,38,9,19,10,37
+itl,2020,TOR,Torino,17,38,7,15,16,37
+itl,2020,BEN,Benevento,18,38,7,19,12,33
+itl,2020,CRO,Crotone,19,38,6,27,5,23
+itl,2020,PAR,Parma,20,38,3,24,11,20
+itl,2021,MIL,AC Milan,1,38,26,4,8,86
+itl,2021,INT,Internazionale,2,38,25,4,9,84
+itl,2021,NAP,Napoli,3,38,24,7,7,79
+itl,2021,JUV,Juventus,4,38,20,8,10,70
+itl,2021,LAZ,Lazio,5,38,18,10,10,64
+itl,2021,ROMA,AS Roma,6,38,18,11,9,63
+itl,2021,FIO,Fiorentina,7,38,19,14,5,62
+itl,2021,ATA,Atalanta,8,38,16,11,11,59
+itl,2021,VER,Hellas Verona,9,38,14,13,11,53
+itl,2021,TOR,Torino,10,38,13,14,11,50
+itl,2021,SAS,Sassuolo,11,38,13,14,11,50
+itl,2021,UDI,Udinese,12,38,11,13,14,47
+itl,2021,BOL,Bologna,13,38,12,16,10,46
+itl,2021,EMP,Empoli,14,38,10,17,11,41
+itl,2021,SAM,Sampdoria,15,38,10,22,6,36
+itl,2021,SPE,Spezia,16,38,10,22,6,36
+itl,2021,SAL,Salernitana,17,38,7,21,10,31
+itl,2021,CAG,Cagliari,18,38,6,20,12,30
+itl,2021,GEN,Genoa,19,38,4,18,16,28
+itl,2021,VEN,Venezia,20,38,6,23,9,27
+itl,2022,NAP,Napoli,1,38,28,4,6,90
+itl,2022,LAZ,Lazio,2,38,22,8,8,74
+itl,2022,INT,Internazionale,3,38,23,12,3,72
+itl,2022,MIL,AC Milan,4,38,20,8,10,70
+itl,2022,ATA,Atalanta,5,38,19,12,7,64
+itl,2022,ROMA,AS Roma,6,38,18,11,9,63
+itl,2022,JUV,Juventus,7,38,22,10,6,62
+itl,2022,FIO,Fiorentina,8,38,15,12,11,56
+itl,2022,BOL,Bologna,9,38,14,12,12,54
+itl,2022,TOR,Torino,10,38,14,13,11,53
+itl,2022,MON,Monza,11,38,14,14,10,52
+itl,2022,UDI,Udinese,12,38,11,14,13,46
+itl,2022,SAS,Sassuolo,13,38,12,17,9,45
+itl,2022,EMP,Empoli,14,38,10,15,13,43
+itl,2022,SAL,Salernitana,15,38,9,14,15,42
+itl,2022,LEC,Lecce,16,38,8,18,12,36
+itl,2022,SPE,Spezia,17,38,6,19,13,31
+itl,2022,VER,Hellas Verona,18,38,7,21,10,31
+itl,2022,CRE,Cremonese,19,38,5,21,12,27
+itl,2022,SAM,Sampdoria,20,38,3,25,10,19
+mlb,2013,BOS,Boston Red Sox,1,162,97,65,0,0
+mlb,2013,STL,St. Louis Cardinals,2,162,97,65,0,0
+mlb,2013,OAK,Oakland Athletics,3,162,96,66,0,0
+mlb,2013,ATL,Atlanta Braves,4,162,96,66,0,0
+mlb,2013,PIT,Pittsburgh Pirates,5,162,94,68,0,0
+mlb,2013,DET,Detroit Tigers,6,162,93,69,0,0
+mlb,2013,LAD,Los Angeles Dodgers,7,162,92,70,0,0
+mlb,2013,CLE,Cleveland Indians,8,162,92,70,0,0
+mlb,2013,TB,Tampa Bay Rays,9,163,92,71,0,0
+mlb,2013,TEX,Texas Rangers,10,163,91,72,0,0
+mlb,2013,CIN,Cincinnati Reds,11,162,90,72,0,0
+mlb,2013,WAS,Washington Nationals,12,162,86,76,0,0
+mlb,2013,KC,Kansas City Royals,13,162,86,76,0,0
+mlb,2013,NYY,New York Yankees,14,162,85,77,0,0
+mlb,2013,BAL,Baltimore Orioles,15,162,85,77,0,0
+mlb,2013,ARI,Arizona Diamondbacks,16,162,81,81,0,0
+mlb,2013,LAA,Los Angeles Angels,17,162,78,84,0,0
+mlb,2013,SF,San Francisco Giants,18,162,76,86,0,0
+mlb,2013,SD,San Diego Padres,19,162,76,86,0,0
+mlb,2013,COL,Colorado Rockies,20,162,74,88,0,0
+mlb,2013,MIL,Milwaukee Brewers,21,162,74,88,0,0
+mlb,2013,TOR,Toronto Blue Jays,22,162,74,88,0,0
+mlb,2013,NYM,New York Mets,23,162,74,88,0,0
+mlb,2013,PHI,Philadelphia Phillies,24,162,73,89,0,0
+mlb,2013,SEA,Seattle Mariners,25,162,71,91,0,0
+mlb,2013,MIN,Minnesota Twins,26,162,66,96,0,0
+mlb,2013,CHC,Chicago Cubs,27,162,66,96,0,0
+mlb,2013,CHW,Chicago White Sox,28,162,63,99,0,0
+mlb,2013,MIA,Miami Marlins,29,162,62,100,0,0
+mlb,2013,HOU,Houston Astros,30,162,51,111,0,0
+mlb,2014,LAA,Los Angeles Angels,1,162,98,64,0,0
+mlb,2014,WAS,Washington Nationals,2,162,96,66,0,0
+mlb,2014,BAL,Baltimore Orioles,3,162,96,66,0,0
+mlb,2014,LAD,Los Angeles Dodgers,4,162,94,68,0,0
+mlb,2014,DET,Detroit Tigers,5,162,90,72,0,0
+mlb,2014,STL,St. Louis Cardinals,6,162,90,72,0,0
+mlb,2014,KC,Kansas City Royals,7,162,89,73,0,0
+mlb,2014,PIT,Pittsburgh Pirates,8,162,88,74,0,0
+mlb,2014,OAK,Oakland Athletics,9,162,88,74,0,0
+mlb,2014,SF,San Francisco Giants,10,162,88,74,0,0
+mlb,2014,SEA,Seattle Mariners,11,162,87,75,0,0
+mlb,2014,CLE,Cleveland Indians,12,162,85,77,0,0
+mlb,2014,NYY,New York Yankees,13,162,84,78,0,0
+mlb,2014,TOR,Toronto Blue Jays,14,162,83,79,0,0
+mlb,2014,MIL,Milwaukee Brewers,15,162,82,80,0,0
+mlb,2014,NYM,New York Mets,16,162,79,83,0,0
+mlb,2014,ATL,Atlanta Braves,17,162,79,83,0,0
+mlb,2014,SD,San Diego Padres,18,162,77,85,0,0
+mlb,2014,MIA,Miami Marlins,19,162,77,85,0,0
+mlb,2014,TB,Tampa Bay Rays,20,162,77,85,0,0
+mlb,2014,CIN,Cincinnati Reds,21,162,76,86,0,0
+mlb,2014,CHW,Chicago White Sox,22,162,73,89,0,0
+mlb,2014,PHI,Philadelphia Phillies,23,162,73,89,0,0
+mlb,2014,CHC,Chicago Cubs,24,162,73,89,0,0
+mlb,2014,BOS,Boston Red Sox,25,162,71,91,0,0
+mlb,2014,HOU,Houston Astros,26,162,70,92,0,0
+mlb,2014,MIN,Minnesota Twins,27,162,70,92,0,0
+mlb,2014,TEX,Texas Rangers,28,162,67,95,0,0
+mlb,2014,COL,Colorado Rockies,29,162,66,96,0,0
+mlb,2014,ARI,Arizona Diamondbacks,30,162,64,98,0,0
+mlb,2015,STL,St. Louis Cardinals,1,162,100,62,0,0
+mlb,2015,PIT,Pittsburgh Pirates,2,162,98,64,0,0
+mlb,2015,CHC,Chicago Cubs,3,162,97,65,0,0
+mlb,2015,KC,Kansas City Royals,4,162,95,67,0,0
+mlb,2015,TOR,Toronto Blue Jays,5,162,93,69,0,0
+mlb,2015,LAD,Los Angeles Dodgers,6,162,92,70,0,0
+mlb,2015,NYM,New York Mets,7,162,90,72,0,0
+mlb,2015,TEX,Texas Rangers,8,162,88,74,0,0
+mlb,2015,NYY,New York Yankees,9,162,87,75,0,0
+mlb,2015,HOU,Houston Astros,10,162,86,76,0,0
+mlb,2015,LAA,Los Angeles Angels,11,162,85,77,0,0
+mlb,2015,SF,San Francisco Giants,12,162,84,78,0,0
+mlb,2015,MIN,Minnesota Twins,13,162,83,79,0,0
+mlb,2015,WAS,Washington Nationals,14,162,83,79,0,0
+mlb,2015,CLE,Cleveland Indians,15,161,81,80,0,0
+mlb,2015,BAL,Baltimore Orioles,16,162,81,81,0,0
+mlb,2015,TB,Tampa Bay Rays,17,162,80,82,0,0
+mlb,2015,ARI,Arizona Diamondbacks,18,162,79,83,0,0
+mlb,2015,BOS,Boston Red Sox,19,162,78,84,0,0
+mlb,2015,CHW,Chicago White Sox,20,162,76,86,0,0
+mlb,2015,SEA,Seattle Mariners,21,162,76,86,0,0
+mlb,2015,DET,Detroit Tigers,22,161,74,87,0,0
+mlb,2015,SD,San Diego Padres,23,162,74,88,0,0
+mlb,2015,MIA,Miami Marlins,24,162,71,91,0,0
+mlb,2015,COL,Colorado Rockies,25,162,68,94,0,0
+mlb,2015,MIL,Milwaukee Brewers,26,162,68,94,0,0
+mlb,2015,OAK,Oakland Athletics,27,162,68,94,0,0
+mlb,2015,ATL,Atlanta Braves,28,162,67,95,0,0
+mlb,2015,CIN,Cincinnati Reds,29,162,64,98,0,0
+mlb,2015,PHI,Philadelphia Phillies,30,162,63,99,0,0
+mlb,2016,CHC,Chicago Cubs,1,161,103,58,0,0
+mlb,2016,TEX,Texas Rangers,2,162,95,67,0,0
+mlb,2016,WAS,Washington Nationals,3,162,95,67,0,0
+mlb,2016,CLE,Cleveland Indians,4,161,94,67,0,0
+mlb,2016,BOS,Boston Red Sox,5,162,93,69,0,0
+mlb,2016,LAD,Los Angeles Dodgers,6,162,91,71,0,0
+mlb,2016,BAL,Baltimore Orioles,7,162,89,73,0,0
+mlb,2016,TOR,Toronto Blue Jays,8,162,89,73,0,0
+mlb,2016,NYM,New York Mets,9,162,87,75,0,0
+mlb,2016,SF,San Francisco Giants,10,162,87,75,0,0
+mlb,2016,DET,Detroit Tigers,11,161,86,75,0,0
+mlb,2016,STL,St. Louis Cardinals,12,162,86,76,0,0
+mlb,2016,SEA,Seattle Mariners,13,162,86,76,0,0
+mlb,2016,NYY,New York Yankees,14,162,84,78,0,0
+mlb,2016,HOU,Houston Astros,15,162,84,78,0,0
+mlb,2016,KC,Kansas City Royals,16,162,81,81,0,0
+mlb,2016,MIA,Miami Marlins,17,161,79,82,0,0
+mlb,2016,PIT,Pittsburgh Pirates,18,161,78,83,0,0
+mlb,2016,CHW,Chicago White Sox,19,162,78,84,0,0
+mlb,2016,COL,Colorado Rockies,20,162,75,87,0,0
+mlb,2016,LAA,Los Angeles Angels,21,162,74,88,0,0
+mlb,2016,MIL,Milwaukee Brewers,22,162,73,89,0,0
+mlb,2016,PHI,Philadelphia Phillies,23,162,71,91,0,0
+mlb,2016,ARI,Arizona Diamondbacks,24,162,69,93,0,0
+mlb,2016,OAK,Oakland Athletics,25,162,69,93,0,0
+mlb,2016,ATL,Atlanta Braves,26,161,68,93,0,0
+mlb,2016,SD,San Diego Padres,27,162,68,94,0,0
+mlb,2016,TB,Tampa Bay Rays,28,162,68,94,0,0
+mlb,2016,CIN,Cincinnati Reds,29,162,68,94,0,0
+mlb,2016,MIN,Minnesota Twins,30,162,59,103,0,0
+mlb,2017,LAD,Los Angeles Dodgers,1,162,104,58,0,0
+mlb,2017,CLE,Cleveland Indians,2,162,102,60,0,0
+mlb,2017,HOU,Houston Astros,3,162,101,61,0,0
+mlb,2017,WAS,Washington Nationals,4,162,97,65,0,0
+mlb,2017,BOS,Boston Red Sox,5,162,93,69,0,0
+mlb,2017,ARI,Arizona Diamondbacks,6,162,93,69,0,0
+mlb,2017,CHC,Chicago Cubs,7,162,92,70,0,0
+mlb,2017,NYY,New York Yankees,8,162,91,71,0,0
+mlb,2017,COL,Colorado Rockies,9,162,87,75,0,0
+mlb,2017,MIL,Milwaukee Brewers,10,162,86,76,0,0
+mlb,2017,MIN,Minnesota Twins,11,162,85,77,0,0
+mlb,2017,STL,St. Louis Cardinals,12,162,83,79,0,0
+mlb,2017,KC,Kansas City Royals,13,162,80,82,0,0
+mlb,2017,TB,Tampa Bay Rays,14,162,80,82,0,0
+mlb,2017,LAA,Los Angeles Angels,15,162,80,82,0,0
+mlb,2017,SEA,Seattle Mariners,16,162,78,84,0,0
+mlb,2017,TEX,Texas Rangers,17,162,78,84,0,0
+mlb,2017,MIA,Miami Marlins,18,162,77,85,0,0
+mlb,2017,TOR,Toronto Blue Jays,19,162,76,86,0,0
+mlb,2017,PIT,Pittsburgh Pirates,20,162,75,87,0,0
+mlb,2017,BAL,Baltimore Orioles,21,162,75,87,0,0
+mlb,2017,OAK,Oakland Athletics,22,162,75,87,0,0
+mlb,2017,ATL,Atlanta Braves,23,162,72,90,0,0
+mlb,2017,SD,San Diego Padres,24,162,71,91,0,0
+mlb,2017,NYM,New York Mets,25,162,70,92,0,0
+mlb,2017,CIN,Cincinnati Reds,26,162,68,94,0,0
+mlb,2017,CHW,Chicago White Sox,27,162,67,95,0,0
+mlb,2017,PHI,Philadelphia Phillies,28,162,66,96,0,0
+mlb,2017,DET,Detroit Tigers,29,162,64,98,0,0
+mlb,2017,SF,San Francisco Giants,30,162,64,98,0,0
+mlb,2018,BOS,Boston Red Sox,1,162,108,54,0,0
+mlb,2018,HOU,Houston Astros,2,162,103,59,0,0
+mlb,2018,NYY,New York Yankees,3,162,100,62,0,0
+mlb,2018,OAK,Oakland Athletics,4,162,97,65,0,0
+mlb,2018,MIL,Milwaukee Brewers,5,163,96,67,0,0
+mlb,2018,CHC,Chicago Cubs,6,163,95,68,0,0
+mlb,2018,LAD,Los Angeles Dodgers,7,163,92,71,0,0
+mlb,2018,CLE,Cleveland Indians,8,162,91,71,0,0
+mlb,2018,COL,Colorado Rockies,9,163,91,72,0,0
+mlb,2018,ATL,Atlanta Braves,10,162,90,72,0,0
+mlb,2018,TB,Tampa Bay Rays,11,162,90,72,0,0
+mlb,2018,SEA,Seattle Mariners,12,162,89,73,0,0
+mlb,2018,STL,St. Louis Cardinals,13,162,88,74,0,0
+mlb,2018,PIT,Pittsburgh Pirates,14,162,83,79,0,0
+mlb,2018,WAS,Washington Nationals,15,162,82,80,0,0
+mlb,2018,ARI,Arizona Diamondbacks,16,163,82,81,0,0
+mlb,2018,LAA,Los Angeles Angels,17,162,80,82,0,0
+mlb,2018,PHI,Philadelphia Phillies,18,162,80,82,0,0
+mlb,2018,MIN,Minnesota Twins,19,162,78,84,0,0
+mlb,2018,NYM,New York Mets,20,162,77,85,0,0
+mlb,2018,TOR,Toronto Blue Jays,21,162,73,89,0,0
+mlb,2018,SF,San Francisco Giants,22,162,73,89,0,0
+mlb,2018,TEX,Texas Rangers,23,162,67,95,0,0
+mlb,2018,CIN,Cincinnati Reds,24,162,67,95,0,0
+mlb,2018,SD,San Diego Padres,25,162,66,96,0,0
+mlb,2018,DET,Detroit Tigers,26,162,64,98,0,0
+mlb,2018,MIA,Miami Marlins,27,161,63,98,0,0
+mlb,2018,CHW,Chicago White Sox,28,162,62,100,0,0
+mlb,2018,KC,Kansas City Royals,29,162,58,104,0,0
+mlb,2018,BAL,Baltimore Orioles,30,162,47,115,0,0
+mlb,2019,HOU,Houston Astros,1,162,107,55,0,0
+mlb,2019,LAD,Los Angeles Dodgers,2,162,106,56,0,0
+mlb,2019,NYY,New York Yankees,3,162,103,59,0,0
+mlb,2019,MIN,Minnesota Twins,4,162,101,61,0,0
+mlb,2019,ATL,Atlanta Braves,5,162,97,65,0,0
+mlb,2019,OAK,Oakland Athletics,6,162,97,65,0,0
+mlb,2019,TB,Tampa Bay Rays,7,162,96,66,0,0
+mlb,2019,WAS,Washington Nationals,8,162,93,69,0,0
+mlb,2019,CLE,Cleveland Indians,9,162,93,69,0,0
+mlb,2019,STL,St. Louis Cardinals,10,162,91,71,0,0
+mlb,2019,MIL,Milwaukee Brewers,11,162,89,73,0,0
+mlb,2019,NYM,New York Mets,12,162,86,76,0,0
+mlb,2019,ARI,Arizona Diamondbacks,13,162,85,77,0,0
+mlb,2019,BOS,Boston Red Sox,14,162,84,78,0,0
+mlb,2019,CHC,Chicago Cubs,15,162,84,78,0,0
+mlb,2019,PHI,Philadelphia Phillies,16,162,81,81,0,0
+mlb,2019,TEX,Texas Rangers,17,162,78,84,0,0
+mlb,2019,SF,San Francisco Giants,18,162,77,85,0,0
+mlb,2019,CIN,Cincinnati Reds,19,162,75,87,0,0
+mlb,2019,CHW,Chicago White Sox,20,161,72,89,0,0
+mlb,2019,LAA,Los Angeles Angels,21,162,72,90,0,0
+mlb,2019,COL,Colorado Rockies,22,162,71,91,0,0
+mlb,2019,SD,San Diego Padres,23,162,70,92,0,0
+mlb,2019,PIT,Pittsburgh Pirates,24,162,69,93,0,0
+mlb,2019,SEA,Seattle Mariners,25,162,68,94,0,0
+mlb,2019,TOR,Toronto Blue Jays,26,162,67,95,0,0
+mlb,2019,KC,Kansas City Royals,27,162,59,103,0,0
+mlb,2019,MIA,Miami Marlins,28,162,57,105,0,0
+mlb,2019,BAL,Baltimore Orioles,29,162,54,108,0,0
+mlb,2019,DET,Detroit Tigers,30,161,47,114,0,0
+mlb,2020,LAD,Los Angeles Dodgers,1,60,43,17,0,0
+mlb,2020,TB,Tampa Bay Rays,2,60,40,20,0,0
+mlb,2020,SD,San Diego Padres,3,60,37,23,0,0
+mlb,2020,MIN,Minnesota Twins,4,60,36,24,0,0
+mlb,2020,OAK,Oakland Athletics,5,60,36,24,0,0
+mlb,2020,ATL,Atlanta Braves,6,60,35,25,0,0
+mlb,2020,CHW,Chicago White Sox,7,60,35,25,0,0
+mlb,2020,CLE,Cleveland Indians,8,60,35,25,0,0
+mlb,2020,CHC,Chicago Cubs,9,60,34,26,0,0
+mlb,2020,NYY,New York Yankees,10,60,33,27,0,0
+mlb,2020,TOR,Toronto Blue Jays,11,60,32,28,0,0
+mlb,2020,STL,St. Louis Cardinals,12,58,30,28,0,0
+mlb,2020,CIN,Cincinnati Reds,13,60,31,29,0,0
+mlb,2020,MIA,Miami Marlins,14,60,31,29,0,0
+mlb,2020,MIL,Milwaukee Brewers,15,60,29,31,0,0
+mlb,2020,HOU,Houston Astros,16,60,29,31,0,0
+mlb,2020,SF,San Francisco Giants,17,60,29,31,0,0
+mlb,2020,PHI,Philadelphia Phillies,18,60,28,32,0,0
+mlb,2020,SEA,Seattle Mariners,19,60,27,33,0,0
+mlb,2020,KC,Kansas City Royals,20,60,26,34,0,0
+mlb,2020,LAA,Los Angeles Angels,21,60,26,34,0,0
+mlb,2020,COL,Colorado Rockies,22,60,26,34,0,0
+mlb,2020,NYM,New York Mets,23,60,26,34,0,0
+mlb,2020,WAS,Washington Nationals,24,60,26,34,0,0
+mlb,2020,BAL,Baltimore Orioles,25,60,25,35,0,0
+mlb,2020,ARI,Arizona Diamondbacks,26,60,25,35,0,0
+mlb,2020,BOS,Boston Red Sox,27,60,24,36,0,0
+mlb,2020,DET,Detroit Tigers,28,58,23,35,0,0
+mlb,2020,TEX,Texas Rangers,29,60,22,38,0,0
+mlb,2020,PIT,Pittsburgh Pirates,30,60,19,41,0,0
+mlb,2021,SF,San Francisco Giants,1,162,107,55,0,0
+mlb,2021,LAD,Los Angeles Dodgers,2,162,106,56,0,0
+mlb,2021,TB,Tampa Bay Rays,3,162,100,62,0,0
+mlb,2021,MIL,Milwaukee Brewers,4,162,95,67,0,0
+mlb,2021,HOU,Houston Astros,5,162,95,67,0,0
+mlb,2021,CHW,Chicago White Sox,6,162,93,69,0,0
+mlb,2021,BOS,Boston Red Sox,7,162,92,70,0,0
+mlb,2021,NYY,New York Yankees,8,162,92,70,0,0
+mlb,2021,TOR,Toronto Blue Jays,9,162,91,71,0,0
+mlb,2021,STL,St. Louis Cardinals,10,162,90,72,0,0
+mlb,2021,SEA,Seattle Mariners,11,162,90,72,0,0
+mlb,2021,ATL,Atlanta Braves,12,161,88,73,0,0
+mlb,2021,OAK,Oakland Athletics,13,162,86,76,0,0
+mlb,2021,CIN,Cincinnati Reds,14,162,83,79,0,0
+mlb,2021,PHI,Philadelphia Phillies,15,162,82,80,0,0
+mlb,2021,CLE,Cleveland Indians,16,162,80,82,0,0
+mlb,2021,SD,San Diego Padres,17,162,79,83,0,0
+mlb,2021,NYM,New York Mets,18,162,77,85,0,0
+mlb,2021,LAA,Los Angeles Angels,19,162,77,85,0,0
+mlb,2021,DET,Detroit Tigers,20,162,77,85,0,0
+mlb,2021,COL,Colorado Rockies,21,161,74,87,0,0
+mlb,2021,KC,Kansas City Royals,22,162,74,88,0,0
+mlb,2021,MIN,Minnesota Twins,23,162,73,89,0,0
+mlb,2021,CHC,Chicago Cubs,24,162,71,91,0,0
+mlb,2021,MIA,Miami Marlins,25,162,67,95,0,0
+mlb,2021,WAS,Washington Nationals,26,162,65,97,0,0
+mlb,2021,PIT,Pittsburgh Pirates,27,162,61,101,0,0
+mlb,2021,TEX,Texas Rangers,28,162,60,102,0,0
+mlb,2021,BAL,Baltimore Orioles,29,162,52,110,0,0
+mlb,2021,ARI,Arizona Diamondbacks,30,162,52,110,0,0
+mlb,2022,LAD,Los Angeles Dodgers,1,162,111,51,0,0
+mlb,2022,HOU,Houston Astros,2,162,106,56,0,0
+mlb,2022,ATL,Atlanta Braves,3,162,101,61,0,0
+mlb,2022,NYM,New York Mets,4,162,101,61,0,0
+mlb,2022,NYY,New York Yankees,5,162,99,63,0,0
+mlb,2022,STL,St. Louis Cardinals,6,162,93,69,0,0
+mlb,2022,CLE,Cleveland Guardians,7,162,92,70,0,0
+mlb,2022,TOR,Toronto Blue Jays,8,162,92,70,0,0
+mlb,2022,SEA,Seattle Mariners,9,162,90,72,0,0
+mlb,2022,SD,San Diego Padres,10,162,89,73,0,0
+mlb,2022,PHI,Philadelphia Phillies,11,162,87,75,0,0
+mlb,2022,TB,Tampa Bay Rays,12,162,86,76,0,0
+mlb,2022,MIL,Milwaukee Brewers,13,162,86,76,0,0
+mlb,2022,BAL,Baltimore Orioles,14,162,83,79,0,0
+mlb,2022,CHW,Chicago White Sox,15,162,81,81,0,0
+mlb,2022,SF,San Francisco Giants,16,162,81,81,0,0
+mlb,2022,MIN,Minnesota Twins,17,162,78,84,0,0
+mlb,2022,BOS,Boston Red Sox,18,162,78,84,0,0
+mlb,2022,ARI,Arizona Diamondbacks,19,162,74,88,0,0
+mlb,2022,CHC,Chicago Cubs,20,162,74,88,0,0
+mlb,2022,LAA,Los Angeles Angels,21,162,73,89,0,0
+mlb,2022,MIA,Miami Marlins,22,162,69,93,0,0
+mlb,2022,TEX,Texas Rangers,23,162,68,94,0,0
+mlb,2022,COL,Colorado Rockies,24,162,68,94,0,0
+mlb,2022,DET,Detroit Tigers,25,162,66,96,0,0
+mlb,2022,KC,Kansas City Royals,26,162,65,97,0,0
+mlb,2022,PIT,Pittsburgh Pirates,27,162,62,100,0,0
+mlb,2022,CIN,Cincinnati Reds,28,162,62,100,0,0
+mlb,2022,OAK,Oakland Athletics,29,162,60,102,0,0
+mlb,2022,WAS,Washington Nationals,30,162,55,107,0,0
+mls,2013,NY,New York Red Bulls,1,34,17,9,8,59
+mls,2013,SKC,Sporting Kansas City,2,34,17,10,7,58
+mls,2013,POR,Portland Timbers,3,34,14,5,15,57
+mls,2013,RSL,Real Salt Lake,4,34,16,10,8,56
+mls,2013,LA,LA Galaxy,5,34,15,11,8,53
+mls,2013,SEA,Seattle Sounders FC,6,34,15,12,7,52
+mls,2013,NE,New England Revolution,7,34,14,11,9,51
+mls,2013,HOU,Houston Dynamo FC,8,34,14,11,9,51
+mls,2013,COL,Colorado Rapids,9,34,14,11,9,51
+mls,2013,SJ,San Jose Earthquakes,10,34,14,11,9,51
+mls,2013,MTL,CF Montréal,11,34,14,13,7,49
+mls,2013,CHI,Chicago Fire FC,12,34,14,13,7,49
+mls,2013,VAN,Vancouver Whitecaps,13,34,13,12,9,48
+mls,2013,PHI,Philadelphia Union,14,34,12,12,10,46
+mls,2013,DAL,FC Dallas,15,34,11,12,11,44
+mls,2013,CLB,Columbus Crew,16,34,12,17,5,41
+mls,2013,TOR,Toronto FC,17,34,6,17,11,29
+mls,2013,CHV,Chivas USA,18,34,6,20,8,26
+mls,2013,DC,D.C. United,19,34,3,24,7,16
+mls,2014,SEA,Seattle Sounders FC,1,34,20,10,4,64
+mls,2014,LA,LA Galaxy,2,34,17,7,10,61
+mls,2014,DC,D.C. United,3,34,17,9,8,59
+mls,2014,RSL,Real Salt Lake,4,34,15,8,11,56
+mls,2014,NE,New England Revolution,5,34,17,13,4,55
+mls,2014,DAL,FC Dallas,6,34,16,12,6,54
+mls,2014,CLB,Columbus Crew,7,34,14,10,10,52
+mls,2014,NY,New York Red Bulls,8,34,13,10,11,50
+mls,2014,VAN,Vancouver Whitecaps,9,34,12,8,14,50
+mls,2014,SKC,Sporting Kansas City,10,34,14,13,7,49
+mls,2014,POR,Portland Timbers,11,34,12,9,13,49
+mls,2014,PHI,Philadelphia Union,12,34,10,12,12,42
+mls,2014,TOR,Toronto FC,13,34,11,15,8,41
+mls,2014,HOU,Houston Dynamo FC,14,34,11,17,6,39
+mls,2014,CHI,Chicago Fire FC,15,34,6,10,18,36
+mls,2014,CHV,Chivas USA,16,34,9,19,6,33
+mls,2014,COL,Colorado Rapids,17,34,8,18,8,32
+mls,2014,SJ,San Jose Earthquakes,18,34,6,16,12,30
+mls,2014,MTL,CF Montréal,19,34,6,18,10,28
+mls,2015,NY,New York Red Bulls,1,34,18,10,6,60
+mls,2015,DAL,FC Dallas,2,34,18,10,6,60
+mls,2015,VAN,Vancouver Whitecaps,3,34,16,13,5,53
+mls,2015,CLB,Columbus Crew,4,34,15,11,8,53
+mls,2015,POR,Portland Timbers,5,34,15,11,8,53
+mls,2015,MTL,CF Montréal,6,34,15,13,6,51
+mls,2015,DC,D.C. United,7,34,15,13,6,51
+mls,2015,SEA,Seattle Sounders FC,8,34,15,13,6,51
+mls,2015,LA,LA Galaxy,9,34,14,11,9,51
+mls,2015,SKC,Sporting Kansas City,10,34,14,11,9,51
+mls,2015,NE,New England Revolution,11,34,14,12,8,50
+mls,2015,TOR,Toronto FC,12,34,15,15,4,49
+mls,2015,SJ,San Jose Earthquakes,13,34,13,13,8,47
+mls,2015,ORL,Orlando City SC,14,34,12,14,8,44
+mls,2015,HOU,Houston Dynamo FC,15,34,11,14,9,42
+mls,2015,RSL,Real Salt Lake,16,34,11,15,8,41
+mls,2015,NYC,New York City FC,17,34,10,17,7,37
+mls,2015,PHI,Philadelphia Union,18,34,10,17,7,37
+mls,2015,COL,Colorado Rapids,19,34,9,15,10,37
+mls,2015,CHI,Chicago Fire FC,20,34,8,20,6,30
+mls,2016,DAL,FC Dallas,1,34,17,8,9,60
+mls,2016,COL,Colorado Rapids,2,34,15,6,13,58
+mls,2016,NY,New York Red Bulls,3,34,16,9,9,57
+mls,2016,NYC,New York City FC,4,34,15,10,9,54
+mls,2016,TOR,Toronto FC,5,34,14,9,11,53
+mls,2016,LA,LA Galaxy,6,34,12,6,16,52
+mls,2016,SEA,Seattle Sounders FC,7,34,14,14,6,48
+mls,2016,SKC,Sporting Kansas City,8,34,13,13,8,47
+mls,2016,RSL,Real Salt Lake,9,34,12,12,10,46
+mls,2016,DC,D.C. United,10,34,11,10,13,46
+mls,2016,MTL,CF Montréal,11,34,11,11,12,45
+mls,2016,POR,Portland Timbers,12,34,12,14,8,44
+mls,2016,PHI,Philadelphia Union,13,34,11,14,9,42
+mls,2016,NE,New England Revolution,14,34,11,14,9,42
+mls,2016,ORL,Orlando City SC,15,34,9,11,14,41
+mls,2016,VAN,Vancouver Whitecaps,16,34,10,15,9,39
+mls,2016,SJ,San Jose Earthquakes,17,34,8,12,14,38
+mls,2016,CLB,Columbus Crew,18,34,8,14,12,36
+mls,2016,HOU,Houston Dynamo FC,19,34,7,14,13,34
+mls,2016,CHI,Chicago Fire FC,20,34,7,17,10,31
+mls,2017,TOR,Toronto FC,1,34,20,5,9,69
+mls,2017,NYC,New York City FC,2,34,16,9,9,57
+mls,2017,CHI,Chicago Fire FC,3,34,16,11,7,55
+mls,2017,ATL,Atlanta United FC,4,34,15,9,10,55
+mls,2017,CLB,Columbus Crew,5,34,16,12,6,54
+mls,2017,POR,Portland Timbers,6,34,15,11,8,53
+mls,2017,SEA,Seattle Sounders FC,7,34,14,9,11,53
+mls,2017,VAN,Vancouver Whitecaps,8,34,15,12,7,52
+mls,2017,NY,New York Red Bulls,9,34,14,12,8,50
+mls,2017,HOU,Houston Dynamo FC,10,34,13,10,11,50
+mls,2017,SKC,Sporting Kansas City,11,34,12,9,13,49
+mls,2017,SJ,San Jose Earthquakes,12,34,13,14,7,46
+mls,2017,DAL,FC Dallas,13,34,11,10,13,46
+mls,2017,NE,New England Revolution,14,34,13,15,6,45
+mls,2017,RSL,Real Salt Lake,15,34,13,15,6,45
+mls,2017,PHI,Philadelphia Union,16,34,11,14,9,42
+mls,2017,MTL,CF Montréal,17,34,11,17,6,39
+mls,2017,ORL,Orlando City SC,18,34,10,15,9,39
+mls,2017,MIN,Minnesota United FC,19,34,10,18,6,36
+mls,2017,COL,Colorado Rapids,20,34,9,19,6,33
+mls,2017,DC,D.C. United,21,34,9,20,5,32
+mls,2017,LA,LA Galaxy,22,34,8,18,8,32
+mls,2018,NY,New York Red Bulls,1,34,22,7,5,71
+mls,2018,ATL,Atlanta United FC,2,34,21,7,6,69
+mls,2018,SKC,Sporting Kansas City,3,34,18,8,8,62
+mls,2018,SEA,Seattle Sounders FC,4,34,18,11,5,59
+mls,2018,LAFC,LAFC,5,34,16,9,9,57
+mls,2018,DAL,FC Dallas,6,34,16,9,9,57
+mls,2018,NYC,New York City FC,7,34,16,10,8,56
+mls,2018,POR,Portland Timbers,8,34,15,10,9,54
+mls,2018,DC,D.C. United,9,34,14,11,9,51
+mls,2018,CLB,Columbus Crew,10,34,14,11,9,51
+mls,2018,PHI,Philadelphia Union,11,34,15,14,5,50
+mls,2018,RSL,Real Salt Lake,12,34,14,13,7,49
+mls,2018,LA,LA Galaxy,13,34,13,12,9,48
+mls,2018,VAN,Vancouver Whitecaps,14,34,13,13,8,47
+mls,2018,MTL,CF Montréal,15,34,14,16,4,46
+mls,2018,NE,New England Revolution,16,34,10,13,11,41
+mls,2018,HOU,Houston Dynamo FC,17,34,10,16,8,38
+mls,2018,MIN,Minnesota United FC,18,34,11,20,3,36
+mls,2018,TOR,Toronto FC,19,34,10,18,6,36
+mls,2018,CHI,Chicago Fire FC,20,34,8,18,8,32
+mls,2018,COL,Colorado Rapids,21,34,8,19,7,31
+mls,2018,ORL,Orlando City SC,22,34,8,22,4,28
+mls,2018,SJ,San Jose Earthquakes,23,34,4,21,9,21
+mls,2019,LAFC,LAFC,1,34,21,4,9,72
+mls,2019,NYC,New York City FC,2,34,18,6,10,64
+mls,2019,ATL,Atlanta United FC,3,34,18,12,4,58
+mls,2019,SEA,Seattle Sounders FC,4,34,16,10,8,56
+mls,2019,PHI,Philadelphia Union,5,34,16,11,7,55
+mls,2019,RSL,Real Salt Lake,6,34,16,13,5,53
+mls,2019,MIN,Minnesota United FC,7,34,15,11,8,53
+mls,2019,LA,LA Galaxy,8,34,16,15,3,51
+mls,2019,TOR,Toronto FC,9,34,13,10,11,50
+mls,2019,DC,D.C. United,10,34,13,10,11,50
+mls,2019,POR,Portland Timbers,11,34,14,13,7,49
+mls,2019,NY,New York Red Bulls,12,34,14,14,6,48
+mls,2019,DAL,FC Dallas,13,34,13,12,9,48
+mls,2019,NE,New England Revolution,14,34,11,11,12,45
+mls,2019,SJ,San Jose Earthquakes,15,34,13,16,5,44
+mls,2019,COL,Colorado Rapids,16,34,12,16,6,42
+mls,2019,CHI,Chicago Fire FC,17,34,10,12,12,42
+mls,2019,MTL,CF Montréal,18,34,12,17,5,41
+mls,2019,HOU,Houston Dynamo FC,19,34,12,18,4,40
+mls,2019,CLB,Columbus Crew,20,34,10,16,8,38
+mls,2019,SKC,Sporting Kansas City,21,34,10,16,8,38
+mls,2019,ORL,Orlando City SC,22,34,9,15,10,37
+mls,2019,VAN,Vancouver Whitecaps,23,34,8,16,10,34
+mls,2019,CIN,FC Cincinnati,24,34,6,22,6,24
+mls,2020,PHI,Philadelphia Union,1,23,14,4,5,47
+mls,2020,TOR,Toronto FC,2,23,13,5,5,44
+mls,2020,CLB,Columbus Crew,3,23,12,6,5,41
+mls,2020,ORL,Orlando City SC,4,23,11,4,8,41
+mls,2020,NYC,New York City FC,5,23,12,8,3,39
+mls,2020,POR,Portland Timbers,6,22,11,6,5,38
+mls,2020,SKC,Sporting Kansas City,7,20,11,6,3,36
+mls,2020,SEA,Seattle Sounders FC,8,21,10,5,6,36
+mls,2020,DAL,FC Dallas,9,21,9,5,7,34
+mls,2020,NY,New York Red Bulls,10,23,9,9,5,32
+mls,2020,NSH,Nashville SC,11,23,8,7,8,32
+mls,2020,NE,New England Revolution,12,23,8,7,8,32
+mls,2020,LAFC,LAFC,13,21,9,8,4,31
+mls,2020,MIN,Minnesota United FC,14,20,8,5,7,31
+mls,2020,SJ,San Jose Earthquakes,15,22,8,8,6,30
+mls,2020,MTL,CF Montréal,16,23,8,13,2,26
+mls,2020,COL,Colorado Rapids,17,17,7,6,4,25
+mls,2020,VAN,Vancouver Whitecaps,18,22,8,14,0,24
+mls,2020,MIA,Inter Miami CF,19,23,7,13,3,24
+mls,2020,CHI,Chicago Fire FC,20,23,5,10,8,23
+mls,2020,ATL,Atlanta United FC,21,23,6,13,4,22
+mls,2020,LA,LA Galaxy,22,21,6,11,4,22
+mls,2020,RSL,Real Salt Lake,23,21,5,9,7,22
+mls,2020,DC,D.C. United,24,23,5,12,6,21
+mls,2020,HOU,Houston Dynamo FC,25,22,4,9,9,21
+mls,2020,CIN,FC Cincinnati,26,23,4,15,4,16
+mls,2021,NE,New England Revolution,1,34,22,5,7,73
+mls,2021,COL,Colorado Rapids,2,34,17,7,10,61
+mls,2021,SEA,Seattle Sounders FC,3,34,17,8,9,60
+mls,2021,SKC,Sporting Kansas City,4,34,17,10,7,58
+mls,2021,POR,Portland Timbers,5,34,17,13,4,55
+mls,2021,PHI,Philadelphia Union,6,34,14,8,12,54
+mls,2021,NSH,Nashville SC,7,34,12,4,18,54
+mls,2021,NYC,New York City FC,8,34,14,11,9,51
+mls,2021,ATL,Atlanta United FC,9,34,13,9,12,51
+mls,2021,ORL,Orlando City SC,10,34,13,9,12,51
+mls,2021,MIN,Minnesota United FC,11,34,13,11,10,49
+mls,2021,VAN,Vancouver Whitecaps,12,34,12,9,13,49
+mls,2021,RSL,Real Salt Lake,13,34,14,14,6,48
+mls,2021,NY,New York Red Bulls,14,34,13,12,9,48
+mls,2021,LA,LA Galaxy,15,34,13,12,9,48
+mls,2021,DC,D.C. United,16,34,14,15,5,47
+mls,2021,CLB,Columbus Crew,17,34,13,13,8,47
+mls,2021,MTL,CF Montréal,18,34,12,12,10,46
+mls,2021,LAFC,LAFC,19,34,12,13,9,45
+mls,2021,MIA,Inter Miami CF,20,34,12,17,5,41
+mls,2021,SJ,San Jose Earthquakes,21,34,10,13,11,41
+mls,2021,CHI,Chicago Fire FC,22,34,9,18,7,34
+mls,2021,DAL,FC Dallas,23,34,7,15,12,33
+mls,2021,ATX,Austin FC,24,34,9,21,4,31
+mls,2021,HOU,Houston Dynamo FC,25,34,6,16,12,30
+mls,2021,TOR,Toronto FC,26,34,6,18,10,28
+mls,2021,CIN,FC Cincinnati,27,34,4,22,8,20
+mls,2022,LAFC,LAFC,1,34,21,9,4,67
+mls,2022,PHI,Philadelphia Union,2,34,19,5,10,67
+mls,2022,MTL,CF Montréal,3,34,20,9,5,65
+mls,2022,ATX,Austin FC,4,34,16,10,8,56
+mls,2022,NYC,New York City FC,5,34,16,11,7,55
+mls,2022,NY,New York Red Bulls,6,34,15,11,8,53
+mls,2022,DAL,FC Dallas,7,34,14,9,11,53
+mls,2022,LA,LA Galaxy,8,34,14,12,8,50
+mls,2022,NSH,Nashville SC,9,34,13,10,11,50
+mls,2022,CIN,FC Cincinnati,10,34,12,9,13,49
+mls,2022,MIA,Inter Miami CF,11,34,14,14,6,48
+mls,2022,ORL,Orlando City SC,12,34,14,14,6,48
+mls,2022,MIN,Minnesota United FC,13,34,14,14,6,48
+mls,2022,RSL,Real Salt Lake,14,34,12,11,11,47
+mls,2022,POR,Portland Timbers,15,34,11,10,13,46
+mls,2022,CLB,Columbus Crew,16,34,10,8,16,46
+mls,2022,VAN,Vancouver Whitecaps,17,34,12,15,7,43
+mls,2022,COL,Colorado Rapids,18,34,11,13,10,43
+mls,2022,CLT,Charlotte FC,19,34,13,18,3,42
+mls,2022,NE,New England Revolution,20,34,10,12,12,42
+mls,2022,SEA,Seattle Sounders FC,21,34,12,17,5,41
+mls,2022,SKC,Sporting Kansas City,22,34,11,16,7,40
+mls,2022,ATL,Atlanta United FC,23,34,10,14,10,40
+mls,2022,CHI,Chicago Fire FC,24,34,10,15,9,39
+mls,2022,HOU,Houston Dynamo FC,25,34,10,18,6,36
+mls,2022,SJ,San Jose Earthquakes,26,34,8,15,11,35
+mls,2022,TOR,Toronto FC,27,34,9,18,7,34
+mls,2022,DC,D.C. United,28,34,7,21,6,27
+nba,2013,SA,San Antonio Spurs,1,82,62,20,0,0
+nba,2013,OKC,Oklahoma City Thunder,2,82,59,23,0,0
+nba,2013,LAC,LA Clippers,3,82,57,25,0,0
+nba,2013,IND,Indiana Pacers,4,82,56,26,0,0
+nba,2013,MIA,Miami Heat,5,82,54,28,0,0
+nba,2013,HOU,Houston Rockets,6,82,54,28,0,0
+nba,2013,POR,Portland Trail Blazers,7,82,54,28,0,0
+nba,2013,GS,Golden State Warriors,8,82,51,31,0,0
+nba,2013,MEM,Memphis Grizzlies,9,82,50,32,0,0
+nba,2013,DAL,Dallas Mavericks,10,82,49,33,0,0
+nba,2013,TOR,Toronto Raptors,11,82,48,34,0,0
+nba,2013,CHI,Chicago Bulls,12,82,48,34,0,0
+nba,2013,PHX,Phoenix Suns,13,82,48,34,0,0
+nba,2013,WSH,Washington Wizards,14,82,44,38,0,0
+nba,2013,BKN,Brooklyn Nets,15,82,44,38,0,0
+nba,2013,CHA,Charlotte Bobcats,16,82,43,39,0,0
+nba,2013,MIN,Minnesota Timberwolves,17,82,40,42,0,0
+nba,2013,ATL,Atlanta Hawks,18,82,38,44,0,0
+nba,2013,NY,New York Knicks,19,82,37,45,0,0
+nba,2013,DEN,Denver Nuggets,20,82,36,46,0,0
+nba,2013,NO,New Orleans Pelicans,21,82,34,48,0,0
+nba,2013,CLE,Cleveland Cavaliers,22,82,33,49,0,0
+nba,2013,DET,Detroit Pistons,23,82,29,53,0,0
+nba,2013,SAC,Sacramento Kings,24,82,28,54,0,0
+nba,2013,LAL,Los Angeles Lakers,25,82,27,55,0,0
+nba,2013,BOS,Boston Celtics,26,82,25,57,0,0
+nba,2013,UTAH,Utah Jazz,27,82,25,57,0,0
+nba,2013,ORL,Orlando Magic,28,82,23,59,0,0
+nba,2013,PHI,Philadelphia 76ers,29,82,19,63,0,0
+nba,2013,MIL,Milwaukee Bucks,30,82,15,67,0,0
+nba,2014,GS,Golden State Warriors,1,82,67,15,0,0
+nba,2014,ATL,Atlanta Hawks,2,82,60,22,0,0
+nba,2014,HOU,Houston Rockets,3,82,56,26,0,0
+nba,2014,LAC,LA Clippers,4,82,56,26,0,0
+nba,2014,MEM,Memphis Grizzlies,5,82,55,27,0,0
+nba,2014,SA,San Antonio Spurs,6,82,55,27,0,0
+nba,2014,CLE,Cleveland Cavaliers,7,82,53,29,0,0
+nba,2014,POR,Portland Trail Blazers,8,82,51,31,0,0
+nba,2014,CHI,Chicago Bulls,9,82,50,32,0,0
+nba,2014,DAL,Dallas Mavericks,10,82,50,32,0,0
+nba,2014,TOR,Toronto Raptors,11,82,49,33,0,0
+nba,2014,WSH,Washington Wizards,12,82,46,36,0,0
+nba,2014,NO,New Orleans Pelicans,13,82,45,37,0,0
+nba,2014,OKC,Oklahoma City Thunder,14,82,45,37,0,0
+nba,2014,MIL,Milwaukee Bucks,15,82,41,41,0,0
+nba,2014,BOS,Boston Celtics,16,82,40,42,0,0
+nba,2014,PHX,Phoenix Suns,17,82,39,43,0,0
+nba,2014,BKN,Brooklyn Nets,18,82,38,44,0,0
+nba,2014,IND,Indiana Pacers,19,82,38,44,0,0
+nba,2014,UTAH,Utah Jazz,20,82,38,44,0,0
+nba,2014,MIA,Miami Heat,21,82,37,45,0,0
+nba,2014,CHA,Charlotte Hornets,22,82,33,49,0,0
+nba,2014,DET,Detroit Pistons,23,82,32,50,0,0
+nba,2014,DEN,Denver Nuggets,24,82,30,52,0,0
+nba,2014,SAC,Sacramento Kings,25,82,29,53,0,0
+nba,2014,ORL,Orlando Magic,26,82,25,57,0,0
+nba,2014,LAL,Los Angeles Lakers,27,82,21,61,0,0
+nba,2014,PHI,Philadelphia 76ers,28,82,18,64,0,0
+nba,2014,NY,New York Knicks,29,82,17,65,0,0
+nba,2014,MIN,Minnesota Timberwolves,30,82,16,66,0,0
+nba,2015,GS,Golden State Warriors,1,82,73,9,0,0
+nba,2015,SA,San Antonio Spurs,2,82,67,15,0,0
+nba,2015,CLE,Cleveland Cavaliers,3,82,57,25,0,0
+nba,2015,TOR,Toronto Raptors,4,82,56,26,0,0
+nba,2015,OKC,Oklahoma City Thunder,5,82,55,27,0,0
+nba,2015,LAC,LA Clippers,6,82,53,29,0,0
+nba,2015,MIA,Miami Heat,7,82,48,34,0,0
+nba,2015,ATL,Atlanta Hawks,8,82,48,34,0,0
+nba,2015,BOS,Boston Celtics,9,82,48,34,0,0
+nba,2015,CHA,Charlotte Hornets,10,82,48,34,0,0
+nba,2015,IND,Indiana Pacers,11,82,45,37,0,0
+nba,2015,POR,Portland Trail Blazers,12,82,44,38,0,0
+nba,2015,DET,Detroit Pistons,13,82,44,38,0,0
+nba,2015,DAL,Dallas Mavericks,14,82,42,40,0,0
+nba,2015,MEM,Memphis Grizzlies,15,82,42,40,0,0
+nba,2015,CHI,Chicago Bulls,16,82,42,40,0,0
+nba,2015,HOU,Houston Rockets,17,82,41,41,0,0
+nba,2015,WSH,Washington Wizards,18,82,41,41,0,0
+nba,2015,UTAH,Utah Jazz,19,82,40,42,0,0
+nba,2015,ORL,Orlando Magic,20,82,35,47,0,0
+nba,2015,SAC,Sacramento Kings,21,82,33,49,0,0
+nba,2015,DEN,Denver Nuggets,22,82,33,49,0,0
+nba,2015,MIL,Milwaukee Bucks,23,82,33,49,0,0
+nba,2015,NY,New York Knicks,24,82,32,50,0,0
+nba,2015,NO,New Orleans Pelicans,25,82,30,52,0,0
+nba,2015,MIN,Minnesota Timberwolves,26,82,29,53,0,0
+nba,2015,PHX,Phoenix Suns,27,82,23,59,0,0
+nba,2015,BKN,Brooklyn Nets,28,82,21,61,0,0
+nba,2015,LAL,Los Angeles Lakers,29,82,17,65,0,0
+nba,2015,PHI,Philadelphia 76ers,30,82,10,72,0,0
+nba,2016,GS,Golden State Warriors,1,82,67,15,0,0
+nba,2016,SA,San Antonio Spurs,2,82,61,21,0,0
+nba,2016,HOU,Houston Rockets,3,82,55,27,0,0
+nba,2016,BOS,Boston Celtics,4,82,53,29,0,0
+nba,2016,CLE,Cleveland Cavaliers,5,82,51,31,0,0
+nba,2016,UTAH,Utah Jazz,6,82,51,31,0,0
+nba,2016,TOR,Toronto Raptors,7,82,51,31,0,0
+nba,2016,LAC,LA Clippers,8,82,51,31,0,0
+nba,2016,WSH,Washington Wizards,9,82,49,33,0,0
+nba,2016,OKC,Oklahoma City Thunder,10,82,47,35,0,0
+nba,2016,ATL,Atlanta Hawks,11,82,43,39,0,0
+nba,2016,MEM,Memphis Grizzlies,12,82,43,39,0,0
+nba,2016,MIL,Milwaukee Bucks,13,82,42,40,0,0
+nba,2016,IND,Indiana Pacers,14,82,42,40,0,0
+nba,2016,CHI,Chicago Bulls,15,82,41,41,0,0
+nba,2016,POR,Portland Trail Blazers,16,82,41,41,0,0
+nba,2016,MIA,Miami Heat,17,82,41,41,0,0
+nba,2016,DEN,Denver Nuggets,18,82,40,42,0,0
+nba,2016,DET,Detroit Pistons,19,82,37,45,0,0
+nba,2016,CHA,Charlotte Hornets,20,82,36,46,0,0
+nba,2016,NO,New Orleans Pelicans,21,82,34,48,0,0
+nba,2016,DAL,Dallas Mavericks,22,82,33,49,0,0
+nba,2016,SAC,Sacramento Kings,23,82,32,50,0,0
+nba,2016,NY,New York Knicks,24,82,31,51,0,0
+nba,2016,MIN,Minnesota Timberwolves,25,82,31,51,0,0
+nba,2016,ORL,Orlando Magic,26,82,29,53,0,0
+nba,2016,PHI,Philadelphia 76ers,27,82,28,54,0,0
+nba,2016,LAL,Los Angeles Lakers,28,82,26,56,0,0
+nba,2016,PHX,Phoenix Suns,29,82,24,58,0,0
+nba,2016,BKN,Brooklyn Nets,30,82,20,62,0,0
+nba,2017,HOU,Houston Rockets,1,82,65,17,0,0
+nba,2017,TOR,Toronto Raptors,2,82,59,23,0,0
+nba,2017,GS,Golden State Warriors,3,82,58,24,0,0
+nba,2017,BOS,Boston Celtics,4,82,55,27,0,0
+nba,2017,PHI,Philadelphia 76ers,5,82,52,30,0,0
+nba,2017,CLE,Cleveland Cavaliers,6,82,50,32,0,0
+nba,2017,POR,Portland Trail Blazers,7,82,49,33,0,0
+nba,2017,OKC,Oklahoma City Thunder,8,82,48,34,0,0
+nba,2017,IND,Indiana Pacers,9,82,48,34,0,0
+nba,2017,UTAH,Utah Jazz,10,82,48,34,0,0
+nba,2017,NO,New Orleans Pelicans,11,82,48,34,0,0
+nba,2017,SA,San Antonio Spurs,12,82,47,35,0,0
+nba,2017,MIN,Minnesota Timberwolves,13,82,47,35,0,0
+nba,2017,DEN,Denver Nuggets,14,82,46,36,0,0
+nba,2017,MIA,Miami Heat,15,82,44,38,0,0
+nba,2017,MIL,Milwaukee Bucks,16,82,44,38,0,0
+nba,2017,WSH,Washington Wizards,17,82,43,39,0,0
+nba,2017,LAC,LA Clippers,18,82,42,40,0,0
+nba,2017,DET,Detroit Pistons,19,82,39,43,0,0
+nba,2017,CHA,Charlotte Hornets,20,82,36,46,0,0
+nba,2017,LAL,Los Angeles Lakers,21,82,35,47,0,0
+nba,2017,NY,New York Knicks,22,82,29,53,0,0
+nba,2017,BKN,Brooklyn Nets,23,82,28,54,0,0
+nba,2017,SAC,Sacramento Kings,24,82,27,55,0,0
+nba,2017,CHI,Chicago Bulls,25,82,27,55,0,0
+nba,2017,ORL,Orlando Magic,26,82,25,57,0,0
+nba,2017,DAL,Dallas Mavericks,27,82,24,58,0,0
+nba,2017,ATL,Atlanta Hawks,28,82,24,58,0,0
+nba,2017,MEM,Memphis Grizzlies,29,82,22,60,0,0
+nba,2017,PHX,Phoenix Suns,30,82,21,61,0,0
+nba,2018,MIL,Milwaukee Bucks,1,82,60,22,0,0
+nba,2018,TOR,Toronto Raptors,2,82,58,24,0,0
+nba,2018,GS,Golden State Warriors,3,82,57,25,0,0
+nba,2018,DEN,Denver Nuggets,4,82,54,28,0,0
+nba,2018,HOU,Houston Rockets,5,82,53,29,0,0
+nba,2018,POR,Portland Trail Blazers,6,82,53,29,0,0
+nba,2018,PHI,Philadelphia 76ers,7,82,51,31,0,0
+nba,2018,UTAH,Utah Jazz,8,82,50,32,0,0
+nba,2018,BOS,Boston Celtics,9,82,49,33,0,0
+nba,2018,OKC,Oklahoma City Thunder,10,82,49,33,0,0
+nba,2018,IND,Indiana Pacers,11,82,48,34,0,0
+nba,2018,SA,San Antonio Spurs,12,82,48,34,0,0
+nba,2018,LAC,LA Clippers,13,82,48,34,0,0
+nba,2018,ORL,Orlando Magic,14,82,42,40,0,0
+nba,2018,BKN,Brooklyn Nets,15,82,42,40,0,0
+nba,2018,DET,Detroit Pistons,16,82,41,41,0,0
+nba,2018,SAC,Sacramento Kings,17,82,39,43,0,0
+nba,2018,CHA,Charlotte Hornets,18,82,39,43,0,0
+nba,2018,MIA,Miami Heat,19,82,39,43,0,0
+nba,2018,LAL,Los Angeles Lakers,20,82,37,45,0,0
+nba,2018,MIN,Minnesota Timberwolves,21,82,36,46,0,0
+nba,2018,MEM,Memphis Grizzlies,22,82,33,49,0,0
+nba,2018,NO,New Orleans Pelicans,23,82,33,49,0,0
+nba,2018,DAL,Dallas Mavericks,24,82,33,49,0,0
+nba,2018,WSH,Washington Wizards,25,82,32,50,0,0
+nba,2018,ATL,Atlanta Hawks,26,82,29,53,0,0
+nba,2018,CHI,Chicago Bulls,27,82,22,60,0,0
+nba,2018,CLE,Cleveland Cavaliers,28,82,19,63,0,0
+nba,2018,PHX,Phoenix Suns,29,82,19,63,0,0
+nba,2018,NY,New York Knicks,30,82,17,65,0,0
+nba,2019,MIL,Milwaukee Bucks,1,73,56,17,0,0
+nba,2019,TOR,Toronto Raptors,2,72,53,19,0,0
+nba,2019,LAL,Los Angeles Lakers,3,71,52,19,0,0
+nba,2019,LAC,LA Clippers,4,72,49,23,0,0
+nba,2019,BOS,Boston Celtics,5,72,48,24,0,0
+nba,2019,DEN,Denver Nuggets,6,73,46,27,0,0
+nba,2019,IND,Indiana Pacers,7,73,45,28,0,0
+nba,2019,HOU,Houston Rockets,8,72,44,28,0,0
+nba,2019,OKC,Oklahoma City Thunder,9,72,44,28,0,0
+nba,2019,UTAH,Utah Jazz,10,72,44,28,0,0
+nba,2019,MIA,Miami Heat,11,73,44,29,0,0
+nba,2019,PHI,Philadelphia 76ers,12,73,43,30,0,0
+nba,2019,DAL,Dallas Mavericks,13,75,43,32,0,0
+nba,2019,BKN,Brooklyn Nets,14,72,35,37,0,0
+nba,2019,POR,Portland Trail Blazers,15,74,35,39,0,0
+nba,2019,MEM,Memphis Grizzlies,16,73,34,39,0,0
+nba,2019,PHX,Phoenix Suns,17,73,34,39,0,0
+nba,2019,ORL,Orlando Magic,18,73,33,40,0,0
+nba,2019,SA,San Antonio Spurs,19,71,32,39,0,0
+nba,2019,SAC,Sacramento Kings,20,72,31,41,0,0
+nba,2019,NO,New Orleans Pelicans,21,72,30,42,0,0
+nba,2019,CHA,Charlotte Hornets,22,65,23,42,0,0
+nba,2019,WSH,Washington Wizards,23,72,25,47,0,0
+nba,2019,CHI,Chicago Bulls,24,65,22,43,0,0
+nba,2019,NY,New York Knicks,25,66,21,45,0,0
+nba,2019,DET,Detroit Pistons,26,66,20,46,0,0
+nba,2019,ATL,Atlanta Hawks,27,67,20,47,0,0
+nba,2019,MIN,Minnesota Timberwolves,28,64,19,45,0,0
+nba,2019,CLE,Cleveland Cavaliers,29,65,19,46,0,0
+nba,2019,GS,Golden State Warriors,30,65,15,50,0,0
+nba,2020,UTAH,Utah Jazz,1,72,52,20,0,0
+nba,2020,PHX,Phoenix Suns,2,72,51,21,0,0
+nba,2020,PHI,Philadelphia 76ers,3,72,49,23,0,0
+nba,2020,BKN,Brooklyn Nets,4,72,48,24,0,0
+nba,2020,DEN,Denver Nuggets,5,72,47,25,0,0
+nba,2020,LAC,LA Clippers,6,72,47,25,0,0
+nba,2020,MIL,Milwaukee Bucks,7,72,46,26,0,0
+nba,2020,DAL,Dallas Mavericks,8,72,42,30,0,0
+nba,2020,LAL,Los Angeles Lakers,9,72,42,30,0,0
+nba,2020,POR,Portland Trail Blazers,10,72,42,30,0,0
+nba,2020,ATL,Atlanta Hawks,11,72,41,31,0,0
+nba,2020,NY,New York Knicks,12,72,41,31,0,0
+nba,2020,MIA,Miami Heat,13,72,40,32,0,0
+nba,2020,GS,Golden State Warriors,14,72,39,33,0,0
+nba,2020,MEM,Memphis Grizzlies,15,72,38,34,0,0
+nba,2020,BOS,Boston Celtics,16,72,36,36,0,0
+nba,2020,WSH,Washington Wizards,17,72,34,38,0,0
+nba,2020,IND,Indiana Pacers,18,72,34,38,0,0
+nba,2020,SA,San Antonio Spurs,19,72,33,39,0,0
+nba,2020,CHA,Charlotte Hornets,20,72,33,39,0,0
+nba,2020,NO,New Orleans Pelicans,21,72,31,41,0,0
+nba,2020,CHI,Chicago Bulls,22,72,31,41,0,0
+nba,2020,SAC,Sacramento Kings,23,72,31,41,0,0
+nba,2020,TOR,Toronto Raptors,24,72,27,45,0,0
+nba,2020,MIN,Minnesota Timberwolves,25,72,23,49,0,0
+nba,2020,CLE,Cleveland Cavaliers,26,72,22,50,0,0
+nba,2020,OKC,Oklahoma City Thunder,27,72,22,50,0,0
+nba,2020,ORL,Orlando Magic,28,72,21,51,0,0
+nba,2020,DET,Detroit Pistons,29,72,20,52,0,0
+nba,2020,HOU,Houston Rockets,30,72,17,55,0,0
+nba,2021,PHX,Phoenix Suns,1,82,64,18,0,0
+nba,2021,MEM,Memphis Grizzlies,2,82,56,26,0,0
+nba,2021,MIA,Miami Heat,3,82,53,29,0,0
+nba,2021,GS,Golden State Warriors,4,82,53,29,0,0
+nba,2021,DAL,Dallas Mavericks,5,82,52,30,0,0
+nba,2021,BOS,Boston Celtics,6,82,51,31,0,0
+nba,2021,MIL,Milwaukee Bucks,7,82,51,31,0,0
+nba,2021,PHI,Philadelphia 76ers,8,82,51,31,0,0
+nba,2021,UTAH,Utah Jazz,9,82,49,33,0,0
+nba,2021,TOR,Toronto Raptors,10,82,48,34,0,0
+nba,2021,DEN,Denver Nuggets,11,82,48,34,0,0
+nba,2021,MIN,Minnesota Timberwolves,12,82,46,36,0,0
+nba,2021,CHI,Chicago Bulls,13,82,46,36,0,0
+nba,2021,BKN,Brooklyn Nets,14,82,44,38,0,0
+nba,2021,CLE,Cleveland Cavaliers,15,82,44,38,0,0
+nba,2021,ATL,Atlanta Hawks,16,82,43,39,0,0
+nba,2021,CHA,Charlotte Hornets,17,82,43,39,0,0
+nba,2021,LAC,LA Clippers,18,82,42,40,0,0
+nba,2021,NY,New York Knicks,19,82,37,45,0,0
+nba,2021,NO,New Orleans Pelicans,20,82,36,46,0,0
+nba,2021,WSH,Washington Wizards,21,82,35,47,0,0
+nba,2021,SA,San Antonio Spurs,22,82,34,48,0,0
+nba,2021,LAL,Los Angeles Lakers,23,82,33,49,0,0
+nba,2021,SAC,Sacramento Kings,24,82,30,52,0,0
+nba,2021,POR,Portland Trail Blazers,25,82,27,55,0,0
+nba,2021,IND,Indiana Pacers,26,82,25,57,0,0
+nba,2021,OKC,Oklahoma City Thunder,27,82,24,58,0,0
+nba,2021,DET,Detroit Pistons,28,82,23,59,0,0
+nba,2021,ORL,Orlando Magic,29,82,22,60,0,0
+nba,2021,HOU,Houston Rockets,30,82,20,62,0,0
+nba,2022,MIL,Milwaukee Bucks,1,82,58,24,0,0
+nba,2022,BOS,Boston Celtics,2,82,57,25,0,0
+nba,2022,PHI,Philadelphia 76ers,3,82,54,28,0,0
+nba,2022,DEN,Denver Nuggets,4,82,53,29,0,0
+nba,2022,MEM,Memphis Grizzlies,5,82,51,31,0,0
+nba,2022,CLE,Cleveland Cavaliers,6,82,51,31,0,0
+nba,2022,SAC,Sacramento Kings,7,82,48,34,0,0
+nba,2022,NY,New York Knicks,8,82,47,35,0,0
+nba,2022,PHX,Phoenix Suns,9,82,45,37,0,0
+nba,2022,BKN,Brooklyn Nets,10,82,45,37,0,0
+nba,2022,MIA,Miami Heat,11,82,44,38,0,0
+nba,2022,LAC,LA Clippers,12,82,44,38,0,0
+nba,2022,GS,Golden State Warriors,13,82,44,38,0,0
+nba,2022,LAL,Los Angeles Lakers,14,82,43,39,0,0
+nba,2022,MIN,Minnesota Timberwolves,15,82,42,40,0,0
+nba,2022,NO,New Orleans Pelicans,16,82,42,40,0,0
+nba,2022,ATL,Atlanta Hawks,17,82,41,41,0,0
+nba,2022,TOR,Toronto Raptors,18,82,41,41,0,0
+nba,2022,CHI,Chicago Bulls,19,82,40,42,0,0
+nba,2022,OKC,Oklahoma City Thunder,20,82,40,42,0,0
+nba,2022,DAL,Dallas Mavericks,21,82,38,44,0,0
+nba,2022,UTAH,Utah Jazz,22,82,37,45,0,0
+nba,2022,IND,Indiana Pacers,23,82,35,47,0,0
+nba,2022,WSH,Washington Wizards,24,82,35,47,0,0
+nba,2022,ORL,Orlando Magic,25,82,34,48,0,0
+nba,2022,POR,Portland Trail Blazers,26,82,33,49,0,0
+nba,2022,CHA,Charlotte Hornets,27,82,27,55,0,0
+nba,2022,HOU,Houston Rockets,28,82,22,60,0,0
+nba,2022,SA,San Antonio Spurs,29,82,22,60,0,0
+nba,2022,DET,Detroit Pistons,30,82,17,65,0,0
+nfl,2013,SEA,Seattle Seahawks,1,16,13,3,0,0
+nfl,2013,DEN,Denver Broncos,2,16,13,3,0,0
+nfl,2013,SF,San Francisco 49ers,3,16,12,4,0,0
+nfl,2013,NE,New England Patriots,4,16,12,4,0,0
+nfl,2013,CAR,Carolina Panthers,5,16,12,4,0,0
+nfl,2013,CIN,Cincinnati Bengals,6,16,11,5,0,0
+nfl,2013,IND,Indianapolis Colts,7,16,11,5,0,0
+nfl,2013,KC,Kansas City Chiefs,8,16,11,5,0,0
+nfl,2013,NO,New Orleans Saints,9,16,11,5,0,0
+nfl,2013,PHI,Philadelphia Eagles,10,16,10,6,0,0
+nfl,2013,ARI,Arizona Cardinals,11,16,10,6,0,0
+nfl,2013,SD,San Diego Chargers,12,16,9,7,0,0
+nfl,2013,GB,Green Bay Packers,13,16,8,7,1,0
+nfl,2013,CHI,Chicago Bears,14,16,8,8,0,0
+nfl,2013,DAL,Dallas Cowboys,15,16,8,8,0,0
+nfl,2013,PIT,Pittsburgh Steelers,16,16,8,8,0,0
+nfl,2013,BAL,Baltimore Ravens,17,16,8,8,0,0
+nfl,2013,NYJ,New York Jets,18,16,8,8,0,0
+nfl,2013,MIA,Miami Dolphins,19,16,8,8,0,0
+nfl,2013,DET,Detroit Lions,20,16,7,9,0,0
+nfl,2013,TEN,Tennessee Titans,21,16,7,9,0,0
+nfl,2013,STL,St. Louis Rams,22,16,7,9,0,0
+nfl,2013,NYG,New York Giants,23,16,7,9,0,0
+nfl,2013,BUF,Buffalo Bills,24,16,6,10,0,0
+nfl,2013,MIN,Minnesota Vikings,25,16,5,10,1,0
+nfl,2013,CLE,Cleveland Browns,26,16,4,12,0,0
+nfl,2013,OAK,Oakland Raiders,27,16,4,12,0,0
+nfl,2013,JAX,Jacksonville Jaguars,28,16,4,12,0,0
+nfl,2013,ATL,Atlanta Falcons,29,16,4,12,0,0
+nfl,2013,TB,Tampa Bay Buccaneers,30,16,4,12,0,0
+nfl,2013,WSH,Washington Redskins,31,16,3,13,0,0
+nfl,2013,HOU,Houston Texans,32,16,2,14,0,0
+nfl,2014,NE,New England Patriots,1,16,12,4,0,0
+nfl,2014,SEA,Seattle Seahawks,2,16,12,4,0,0
+nfl,2014,DEN,Denver Broncos,3,16,12,4,0,0
+nfl,2014,GB,Green Bay Packers,4,16,12,4,0,0
+nfl,2014,DAL,Dallas Cowboys,5,16,12,4,0,0
+nfl,2014,PIT,Pittsburgh Steelers,6,16,11,5,0,0
+nfl,2014,IND,Indianapolis Colts,7,16,11,5,0,0
+nfl,2014,ARI,Arizona Cardinals,8,16,11,5,0,0
+nfl,2014,DET,Detroit Lions,9,16,11,5,0,0
+nfl,2014,CIN,Cincinnati Bengals,10,16,10,5,1,0
+nfl,2014,BAL,Baltimore Ravens,11,16,10,6,0,0
+nfl,2014,PHI,Philadelphia Eagles,12,16,10,6,0,0
+nfl,2014,KC,Kansas City Chiefs,13,16,9,7,0,0
+nfl,2014,HOU,Houston Texans,14,16,9,7,0,0
+nfl,2014,SD,San Diego Chargers,15,16,9,7,0,0
+nfl,2014,BUF,Buffalo Bills,16,16,9,7,0,0
+nfl,2014,SF,San Francisco 49ers,17,16,8,8,0,0
+nfl,2014,MIA,Miami Dolphins,18,16,8,8,0,0
+nfl,2014,CAR,Carolina Panthers,19,16,7,8,1,0
+nfl,2014,NO,New Orleans Saints,20,16,7,9,0,0
+nfl,2014,MIN,Minnesota Vikings,21,16,7,9,0,0
+nfl,2014,CLE,Cleveland Browns,22,16,7,9,0,0
+nfl,2014,NYG,New York Giants,23,16,6,10,0,0
+nfl,2014,ATL,Atlanta Falcons,24,16,6,10,0,0
+nfl,2014,STL,St. Louis Rams,25,16,6,10,0,0
+nfl,2014,CHI,Chicago Bears,26,16,5,11,0,0
+nfl,2014,NYJ,New York Jets,27,16,4,12,0,0
+nfl,2014,WSH,Washington Redskins,28,16,4,12,0,0
+nfl,2014,JAX,Jacksonville Jaguars,29,16,3,13,0,0
+nfl,2014,OAK,Oakland Raiders,30,16,3,13,0,0
+nfl,2014,TEN,Tennessee Titans,31,16,2,14,0,0
+nfl,2014,TB,Tampa Bay Buccaneers,32,16,2,14,0,0
+nfl,2015,CAR,Carolina Panthers,1,16,15,1,0,0
+nfl,2015,ARI,Arizona Cardinals,2,16,13,3,0,0
+nfl,2015,DEN,Denver Broncos,3,16,12,4,0,0
+nfl,2015,NE,New England Patriots,4,16,12,4,0,0
+nfl,2015,CIN,Cincinnati Bengals,5,16,12,4,0,0
+nfl,2015,MIN,Minnesota Vikings,6,16,11,5,0,0
+nfl,2015,KC,Kansas City Chiefs,7,16,11,5,0,0
+nfl,2015,GB,Green Bay Packers,8,16,10,6,0,0
+nfl,2015,PIT,Pittsburgh Steelers,9,16,10,6,0,0
+nfl,2015,SEA,Seattle Seahawks,10,16,10,6,0,0
+nfl,2015,NYJ,New York Jets,11,16,10,6,0,0
+nfl,2015,WSH,Washington Redskins,12,16,9,7,0,0
+nfl,2015,HOU,Houston Texans,13,16,9,7,0,0
+nfl,2015,ATL,Atlanta Falcons,14,16,8,8,0,0
+nfl,2015,BUF,Buffalo Bills,15,16,8,8,0,0
+nfl,2015,IND,Indianapolis Colts,16,16,8,8,0,0
+nfl,2015,STL,St. Louis Rams,17,16,7,9,0,0
+nfl,2015,DET,Detroit Lions,18,16,7,9,0,0
+nfl,2015,OAK,Oakland Raiders,19,16,7,9,0,0
+nfl,2015,PHI,Philadelphia Eagles,20,16,7,9,0,0
+nfl,2015,NO,New Orleans Saints,21,16,7,9,0,0
+nfl,2015,MIA,Miami Dolphins,22,16,6,10,0,0
+nfl,2015,NYG,New York Giants,23,16,6,10,0,0
+nfl,2015,CHI,Chicago Bears,24,16,6,10,0,0
+nfl,2015,TB,Tampa Bay Buccaneers,25,16,6,10,0,0
+nfl,2015,JAX,Jacksonville Jaguars,26,16,5,11,0,0
+nfl,2015,BAL,Baltimore Ravens,27,16,5,11,0,0
+nfl,2015,SF,San Francisco 49ers,28,16,5,11,0,0
+nfl,2015,SD,San Diego Chargers,29,16,4,12,0,0
+nfl,2015,DAL,Dallas Cowboys,30,16,4,12,0,0
+nfl,2015,CLE,Cleveland Browns,31,16,3,13,0,0
+nfl,2015,TEN,Tennessee Titans,32,16,3,13,0,0
+nfl,2016,NE,New England Patriots,1,16,14,2,0,0
+nfl,2016,DAL,Dallas Cowboys,2,16,13,3,0,0
+nfl,2016,KC,Kansas City Chiefs,3,16,12,4,0,0
+nfl,2016,OAK,Oakland Raiders,4,16,12,4,0,0
+nfl,2016,ATL,Atlanta Falcons,5,16,11,5,0,0
+nfl,2016,PIT,Pittsburgh Steelers,6,16,11,5,0,0
+nfl,2016,NYG,New York Giants,7,16,11,5,0,0
+nfl,2016,SEA,Seattle Seahawks,8,16,10,5,1,0
+nfl,2016,GB,Green Bay Packers,9,16,10,6,0,0
+nfl,2016,MIA,Miami Dolphins,10,16,10,6,0,0
+nfl,2016,HOU,Houston Texans,11,16,9,7,0,0
+nfl,2016,DET,Detroit Lions,12,16,9,7,0,0
+nfl,2016,TEN,Tennessee Titans,13,16,9,7,0,0
+nfl,2016,TB,Tampa Bay Buccaneers,14,16,9,7,0,0
+nfl,2016,DEN,Denver Broncos,15,16,9,7,0,0
+nfl,2016,WSH,Washington Redskins,16,16,8,7,1,0
+nfl,2016,MIN,Minnesota Vikings,17,16,8,8,0,0
+nfl,2016,BAL,Baltimore Ravens,18,16,8,8,0,0
+nfl,2016,IND,Indianapolis Colts,19,16,8,8,0,0
+nfl,2016,ARI,Arizona Cardinals,20,16,7,8,1,0
+nfl,2016,BUF,Buffalo Bills,21,16,7,9,0,0
+nfl,2016,NO,New Orleans Saints,22,16,7,9,0,0
+nfl,2016,PHI,Philadelphia Eagles,23,16,7,9,0,0
+nfl,2016,CIN,Cincinnati Bengals,24,16,6,9,1,0
+nfl,2016,CAR,Carolina Panthers,25,16,6,10,0,0
+nfl,2016,NYJ,New York Jets,26,16,5,11,0,0
+nfl,2016,SD,San Diego Chargers,27,16,5,11,0,0
+nfl,2016,LAR,Los Angeles Rams,28,16,4,12,0,0
+nfl,2016,CHI,Chicago Bears,29,16,3,13,0,0
+nfl,2016,JAX,Jacksonville Jaguars,30,16,3,13,0,0
+nfl,2016,SF,San Francisco 49ers,31,16,2,14,0,0
+nfl,2016,CLE,Cleveland Browns,32,16,1,15,0,0
+nfl,2017,NE,New England Patriots,1,16,13,3,0,0
+nfl,2017,PHI,Philadelphia Eagles,2,16,13,3,0,0
+nfl,2017,MIN,Minnesota Vikings,3,16,13,3,0,0
+nfl,2017,PIT,Pittsburgh Steelers,4,16,13,3,0,0
+nfl,2017,LAR,Los Angeles Rams,5,16,11,5,0,0
+nfl,2017,NO,New Orleans Saints,6,16,11,5,0,0
+nfl,2017,CAR,Carolina Panthers,7,16,11,5,0,0
+nfl,2017,JAX,Jacksonville Jaguars,8,16,10,6,0,0
+nfl,2017,KC,Kansas City Chiefs,9,16,10,6,0,0
+nfl,2017,ATL,Atlanta Falcons,10,16,10,6,0,0
+nfl,2017,TEN,Tennessee Titans,11,16,9,7,0,0
+nfl,2017,BUF,Buffalo Bills,12,16,9,7,0,0
+nfl,2017,DET,Detroit Lions,13,16,9,7,0,0
+nfl,2017,BAL,Baltimore Ravens,14,16,9,7,0,0
+nfl,2017,LAC,Los Angeles Chargers,15,16,9,7,0,0
+nfl,2017,SEA,Seattle Seahawks,16,16,9,7,0,0
+nfl,2017,DAL,Dallas Cowboys,17,16,9,7,0,0
+nfl,2017,ARI,Arizona Cardinals,18,16,8,8,0,0
+nfl,2017,CIN,Cincinnati Bengals,19,16,7,9,0,0
+nfl,2017,GB,Green Bay Packers,20,16,7,9,0,0
+nfl,2017,WSH,Washington Redskins,21,16,7,9,0,0
+nfl,2017,OAK,Oakland Raiders,22,16,6,10,0,0
+nfl,2017,MIA,Miami Dolphins,23,16,6,10,0,0
+nfl,2017,SF,San Francisco 49ers,24,16,6,10,0,0
+nfl,2017,DEN,Denver Broncos,25,16,5,11,0,0
+nfl,2017,NYJ,New York Jets,26,16,5,11,0,0
+nfl,2017,TB,Tampa Bay Buccaneers,27,16,5,11,0,0
+nfl,2017,CHI,Chicago Bears,28,16,5,11,0,0
+nfl,2017,IND,Indianapolis Colts,29,16,4,12,0,0
+nfl,2017,HOU,Houston Texans,30,16,4,12,0,0
+nfl,2017,NYG,New York Giants,31,16,3,13,0,0
+nfl,2017,CLE,Cleveland Browns,32,16,0,16,0,0
+nfl,2018,NO,New Orleans Saints,1,16,13,3,0,0
+nfl,2018,LAR,Los Angeles Rams,2,16,13,3,0,0
+nfl,2018,KC,Kansas City Chiefs,3,16,12,4,0,0
+nfl,2018,CHI,Chicago Bears,4,16,12,4,0,0
+nfl,2018,LAC,Los Angeles Chargers,5,16,12,4,0,0
+nfl,2018,NE,New England Patriots,6,16,11,5,0,0
+nfl,2018,HOU,Houston Texans,7,16,11,5,0,0
+nfl,2018,DAL,Dallas Cowboys,8,16,10,6,0,0
+nfl,2018,BAL,Baltimore Ravens,9,16,10,6,0,0
+nfl,2018,SEA,Seattle Seahawks,10,16,10,6,0,0
+nfl,2018,IND,Indianapolis Colts,11,16,10,6,0,0
+nfl,2018,PIT,Pittsburgh Steelers,12,16,9,6,1,0
+nfl,2018,PHI,Philadelphia Eagles,13,16,9,7,0,0
+nfl,2018,TEN,Tennessee Titans,14,16,9,7,0,0
+nfl,2018,MIN,Minnesota Vikings,15,16,8,7,1,0
+nfl,2018,CLE,Cleveland Browns,16,16,7,8,1,0
+nfl,2018,ATL,Atlanta Falcons,17,16,7,9,0,0
+nfl,2018,WSH,Washington Redskins,18,16,7,9,0,0
+nfl,2018,MIA,Miami Dolphins,19,16,7,9,0,0
+nfl,2018,CAR,Carolina Panthers,20,16,7,9,0,0
+nfl,2018,GB,Green Bay Packers,21,16,6,9,1,0
+nfl,2018,DEN,Denver Broncos,22,16,6,10,0,0
+nfl,2018,CIN,Cincinnati Bengals,23,16,6,10,0,0
+nfl,2018,DET,Detroit Lions,24,16,6,10,0,0
+nfl,2018,BUF,Buffalo Bills,25,16,6,10,0,0
+nfl,2018,NYG,New York Giants,26,16,5,11,0,0
+nfl,2018,TB,Tampa Bay Buccaneers,27,16,5,11,0,0
+nfl,2018,JAX,Jacksonville Jaguars,28,16,5,11,0,0
+nfl,2018,NYJ,New York Jets,29,16,4,12,0,0
+nfl,2018,SF,San Francisco 49ers,30,16,4,12,0,0
+nfl,2018,OAK,Oakland Raiders,31,16,4,12,0,0
+nfl,2018,ARI,Arizona Cardinals,32,16,3,13,0,0
+nfl,2019,BAL,Baltimore Ravens,1,16,14,2,0,0
+nfl,2019,SF,San Francisco 49ers,2,16,13,3,0,0
+nfl,2019,GB,Green Bay Packers,3,16,13,3,0,0
+nfl,2019,NO,New Orleans Saints,4,16,13,3,0,0
+nfl,2019,KC,Kansas City Chiefs,5,16,12,4,0,0
+nfl,2019,NE,New England Patriots,6,16,12,4,0,0
+nfl,2019,SEA,Seattle Seahawks,7,16,11,5,0,0
+nfl,2019,HOU,Houston Texans,8,16,10,6,0,0
+nfl,2019,BUF,Buffalo Bills,9,16,10,6,0,0
+nfl,2019,MIN,Minnesota Vikings,10,16,10,6,0,0
+nfl,2019,PHI,Philadelphia Eagles,11,16,9,7,0,0
+nfl,2019,TEN,Tennessee Titans,12,16,9,7,0,0
+nfl,2019,LAR,Los Angeles Rams,13,16,9,7,0,0
+nfl,2019,PIT,Pittsburgh Steelers,14,16,8,8,0,0
+nfl,2019,CHI,Chicago Bears,15,16,8,8,0,0
+nfl,2019,DAL,Dallas Cowboys,16,16,8,8,0,0
+nfl,2019,DEN,Denver Broncos,17,16,7,9,0,0
+nfl,2019,OAK,Oakland Raiders,18,16,7,9,0,0
+nfl,2019,ATL,Atlanta Falcons,19,16,7,9,0,0
+nfl,2019,IND,Indianapolis Colts,20,16,7,9,0,0
+nfl,2019,NYJ,New York Jets,21,16,7,9,0,0
+nfl,2019,TB,Tampa Bay Buccaneers,22,16,7,9,0,0
+nfl,2019,JAX,Jacksonville Jaguars,23,16,6,10,0,0
+nfl,2019,CLE,Cleveland Browns,24,16,6,10,0,0
+nfl,2019,ARI,Arizona Cardinals,25,16,5,10,1,0
+nfl,2019,CAR,Carolina Panthers,26,16,5,11,0,0
+nfl,2019,LAC,Los Angeles Chargers,27,16,5,11,0,0
+nfl,2019,MIA,Miami Dolphins,28,16,5,11,0,0
+nfl,2019,NYG,New York Giants,29,16,4,12,0,0
+nfl,2019,DET,Detroit Lions,30,16,3,12,1,0
+nfl,2019,WSH,Washington,31,16,3,13,0,0
+nfl,2019,CIN,Cincinnati Bengals,32,16,2,14,0,0
+nfl,2020,KC,Kansas City Chiefs,1,16,14,2,0,0
+nfl,2020,GB,Green Bay Packers,2,16,13,3,0,0
+nfl,2020,BUF,Buffalo Bills,3,16,13,3,0,0
+nfl,2020,NO,New Orleans Saints,4,16,12,4,0,0
+nfl,2020,PIT,Pittsburgh Steelers,5,16,12,4,0,0
+nfl,2020,SEA,Seattle Seahawks,6,16,12,4,0,0
+nfl,2020,TEN,Tennessee Titans,7,16,11,5,0,0
+nfl,2020,TB,Tampa Bay Buccaneers,8,16,11,5,0,0
+nfl,2020,BAL,Baltimore Ravens,9,16,11,5,0,0
+nfl,2020,CLE,Cleveland Browns,10,16,11,5,0,0
+nfl,2020,IND,Indianapolis Colts,11,16,11,5,0,0
+nfl,2020,LAR,Los Angeles Rams,12,16,10,6,0,0
+nfl,2020,MIA,Miami Dolphins,13,16,10,6,0,0
+nfl,2020,CHI,Chicago Bears,14,16,8,8,0,0
+nfl,2020,ARI,Arizona Cardinals,15,16,8,8,0,0
+nfl,2020,LV,Las Vegas Raiders,16,16,8,8,0,0
+nfl,2020,WSH,Washington,17,16,7,9,0,0
+nfl,2020,MIN,Minnesota Vikings,18,16,7,9,0,0
+nfl,2020,NE,New England Patriots,19,16,7,9,0,0
+nfl,2020,LAC,Los Angeles Chargers,20,16,7,9,0,0
+nfl,2020,SF,San Francisco 49ers,21,16,6,10,0,0
+nfl,2020,NYG,New York Giants,22,16,6,10,0,0
+nfl,2020,DAL,Dallas Cowboys,23,16,6,10,0,0
+nfl,2020,DEN,Denver Broncos,24,16,5,11,0,0
+nfl,2020,CAR,Carolina Panthers,25,16,5,11,0,0
+nfl,2020,DET,Detroit Lions,26,16,5,11,0,0
+nfl,2020,CIN,Cincinnati Bengals,27,16,4,11,1,0
+nfl,2020,PHI,Philadelphia Eagles,28,16,4,11,1,0
+nfl,2020,HOU,Houston Texans,29,16,4,12,0,0
+nfl,2020,ATL,Atlanta Falcons,30,16,4,12,0,0
+nfl,2020,NYJ,New York Jets,31,16,2,14,0,0
+nfl,2020,JAX,Jacksonville Jaguars,32,16,1,15,0,0
+nfl,2021,GB,Green Bay Packers,1,17,13,4,0,0
+nfl,2021,TB,Tampa Bay Buccaneers,2,17,13,4,0,0
+nfl,2021,TEN,Tennessee Titans,3,17,12,5,0,0
+nfl,2021,KC,Kansas City Chiefs,4,17,12,5,0,0
+nfl,2021,DAL,Dallas Cowboys,5,17,12,5,0,0
+nfl,2021,LAR,Los Angeles Rams,6,17,12,5,0,0
+nfl,2021,BUF,Buffalo Bills,7,17,11,6,0,0
+nfl,2021,ARI,Arizona Cardinals,8,17,11,6,0,0
+nfl,2021,CIN,Cincinnati Bengals,9,17,10,7,0,0
+nfl,2021,LV,Las Vegas Raiders,10,17,10,7,0,0
+nfl,2021,NE,New England Patriots,11,17,10,7,0,0
+nfl,2021,SF,San Francisco 49ers,12,17,10,7,0,0
+nfl,2021,PIT,Pittsburgh Steelers,13,17,9,7,1,0
+nfl,2021,PHI,Philadelphia Eagles,14,17,9,8,0,0
+nfl,2021,IND,Indianapolis Colts,15,17,9,8,0,0
+nfl,2021,NO,New Orleans Saints,16,17,9,8,0,0
+nfl,2021,MIA,Miami Dolphins,17,17,9,8,0,0
+nfl,2021,LAC,Los Angeles Chargers,18,17,9,8,0,0
+nfl,2021,MIN,Minnesota Vikings,19,17,8,9,0,0
+nfl,2021,CLE,Cleveland Browns,20,17,8,9,0,0
+nfl,2021,BAL,Baltimore Ravens,21,17,8,9,0,0
+nfl,2021,WSH,Washington,22,17,7,10,0,0
+nfl,2021,SEA,Seattle Seahawks,23,17,7,10,0,0
+nfl,2021,ATL,Atlanta Falcons,24,17,7,10,0,0
+nfl,2021,DEN,Denver Broncos,25,17,7,10,0,0
+nfl,2021,CHI,Chicago Bears,26,17,6,11,0,0
+nfl,2021,CAR,Carolina Panthers,27,17,5,12,0,0
+nfl,2021,NYJ,New York Jets,28,17,4,13,0,0
+nfl,2021,NYG,New York Giants,29,17,4,13,0,0
+nfl,2021,HOU,Houston Texans,30,17,4,13,0,0
+nfl,2021,DET,Detroit Lions,31,17,3,13,1,0
+nfl,2021,JAX,Jacksonville Jaguars,32,17,3,14,0,0
+nfl,2022,KC,Kansas City Chiefs,1,17,14,3,0,0
+nfl,2022,PHI,Philadelphia Eagles,2,17,14,3,0,0
+nfl,2022,BUF,Buffalo Bills,3,16,13,3,0,0
+nfl,2022,SF,San Francisco 49ers,4,17,13,4,0,0
+nfl,2022,MIN,Minnesota Vikings,5,17,13,4,0,0
+nfl,2022,CIN,Cincinnati Bengals,6,16,12,4,0,0
+nfl,2022,DAL,Dallas Cowboys,7,17,12,5,0,0
+nfl,2022,LAC,Los Angeles Chargers,8,17,10,7,0,0
+nfl,2022,BAL,Baltimore Ravens,9,17,10,7,0,0
+nfl,2022,NYG,New York Giants,10,17,9,7,1,0
+nfl,2022,JAX,Jacksonville Jaguars,11,17,9,8,0,0
+nfl,2022,MIA,Miami Dolphins,12,17,9,8,0,0
+nfl,2022,SEA,Seattle Seahawks,13,17,9,8,0,0
+nfl,2022,DET,Detroit Lions,14,17,9,8,0,0
+nfl,2022,PIT,Pittsburgh Steelers,15,17,9,8,0,0
+nfl,2022,WSH,Washington Commanders,16,17,8,8,1,0
+nfl,2022,TB,Tampa Bay Buccaneers,17,17,8,9,0,0
+nfl,2022,NE,New England Patriots,18,17,8,9,0,0
+nfl,2022,GB,Green Bay Packers,19,17,8,9,0,0
+nfl,2022,NYJ,New York Jets,20,17,7,10,0,0
+nfl,2022,TEN,Tennessee Titans,21,17,7,10,0,0
+nfl,2022,CAR,Carolina Panthers,22,17,7,10,0,0
+nfl,2022,CLE,Cleveland Browns,23,17,7,10,0,0
+nfl,2022,NO,New Orleans Saints,24,17,7,10,0,0
+nfl,2022,ATL,Atlanta Falcons,25,17,7,10,0,0
+nfl,2022,LV,Las Vegas Raiders,26,17,6,11,0,0
+nfl,2022,DEN,Denver Broncos,27,17,5,12,0,0
+nfl,2022,LAR,Los Angeles Rams,28,17,5,12,0,0
+nfl,2022,IND,Indianapolis Colts,29,17,4,12,1,0
+nfl,2022,ARI,Arizona Cardinals,30,17,4,13,0,0
+nfl,2022,HOU,Houston Texans,31,17,3,13,1,0
+nfl,2022,CHI,Chicago Bears,32,17,3,14,0,0
+nhl,2013,BOS,Boston Bruins,1,82,54,19,9,117
+nhl,2013,ANA,Anaheim Ducks,2,82,54,20,8,116
+nhl,2013,COL,Colorado Avalanche,3,82,52,22,8,112
+nhl,2013,STL,St. Louis Blues,4,82,52,23,7,111
+nhl,2013,SJ,San Jose Sharks,5,82,51,22,9,111
+nhl,2013,PIT,Pittsburgh Penguins,6,82,51,24,7,109
+nhl,2013,CHI,Chicago Blackhawks,7,82,46,21,15,107
+nhl,2013,TB,Tampa Bay Lightning,8,82,46,27,9,101
+nhl,2013,MTL,Montreal Canadiens,9,82,46,28,8,100
+nhl,2013,LA,Los Angeles Kings,10,82,46,28,8,100
+nhl,2013,MIN,Minnesota Wild,11,82,43,27,12,98
+nhl,2013,NYR,New York Rangers,12,82,45,31,6,96
+nhl,2013,PHI,Philadelphia Flyers,13,82,42,30,10,94
+nhl,2013,CBJ,Columbus Blue Jackets,14,82,43,32,7,93
+nhl,2013,DET,Detroit Red Wings,15,82,39,28,15,93
+nhl,2013,DAL,Dallas Stars,16,82,40,31,11,91
+nhl,2013,WSH,Washington Capitals,17,82,38,30,14,90
+nhl,2013,PHX,Phoenix Coyotes,18,82,37,30,15,89
+nhl,2013,NSH,Nashville Predators,19,82,38,32,12,88
+nhl,2013,NJ,New Jersey Devils,20,82,35,29,18,88
+nhl,2013,OTT,Ottawa Senators,21,82,37,31,14,88
+nhl,2013,WPG,Winnipeg Jets,22,82,37,35,10,84
+nhl,2013,TOR,Toronto Maple Leafs,23,82,38,36,8,84
+nhl,2013,CAR,Carolina Hurricanes,24,82,36,35,11,83
+nhl,2013,VAN,Vancouver Canucks,25,82,36,35,11,83
+nhl,2013,NYI,New York Islanders,26,82,34,37,11,79
+nhl,2013,CGY,Calgary Flames,27,82,35,40,7,77
+nhl,2013,EDM,Edmonton Oilers,28,82,29,44,9,67
+nhl,2013,FLA,Florida Panthers,29,82,29,45,8,66
+nhl,2013,BUF,Buffalo Sabres,30,82,21,51,10,52
+nhl,2014,NYR,New York Rangers,1,89,53,29,7,113
+nhl,2014,MTL,Montreal Canadiens,2,92,50,32,10,110
+nhl,2014,ANA,Anaheim Ducks,3,89,51,31,7,109
+nhl,2014,STL,St. Louis Blues,4,89,51,31,7,109
+nhl,2014,TB,Tampa Bay Lightning,5,90,50,32,8,108
+nhl,2014,NSH,Nashville Predators,6,92,47,35,10,104
+nhl,2014,CHI,Chicago Blackhawks,7,88,48,34,6,102
+nhl,2014,VAN,Vancouver Canucks,8,87,48,34,5,101
+nhl,2014,WSH,Washington Capitals,9,93,45,37,11,101
+nhl,2014,NYI,New York Islanders,10,89,47,35,7,101
+nhl,2014,MIN,Minnesota Wild,11,90,46,36,8,100
+nhl,2014,DET,Detroit Red Wings,12,96,43,39,14,100
+nhl,2014,OTT,Ottawa Senators,13,95,43,39,13,99
+nhl,2014,WPG,Winnipeg Jets,14,95,43,39,13,99
+nhl,2014,PIT,Pittsburgh Penguins,15,94,43,39,12,98
+nhl,2014,CGY,Calgary Flames,16,89,45,37,7,97
+nhl,2014,BOS,Boston Bruins,17,96,41,41,14,96
+nhl,2014,LA,Los Angeles Kings,18,97,40,42,15,95
+nhl,2014,DAL,Dallas Stars,19,92,41,41,10,92
+nhl,2014,FLA,Florida Panthers,20,97,38,44,15,91
+nhl,2014,COL,Colorado Avalanche,21,94,39,43,12,90
+nhl,2014,SJ,San Jose Sharks,22,91,40,42,9,89
+nhl,2014,CBJ,Columbus Blue Jackets,23,87,42,40,5,89
+nhl,2014,PHI,Philadelphia Flyers,24,100,33,49,18,84
+nhl,2014,NJ,New Jersey Devils,25,96,32,50,14,78
+nhl,2014,CAR,Carolina Hurricanes,26,93,30,52,11,71
+nhl,2014,TOR,Toronto Maple Leafs,27,90,30,52,8,68
+nhl,2014,EDM,Edmonton Oilers,28,96,24,58,14,62
+nhl,2014,ARI,Arizona Coyotes,29,90,24,58,8,56
+nhl,2014,BUF,Buffalo Sabres,30,90,23,59,8,54
+nhl,2015,WSH,Washington Capitals,1,82,56,18,8,120
+nhl,2015,DAL,Dallas Stars,2,82,50,23,9,109
+nhl,2015,STL,St. Louis Blues,3,82,49,24,9,107
+nhl,2015,PIT,Pittsburgh Penguins,4,82,48,26,8,104
+nhl,2015,CHI,Chicago Blackhawks,5,82,47,26,9,103
+nhl,2015,ANA,Anaheim Ducks,6,82,46,25,11,103
+nhl,2015,FLA,Florida Panthers,7,82,47,26,9,103
+nhl,2015,LA,Los Angeles Kings,8,82,48,28,6,102
+nhl,2015,NYR,New York Rangers,9,82,46,27,9,101
+nhl,2015,NYI,New York Islanders,10,82,45,27,10,100
+nhl,2015,SJ,San Jose Sharks,11,82,46,30,6,98
+nhl,2015,TB,Tampa Bay Lightning,12,82,46,31,5,97
+nhl,2015,PHI,Philadelphia Flyers,13,82,41,27,14,96
+nhl,2015,NSH,Nashville Predators,14,82,41,27,14,96
+nhl,2015,DET,Detroit Red Wings,15,82,41,30,11,93
+nhl,2015,BOS,Boston Bruins,16,82,42,31,9,93
+nhl,2015,MIN,Minnesota Wild,17,82,38,33,11,87
+nhl,2015,CAR,Carolina Hurricanes,18,82,35,31,16,86
+nhl,2015,OTT,Ottawa Senators,19,82,38,35,9,85
+nhl,2015,NJ,New Jersey Devils,20,82,38,36,8,84
+nhl,2015,COL,Colorado Avalanche,21,82,39,39,4,82
+nhl,2015,MTL,Montreal Canadiens,22,82,38,38,6,82
+nhl,2015,BUF,Buffalo Sabres,23,82,35,36,11,81
+nhl,2015,ARI,Arizona Coyotes,24,82,35,39,8,78
+nhl,2015,WPG,Winnipeg Jets,25,82,35,39,8,78
+nhl,2015,CGY,Calgary Flames,26,82,35,40,7,77
+nhl,2015,CBJ,Columbus Blue Jackets,27,82,34,40,8,76
+nhl,2015,VAN,Vancouver Canucks,28,82,31,38,13,75
+nhl,2015,EDM,Edmonton Oilers,29,82,31,43,8,70
+nhl,2015,TOR,Toronto Maple Leafs,30,82,29,42,11,69
+nhl,2016,WSH,Washington Capitals,1,82,55,19,8,118
+nhl,2016,PIT,Pittsburgh Penguins,2,82,50,21,11,111
+nhl,2016,CHI,Chicago Blackhawks,3,82,50,23,9,109
+nhl,2016,CBJ,Columbus Blue Jackets,4,82,50,24,8,108
+nhl,2016,MIN,Minnesota Wild,5,82,49,25,8,106
+nhl,2016,ANA,Anaheim Ducks,6,82,46,23,13,105
+nhl,2016,MTL,Montreal Canadiens,7,82,47,26,9,103
+nhl,2016,EDM,Edmonton Oilers,8,82,47,26,9,103
+nhl,2016,NYR,New York Rangers,9,82,48,28,6,102
+nhl,2016,STL,St. Louis Blues,10,82,46,29,7,99
+nhl,2016,SJ,San Jose Sharks,11,82,46,29,7,99
+nhl,2016,OTT,Ottawa Senators,12,82,44,28,10,98
+nhl,2016,BOS,Boston Bruins,13,82,44,31,7,95
+nhl,2016,TOR,Toronto Maple Leafs,14,82,40,27,15,95
+nhl,2016,CGY,Calgary Flames,15,82,45,33,4,94
+nhl,2016,NSH,Nashville Predators,16,82,41,29,12,94
+nhl,2016,NYI,New York Islanders,17,82,41,29,12,94
+nhl,2016,TB,Tampa Bay Lightning,18,82,42,30,10,94
+nhl,2016,PHI,Philadelphia Flyers,19,82,39,33,10,88
+nhl,2016,WPG,Winnipeg Jets,20,82,40,35,7,87
+nhl,2016,CAR,Carolina Hurricanes,21,82,36,31,15,87
+nhl,2016,LA,Los Angeles Kings,22,82,39,35,8,86
+nhl,2016,FLA,Florida Panthers,23,82,35,36,11,81
+nhl,2016,DAL,Dallas Stars,24,82,34,37,11,79
+nhl,2016,DET,Detroit Red Wings,25,82,33,36,13,79
+nhl,2016,BUF,Buffalo Sabres,26,82,33,37,12,78
+nhl,2016,NJ,New Jersey Devils,27,82,28,40,14,70
+nhl,2016,ARI,Arizona Coyotes,28,82,30,42,10,70
+nhl,2016,VAN,Vancouver Canucks,29,82,30,43,9,69
+nhl,2016,COL,Colorado Avalanche,30,82,22,56,4,48
+nhl,2017,NSH,Nashville Predators,1,82,53,18,11,117
+nhl,2017,WPG,Winnipeg Jets,2,82,52,20,10,114
+nhl,2017,TB,Tampa Bay Lightning,3,82,54,23,5,113
+nhl,2017,BOS,Boston Bruins,4,82,50,20,12,112
+nhl,2017,VGK,Vegas Golden Knights,5,82,51,24,7,109
+nhl,2017,WSH,Washington Capitals,6,82,49,26,7,105
+nhl,2017,TOR,Toronto Maple Leafs,7,82,49,26,7,105
+nhl,2017,MIN,Minnesota Wild,8,82,45,26,11,101
+nhl,2017,ANA,Anaheim Ducks,9,82,44,25,13,101
+nhl,2017,PIT,Pittsburgh Penguins,10,82,47,29,6,100
+nhl,2017,SJ,San Jose Sharks,11,82,45,27,10,100
+nhl,2017,LA,Los Angeles Kings,12,82,45,29,8,98
+nhl,2017,PHI,Philadelphia Flyers,13,82,42,26,14,98
+nhl,2017,NJ,New Jersey Devils,14,82,44,29,9,97
+nhl,2017,CBJ,Columbus Blue Jackets,15,82,45,30,7,97
+nhl,2017,FLA,Florida Panthers,16,82,44,30,8,96
+nhl,2017,COL,Colorado Avalanche,17,82,43,30,9,95
+nhl,2017,STL,St. Louis Blues,18,82,44,32,6,94
+nhl,2017,DAL,Dallas Stars,19,82,42,32,8,92
+nhl,2017,CGY,Calgary Flames,20,82,37,35,10,84
+nhl,2017,CAR,Carolina Hurricanes,21,82,36,35,11,83
+nhl,2017,NYI,New York Islanders,22,82,35,37,10,80
+nhl,2017,EDM,Edmonton Oilers,23,82,36,40,6,78
+nhl,2017,NYR,New York Rangers,24,82,34,39,9,77
+nhl,2017,CHI,Chicago Blackhawks,25,82,33,39,10,76
+nhl,2017,VAN,Vancouver Canucks,26,82,31,40,11,73
+nhl,2017,DET,Detroit Red Wings,27,82,30,39,13,73
+nhl,2017,MTL,Montreal Canadiens,28,82,29,40,13,71
+nhl,2017,ARI,Arizona Coyotes,29,82,29,41,12,70
+nhl,2017,OTT,Ottawa Senators,30,82,28,43,11,67
+nhl,2017,BUF,Buffalo Sabres,31,82,25,45,12,62
+nhl,2018,TB,Tampa Bay Lightning,1,82,62,16,4,128
+nhl,2018,CGY,Calgary Flames,2,82,50,25,7,107
+nhl,2018,BOS,Boston Bruins,3,82,49,24,9,107
+nhl,2018,WSH,Washington Capitals,4,82,48,26,8,104
+nhl,2018,NYI,New York Islanders,5,82,48,27,7,103
+nhl,2018,SJ,San Jose Sharks,6,82,46,27,9,101
+nhl,2018,TOR,Toronto Maple Leafs,7,82,46,28,8,100
+nhl,2018,NSH,Nashville Predators,8,82,47,29,6,100
+nhl,2018,PIT,Pittsburgh Penguins,9,82,44,26,12,100
+nhl,2018,WPG,Winnipeg Jets,10,82,47,30,5,99
+nhl,2018,CAR,Carolina Hurricanes,11,82,46,29,7,99
+nhl,2018,STL,St. Louis Blues,12,82,45,28,9,99
+nhl,2018,CBJ,Columbus Blue Jackets,13,82,47,31,4,98
+nhl,2018,MTL,Montreal Canadiens,14,82,44,30,8,96
+nhl,2018,DAL,Dallas Stars,15,82,43,32,7,93
+nhl,2018,VGK,Vegas Golden Knights,16,82,43,32,7,93
+nhl,2018,COL,Colorado Avalanche,17,82,38,30,14,90
+nhl,2018,ARI,Arizona Coyotes,18,82,39,35,8,86
+nhl,2018,FLA,Florida Panthers,19,82,36,32,14,86
+nhl,2018,CHI,Chicago Blackhawks,20,82,36,34,12,84
+nhl,2018,MIN,Minnesota Wild,21,82,37,36,9,83
+nhl,2018,PHI,Philadelphia Flyers,22,82,37,37,8,82
+nhl,2018,VAN,Vancouver Canucks,23,82,35,36,11,81
+nhl,2018,ANA,Anaheim Ducks,24,82,35,37,10,80
+nhl,2018,EDM,Edmonton Oilers,25,82,35,38,9,79
+nhl,2018,NYR,New York Rangers,26,82,32,36,14,78
+nhl,2018,BUF,Buffalo Sabres,27,82,33,39,10,76
+nhl,2018,DET,Detroit Red Wings,28,82,32,40,10,74
+nhl,2018,NJ,New Jersey Devils,29,82,31,41,10,72
+nhl,2018,LA,Los Angeles Kings,30,82,31,42,9,71
+nhl,2018,OTT,Ottawa Senators,31,82,29,47,6,64
+nhl,2019,BOS,Boston Bruins,1,70,44,14,12,100
+nhl,2019,STL,St. Louis Blues,2,71,42,19,10,94
+nhl,2019,COL,Colorado Avalanche,3,70,42,20,8,92
+nhl,2019,TB,Tampa Bay Lightning,4,70,43,21,6,92
+nhl,2019,WSH,Washington Capitals,5,69,41,20,8,90
+nhl,2019,PHI,Philadelphia Flyers,6,69,41,21,7,89
+nhl,2019,PIT,Pittsburgh Penguins,7,69,40,23,6,86
+nhl,2019,VGK,Vegas Golden Knights,8,71,39,24,8,86
+nhl,2019,EDM,Edmonton Oilers,9,71,37,25,9,83
+nhl,2019,DAL,Dallas Stars,10,69,37,24,8,82
+nhl,2019,CAR,Carolina Hurricanes,11,68,38,25,5,81
+nhl,2019,TOR,Toronto Maple Leafs,12,70,36,25,9,81
+nhl,2019,CBJ,Columbus Blue Jackets,13,70,33,22,15,81
+nhl,2019,NYI,New York Islanders,14,68,35,23,10,80
+nhl,2019,WPG,Winnipeg Jets,15,71,37,28,6,80
+nhl,2019,NYR,New York Rangers,16,70,37,28,5,79
+nhl,2019,CGY,Calgary Flames,17,70,36,27,7,79
+nhl,2019,FLA,Florida Panthers,18,69,35,26,8,78
+nhl,2019,NSH,Nashville Predators,19,69,35,26,8,78
+nhl,2019,VAN,Vancouver Canucks,20,69,36,27,6,78
+nhl,2019,MIN,Minnesota Wild,21,69,35,27,7,77
+nhl,2019,ARI,Arizona Coyotes,22,70,33,29,8,74
+nhl,2019,CHI,Chicago Blackhawks,23,70,32,30,8,72
+nhl,2019,MTL,Montreal Canadiens,24,71,31,31,9,71
+nhl,2019,BUF,Buffalo Sabres,25,69,30,31,8,68
+nhl,2019,NJ,New Jersey Devils,26,69,28,29,12,68
+nhl,2019,ANA,Anaheim Ducks,27,71,29,33,9,67
+nhl,2019,LA,Los Angeles Kings,28,70,29,35,6,64
+nhl,2019,SJ,San Jose Sharks,29,70,29,36,5,63
+nhl,2019,OTT,Ottawa Senators,30,71,25,34,12,62
+nhl,2019,DET,Detroit Red Wings,31,71,17,49,5,39
+nhl,2020,COL,Colorado Avalanche,1,56,39,13,4,82
+nhl,2020,VGK,Vegas Golden Knights,2,56,40,14,2,82
+nhl,2020,CAR,Carolina Hurricanes,3,56,36,12,8,80
+nhl,2020,FLA,Florida Panthers,4,56,37,14,5,79
+nhl,2020,TOR,Toronto Maple Leafs,5,56,35,14,7,77
+nhl,2020,PIT,Pittsburgh Penguins,6,56,37,16,3,77
+nhl,2020,WSH,Washington Capitals,7,56,36,15,5,77
+nhl,2020,TB,Tampa Bay Lightning,8,56,36,17,3,75
+nhl,2020,MIN,Minnesota Wild,9,56,35,16,5,75
+nhl,2020,BOS,Boston Bruins,10,56,33,16,7,73
+nhl,2020,EDM,Edmonton Oilers,11,56,35,19,2,72
+nhl,2020,NYI,New York Islanders,12,56,32,17,7,71
+nhl,2020,NSH,Nashville Predators,13,56,31,23,2,64
+nhl,2020,WPG,Winnipeg Jets,14,56,30,23,3,63
+nhl,2020,STL,St. Louis Blues,15,56,27,20,9,63
+nhl,2020,NYR,New York Rangers,16,56,27,23,6,60
+nhl,2020,DAL,Dallas Stars,17,56,23,19,14,60
+nhl,2020,MTL,Montreal Canadiens,18,56,24,21,11,59
+nhl,2020,PHI,Philadelphia Flyers,19,56,25,23,8,58
+nhl,2020,CGY,Calgary Flames,20,56,26,27,3,55
+nhl,2020,CHI,Chicago Blackhawks,21,56,24,25,7,55
+nhl,2020,ARI,Arizona Coyotes,22,56,24,26,6,54
+nhl,2020,OTT,Ottawa Senators,23,56,23,28,5,51
+nhl,2020,VAN,Vancouver Canucks,24,56,23,29,4,50
+nhl,2020,LA,Los Angeles Kings,25,56,21,28,7,49
+nhl,2020,SJ,San Jose Sharks,26,56,21,28,7,49
+nhl,2020,DET,Detroit Red Wings,27,56,19,27,10,48
+nhl,2020,CBJ,Columbus Blue Jackets,28,56,18,26,12,48
+nhl,2020,NJ,New Jersey Devils,29,56,19,30,7,45
+nhl,2020,ANA,Anaheim Ducks,30,56,17,30,9,43
+nhl,2020,BUF,Buffalo Sabres,31,56,15,34,7,37
+nhl,2021,FLA,Florida Panthers,1,82,58,18,6,122
+nhl,2021,COL,Colorado Avalanche,2,82,56,19,7,119
+nhl,2021,CAR,Carolina Hurricanes,3,82,54,20,8,116
+nhl,2021,TOR,Toronto Maple Leafs,4,82,54,21,7,115
+nhl,2021,MIN,Minnesota Wild,5,82,53,22,7,113
+nhl,2021,CGY,Calgary Flames,6,82,50,21,11,111
+nhl,2021,TB,Tampa Bay Lightning,7,82,51,23,8,110
+nhl,2021,NYR,New York Rangers,8,82,52,24,6,110
+nhl,2021,STL,St. Louis Blues,9,82,49,22,11,109
+nhl,2021,BOS,Boston Bruins,10,82,51,26,5,107
+nhl,2021,EDM,Edmonton Oilers,11,82,49,27,6,104
+nhl,2021,PIT,Pittsburgh Penguins,12,82,46,25,11,103
+nhl,2021,WSH,Washington Capitals,13,82,44,26,12,100
+nhl,2021,LA,Los Angeles Kings,14,82,44,27,11,99
+nhl,2021,DAL,Dallas Stars,15,82,46,30,6,98
+nhl,2021,NSH,Nashville Predators,16,82,45,30,7,97
+nhl,2021,VGK,Vegas Golden Knights,17,82,43,31,8,94
+nhl,2021,VAN,Vancouver Canucks,18,82,40,30,12,92
+nhl,2021,WPG,Winnipeg Jets,19,82,39,32,11,89
+nhl,2021,NYI,New York Islanders,20,82,37,35,10,84
+nhl,2021,CBJ,Columbus Blue Jackets,21,82,37,38,7,81
+nhl,2021,SJ,San Jose Sharks,22,82,32,37,13,77
+nhl,2021,ANA,Anaheim Ducks,23,82,31,37,14,76
+nhl,2021,BUF,Buffalo Sabres,24,82,32,39,11,75
+nhl,2021,DET,Detroit Red Wings,25,82,32,40,10,74
+nhl,2021,OTT,Ottawa Senators,26,82,33,42,7,73
+nhl,2021,CHI,Chicago Blackhawks,27,82,28,42,12,68
+nhl,2021,NJ,New Jersey Devils,28,82,27,46,9,63
+nhl,2021,PHI,Philadelphia Flyers,29,82,25,46,11,61
+nhl,2021,SEA,Seattle Kraken,30,82,27,49,6,60
+nhl,2021,ARI,Arizona Coyotes,31,82,25,50,7,57
+nhl,2021,MTL,Montreal Canadiens,32,82,22,49,11,55
+nhl,2022,BOS,Boston Bruins,1,82,65,12,5,135
+nhl,2022,CAR,Carolina Hurricanes,2,82,52,21,9,113
+nhl,2022,NJ,New Jersey Devils,3,82,52,22,8,112
+nhl,2022,TOR,Toronto Maple Leafs,4,82,50,21,11,111
+nhl,2022,VGK,Vegas Golden Knights,5,82,51,22,9,111
+nhl,2022,EDM,Edmonton Oilers,6,82,50,23,9,109
+nhl,2022,COL,Colorado Avalanche,7,82,51,24,7,109
+nhl,2022,DAL,Dallas Stars,8,82,47,21,14,108
+nhl,2022,NYR,New York Rangers,9,82,47,22,13,107
+nhl,2022,LA,Los Angeles Kings,10,82,47,25,10,104
+nhl,2022,MIN,Minnesota Wild,11,82,46,25,11,103
+nhl,2022,SEA,Seattle Kraken,12,82,46,28,8,100
+nhl,2022,TB,Tampa Bay Lightning,13,82,46,30,6,98
+nhl,2022,WPG,Winnipeg Jets,14,82,46,33,3,95
+nhl,2022,NYI,New York Islanders,15,82,42,31,9,93
+nhl,2022,CGY,Calgary Flames,16,82,38,27,17,93
+nhl,2022,FLA,Florida Panthers,17,82,42,32,8,92
+nhl,2022,NSH,Nashville Predators,18,82,42,32,8,92
+nhl,2022,PIT,Pittsburgh Penguins,19,82,40,31,11,91
+nhl,2022,BUF,Buffalo Sabres,20,82,42,33,7,91
+nhl,2022,OTT,Ottawa Senators,21,82,39,35,8,86
+nhl,2022,VAN,Vancouver Canucks,22,82,38,37,7,83
+nhl,2022,STL,St. Louis Blues,23,82,37,38,7,81
+nhl,2022,WSH,Washington Capitals,24,82,35,37,10,80
+nhl,2022,DET,Detroit Red Wings,25,82,35,37,10,80
+nhl,2022,PHI,Philadelphia Flyers,26,82,31,38,13,75
+nhl,2022,ARI,Arizona Coyotes,27,82,28,40,14,70
+nhl,2022,MTL,Montreal Canadiens,28,82,31,45,6,68
+nhl,2022,SJ,San Jose Sharks,29,82,22,44,16,60
+nhl,2022,CHI,Chicago Blackhawks,30,82,26,49,7,59
+nhl,2022,CBJ,Columbus Blue Jackets,31,82,25,48,9,59
+nhl,2022,ANA,Anaheim Ducks,32,82,23,47,12,58
+spn,2013,ATM,Atletico Madrid,1,38,28,4,6,90
+spn,2013,BAR,Barcelona,2,38,27,5,6,87
+spn,2013,RMA,Real Madrid,3,38,27,5,6,87
+spn,2013,ATH,Athletic Club,4,38,20,8,10,70
+spn,2013,SEV,Sevilla,5,38,18,11,9,63
+spn,2013,VIL,Villarreal,6,38,17,13,8,59
+spn,2013,RSO,Real Sociedad,7,38,16,11,11,59
+spn,2013,VAL,Valencia,8,38,13,15,10,49
+spn,2013,CEL,Celta Vigo,9,38,14,17,7,49
+spn,2013,LEV,Levante,10,38,12,14,12,48
+spn,2013,MCF,Málaga,11,38,12,17,9,45
+spn,2013,RAY,Rayo Vallecano,12,38,13,21,4,43
+spn,2013,GET,Getafe,13,38,11,18,9,42
+spn,2013,ESP,Espanyol,14,38,11,18,9,42
+spn,2013,GRA,Granada,15,38,12,21,5,41
+spn,2013,ELC,Elche,16,38,9,16,13,40
+spn,2013,ALM,Almería,17,38,11,20,7,40
+spn,2013,OSA,Osasuna,18,38,10,19,9,39
+spn,2013,VLL,Real Valladolid,19,38,7,16,15,36
+spn,2013,BET,Real Betis,20,38,6,25,7,25
+spn,2014,BAR,Barcelona,1,38,30,4,4,94
+spn,2014,RMA,Real Madrid,2,38,30,6,2,92
+spn,2014,ATM,Atletico Madrid,3,38,23,6,9,78
+spn,2014,VAL,Valencia,4,38,22,5,11,77
+spn,2014,SEV,Sevilla,5,38,23,8,7,76
+spn,2014,VIL,Villarreal,6,38,16,10,12,60
+spn,2014,ATH,Athletic Club,7,38,15,13,10,55
+spn,2014,CEL,Celta Vigo,8,38,13,13,12,51
+spn,2014,MCF,Málaga,9,38,14,16,8,50
+spn,2014,ESP,Espanyol,10,38,13,15,10,49
+spn,2014,RAY,Rayo Vallecano,11,38,15,19,4,49
+spn,2014,RSO,Real Sociedad,12,38,11,14,13,46
+spn,2014,ELC,Elche,13,38,11,19,8,41
+spn,2014,LEV,Levante,14,38,9,19,10,37
+spn,2014,GET,Getafe,15,38,10,21,7,37
+spn,2014,DEP,Deportivo La Coruña,16,38,7,17,14,35
+spn,2014,GRA,Granada,17,38,7,17,14,35
+spn,2014,EIB,Eibar,18,38,9,21,8,35
+spn,2014,ALM,Almería,19,38,8,22,8,29
+spn,2014,COR,Córdoba,20,38,3,24,11,20
+spn,2015,BAR,Barcelona,1,38,29,5,4,91
+spn,2015,RMA,Real Madrid,2,38,28,4,6,90
+spn,2015,ATM,Atletico Madrid,3,38,28,6,4,88
+spn,2015,VIL,Villarreal,4,38,18,10,10,64
+spn,2015,ATH,Athletic Club,5,38,18,12,8,62
+spn,2015,CEL,Celta Vigo,6,38,17,12,9,60
+spn,2015,SEV,Sevilla,7,38,14,14,10,52
+spn,2015,MCF,Málaga,8,38,12,14,12,48
+spn,2015,RSO,Real Sociedad,9,38,13,16,9,48
+spn,2015,BET,Real Betis,10,38,11,15,12,45
+spn,2015,LPA,Las Palmas,11,38,12,18,8,44
+spn,2015,VAL,Valencia,12,38,11,16,11,44
+spn,2015,ESP,Espanyol,13,38,12,19,7,43
+spn,2015,EIB,Eibar,14,38,11,17,10,43
+spn,2015,DEP,Deportivo La Coruña,15,38,8,12,18,42
+spn,2015,GRA,Granada,16,38,10,19,9,39
+spn,2015,RSG,Sporting Gijón,17,38,10,19,9,39
+spn,2015,RAY,Rayo Vallecano,18,38,9,18,11,38
+spn,2015,GET,Getafe,19,38,9,20,9,36
+spn,2015,LEV,Levante,20,38,8,22,8,32
+spn,2016,RMA,Real Madrid,1,38,29,3,6,93
+spn,2016,BAR,Barcelona,2,38,28,4,6,90
+spn,2016,ATM,Atletico Madrid,3,38,23,6,9,78
+spn,2016,SEV,Sevilla,4,38,21,8,9,72
+spn,2016,VIL,Villarreal,5,38,19,9,10,67
+spn,2016,RSO,Real Sociedad,6,38,19,12,7,64
+spn,2016,ATH,Athletic Club,7,38,19,13,6,63
+spn,2016,ESP,Espanyol,8,38,15,12,11,56
+spn,2016,ALA,Alavés,9,38,14,11,13,55
+spn,2016,EIB,Eibar,10,38,15,14,9,54
+spn,2016,MCF,Málaga,11,38,12,16,10,46
+spn,2016,VAL,Valencia,12,38,13,18,7,46
+spn,2016,CEL,Celta Vigo,13,38,13,19,6,45
+spn,2016,LPA,Las Palmas,14,38,10,19,9,39
+spn,2016,BET,Real Betis,15,38,10,19,9,39
+spn,2016,DEP,Deportivo La Coruña,16,38,8,18,12,36
+spn,2016,LEG,Leganés,17,38,8,19,11,35
+spn,2016,RSG,Sporting Gijón,18,38,7,21,10,31
+spn,2016,OSA,Osasuna,19,38,4,24,10,22
+spn,2016,GRA,Granada,20,38,4,26,8,20
+spn,2017,BAR,Barcelona,1,38,28,1,9,93
+spn,2017,ATM,Atletico Madrid,2,38,23,5,10,79
+spn,2017,RMA,Real Madrid,3,38,22,6,10,76
+spn,2017,VAL,Valencia,4,38,22,9,7,73
+spn,2017,VIL,Villarreal,5,38,18,13,7,61
+spn,2017,BET,Real Betis,6,38,18,14,6,60
+spn,2017,SEV,Sevilla,7,38,17,14,7,58
+spn,2017,GET,Getafe,8,38,15,13,10,55
+spn,2017,EIB,Eibar,9,38,14,15,9,51
+spn,2017,GIR,Girona,10,38,14,15,9,51
+spn,2017,ESP,Espanyol,11,38,12,13,13,49
+spn,2017,RSO,Real Sociedad,12,38,14,17,7,49
+spn,2017,CEL,Celta Vigo,13,38,13,15,10,49
+spn,2017,ALA,Alavés,14,38,15,21,2,47
+spn,2017,LEV,Levante,15,38,11,14,13,46
+spn,2017,ATH,Athletic Club,16,38,10,15,13,43
+spn,2017,LEG,Leganés,17,38,12,19,7,43
+spn,2017,DEP,Deportivo La Coruña,18,38,6,21,11,29
+spn,2017,LPA,Las Palmas,19,38,5,26,7,22
+spn,2017,MCF,Málaga,20,38,5,28,5,20
+spn,2018,BAR,Barcelona,1,38,26,3,9,87
+spn,2018,ATM,Atletico Madrid,2,38,22,6,10,76
+spn,2018,RMA,Real Madrid,3,38,21,12,5,68
+spn,2018,VAL,Valencia,4,38,15,7,16,61
+spn,2018,GET,Getafe,5,38,15,9,14,59
+spn,2018,SEV,Sevilla,6,38,17,13,8,59
+spn,2018,ESP,Espanyol,7,38,14,13,11,53
+spn,2018,ATH,Athletic Club,8,38,13,11,14,53
+spn,2018,RSO,Real Sociedad,9,38,13,14,11,50
+spn,2018,BET,Real Betis,10,38,14,16,8,50
+spn,2018,ALA,Alavés,11,38,13,14,11,50
+spn,2018,EIB,Eibar,12,38,11,13,14,47
+spn,2018,LEG,Leganés,13,38,11,15,12,45
+spn,2018,VIL,Villarreal,14,38,10,14,14,44
+spn,2018,LEV,Levante,15,38,11,16,11,44
+spn,2018,VLL,Real Valladolid,16,38,10,17,11,41
+spn,2018,CEL,Celta Vigo,17,38,10,17,11,41
+spn,2018,GIR,Girona,18,38,9,19,10,37
+spn,2018,HUE,Huesca,19,38,7,19,12,33
+spn,2018,RAY,Rayo Vallecano,20,38,8,22,8,32
+spn,2019,RMA,Real Madrid,1,38,26,3,9,87
+spn,2019,BAR,Barcelona,2,38,25,6,7,82
+spn,2019,ATM,Atletico Madrid,3,38,18,4,16,70
+spn,2019,SEV,Sevilla,4,38,19,6,13,70
+spn,2019,VIL,Villarreal,5,38,18,14,6,60
+spn,2019,RSO,Real Sociedad,6,38,16,14,8,56
+spn,2019,GRA,Granada,7,38,16,14,8,56
+spn,2019,GET,Getafe,8,38,14,12,12,54
+spn,2019,VAL,Valencia,9,38,14,13,11,53
+spn,2019,OSA,Osasuna,10,38,13,12,13,52
+spn,2019,ATH,Athletic Club,11,38,13,13,12,51
+spn,2019,LEV,Levante,12,38,14,17,7,49
+spn,2019,VLL,Real Valladolid,13,38,9,14,15,42
+spn,2019,EIB,Eibar,14,38,11,18,9,42
+spn,2019,BET,Real Betis,15,38,10,17,11,41
+spn,2019,ALA,Alavés,16,38,10,19,9,39
+spn,2019,CEL,Celta Vigo,17,38,7,15,16,37
+spn,2019,LEG,Leganés,18,38,8,18,12,36
+spn,2019,MLL,Mallorca,19,38,9,23,6,33
+spn,2019,ESP,Espanyol,20,38,5,23,10,25
+spn,2020,ATM,Atletico Madrid,1,38,26,4,8,86
+spn,2020,RMA,Real Madrid,2,38,25,4,9,84
+spn,2020,BAR,Barcelona,3,38,24,7,7,79
+spn,2020,SEV,Sevilla,4,38,24,9,5,77
+spn,2020,RSO,Real Sociedad,5,38,17,10,11,62
+spn,2020,BET,Real Betis,6,38,17,11,10,61
+spn,2020,VIL,Villarreal,7,38,15,10,13,58
+spn,2020,CEL,Celta Vigo,8,38,14,13,11,53
+spn,2020,GRA,Granada,9,38,13,18,7,46
+spn,2020,ATH,Athletic Club,10,38,11,14,13,46
+spn,2020,OSA,Osasuna,11,38,11,16,11,44
+spn,2020,CAD,Cádiz,12,38,11,16,11,44
+spn,2020,VAL,Valencia,13,38,10,15,13,43
+spn,2020,LEV,Levante,14,38,9,15,14,41
+spn,2020,GET,Getafe,15,38,9,18,11,38
+spn,2020,ALA,Alavés,16,38,9,18,11,38
+spn,2020,ELC,Elche,17,38,8,18,12,36
+spn,2020,HUE,Huesca,18,38,7,18,13,34
+spn,2020,VLL,Real Valladolid,19,38,5,17,16,31
+spn,2020,EIB,Eibar,20,38,6,20,12,30
+spn,2021,RMA,Real Madrid,1,38,26,4,8,86
+spn,2021,BAR,Barcelona,2,38,21,7,10,73
+spn,2021,ATM,Atletico Madrid,3,38,21,9,8,71
+spn,2021,SEV,Sevilla,4,38,18,4,16,70
+spn,2021,BET,Real Betis,5,38,19,11,8,65
+spn,2021,RSO,Real Sociedad,6,38,17,10,11,62
+spn,2021,VIL,Villarreal,7,38,16,11,11,59
+spn,2021,ATH,Athletic Club,8,38,14,11,13,55
+spn,2021,VAL,Valencia,9,38,11,12,15,48
+spn,2021,OSA,Osasuna,10,38,12,15,11,47
+spn,2021,CEL,Celta Vigo,11,38,12,16,10,46
+spn,2021,RAY,Rayo Vallecano,12,38,11,18,9,42
+spn,2021,ELC,Elche,13,38,11,18,9,42
+spn,2021,ESP,Espanyol,14,38,10,16,12,42
+spn,2021,GET,Getafe,15,38,8,15,15,39
+spn,2021,MLL,Mallorca,16,38,10,19,9,39
+spn,2021,CAD,Cádiz,17,38,8,15,15,39
+spn,2021,GRA,Granada,18,38,8,16,14,38
+spn,2021,LEV,Levante,19,38,8,19,11,35
+spn,2021,ALA,Alavés,20,38,8,23,7,31
+spn,2022,BAR,Barcelona,1,38,28,6,4,88
+spn,2022,RMA,Real Madrid,2,38,24,8,6,78
+spn,2022,ATM,Atletico Madrid,3,38,23,7,8,77
+spn,2022,RSO,Real Sociedad,4,38,21,9,8,71
+spn,2022,VIL,Villarreal,5,38,19,12,7,64
+spn,2022,BET,Real Betis,6,38,17,12,9,60
+spn,2022,OSA,Osasuna,7,38,15,15,8,53
+spn,2022,ATH,Athletic Club,8,38,14,15,9,51
+spn,2022,MLL,Mallorca,9,38,14,16,8,50
+spn,2022,GIR,Girona,10,38,13,15,10,49
+spn,2022,RAY,Rayo Vallecano,11,38,13,15,10,49
+spn,2022,SEV,Sevilla,12,38,13,15,10,49
+spn,2022,CEL,Celta Vigo,13,38,11,17,10,43
+spn,2022,CAD,Cádiz,14,38,10,16,12,42
+spn,2022,GET,Getafe,15,38,10,16,12,42
+spn,2022,VAL,Valencia,16,38,11,18,9,42
+spn,2022,ALM,Almería,17,38,11,19,8,41
+spn,2022,VLL,Real Valladolid,18,38,11,20,7,40
+spn,2022,ESP,Espanyol,19,38,8,17,13,37
+spn,2022,ELC,Elche,20,38,5,23,10,25

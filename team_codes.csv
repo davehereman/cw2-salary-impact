@@ -1,0 +1,623 @@
+﻿League,Team,Code
+epl,Arsenal,ARS
+epl,Arsenal FC,ARS
+epl,Aston Villa,AVL
+epl,Aston Villa FC,AVL
+epl,Brighton,BHA
+epl,Brighton & Hove Albion,BHA
+epl,Brighton & Hove Albion FC,BHA
+epl,Birmingham City,BIR
+epl,Birmingham City FC,BIR
+epl,Blackburn Rovers,BLK
+epl,Blackburn Rovers FC,BLK
+epl,Blackpool,BLP
+epl,Blackpool FC,BLP
+epl,Bolton Wanderers,BOL
+epl,Bolton Wanderers FC,BOL
+epl,AFC Bournemouth,BOU
+epl,AFC Bournemouth FC,BOU
+epl,Bournemouth,BOU
+epl,Brentford,BRE
+epl,Brentford FC,BRE
+epl,Burnley,BUR
+epl,Burnley FC,BUR
+epl,Cardiff,CAR
+epl,Cardiff City,CAR
+epl,Cardiff City FC,CAR
+epl,Charlton Athletic,CHA
+epl,Charlton Athletic FC,CHA
+epl,Chelsea,CHE
+epl,Chelsea FC,CHE
+epl,Crystal Palace,CRY
+epl,Crystal Palace FC,CRY
+epl,Derby County,DER
+epl,Derby County FC,DER
+epl,Everton,EVE
+epl,Everton FC,EVE
+epl,Fulham,FUL
+epl,Fulham FC,FUL
+epl,Huddersfield,HUD
+epl,Huddersfield Town,HUD
+epl,Huddersfield Town FC,HUD
+epl,Hull,HUL
+epl,Hull City,HUL
+epl,Hull City FC,HUL
+epl,Leeds,LEE
+epl,Leeds United,LEE
+epl,Leeds United FC,LEE
+epl,Leicester,LEI
+epl,Leicester City,LEI
+epl,Leicester City FC,LEI
+epl,Liverpool,LIV
+epl,Liverpool FC,LIV
+epl,Man United,MAN
+epl,Man Utd,MAN
+epl,Manchester United,MAN
+epl,Manchester United FC,MAN
+epl,Middlesbrough,MID
+epl,Middlesbrough FC,MID
+epl,Man City,MNC
+epl,Manchester City,MNC
+epl,Manchester City FC,MNC
+epl,Newcastle,NEW
+epl,Newcastle United,NEW
+epl,Newcastle United FC,NEW
+epl,Nottingham Forest,NFO
+epl,Nottingham Forest FC,NFO
+epl,Nott'm Forest,NFO
+epl,Norwich,NOR
+epl,Norwich City,NOR
+epl,Norwich City FC,NOR
+epl,Portsmouth,POR
+epl,Portsmouth FC,POR
+epl,QPR,QPR
+epl,Queens Park Rangers,QPR
+epl,Queens Park Rangers FC,QPR
+epl,Reading,REA
+epl,Reading FC,REA
+epl,Sheff Utd,SHU
+epl,Sheffield United,SHU
+epl,Sheffield United FC,SHU
+epl,Southampton,SOU
+epl,Southampton FC,SOU
+epl,Stoke,STK
+epl,Stoke City,STK
+epl,Stoke City FC,STK
+epl,Sunderland,SUN
+epl,Sunderland FC,SUN
+epl,Swansea,SWA
+epl,Swansea City,SWA
+epl,Swansea City FC,SWA
+epl,Barnsley,TEMP
+epl,Barnsley FC,TEMP
+epl,Bristol City,TEMP
+epl,Bristol City FC,TEMP
+epl,Burton Albion,TEMP
+epl,Burton Albion FC,TEMP
+epl,Ipswich Town,TEMP
+epl,Ipswich Town FC,TEMP
+epl,Luton Town,TEMP
+epl,Luton Town FC,TEMP
+epl,Millwall,TEMP
+epl,Millwall FC,TEMP
+epl,Preston North End,TEMP
+epl,Preston North End FC,TEMP
+epl,Sheffield Wednesday,TEMP
+epl,Sheffield Wednesday FC,TEMP
+epl,Tottenham,TOT
+epl,Tottenham Hotspur,TOT
+epl,Tottenham Hotspur FC,TOT
+epl,Watford,WAT
+epl,Watford FC,WAT
+epl,West Brom,WBA
+epl,West Bromwich Albion,WBA
+epl,West Bromwich Albion FC,WBA
+epl,Wigan Athletic,WGA
+epl,Wigan Athletic FC,WGA
+epl,West Ham,WHU
+epl,West Ham United,WHU
+epl,West Ham United FC,WHU
+epl,Wolverhampton Wanderers,WOL
+epl,Wolverhampton Wanderers FC,WOL
+epl,Wolves,WOL
+fra,AC Ajaccio,ACA
+fra,Ajaccio,ACA
+fra,Ajaccio GFCO,ACA
+fra,Amiens,AMI
+fra,SC Amiens,AMI
+fra,Angers,ANG
+fra,Angers Sporting Club de l'Ouest,ANG
+fra,AS Nancy Lorraine,ASNL
+fra,Nancy,ASNL
+fra,Saint-Etienne,ASSE
+fra,St Etienne,ASSE
+fra,AJ Auxerre,AUX
+fra,Association Jeunesse Auxerroise,AUX
+fra,Auxerre,AUX
+fra,Bastia,BAS
+fra,Bordeaux,BOR
+fra,Brest,BRES
+fra,Stade Brestois 29,BRES
+fra,Caen,CAN
+fra,Clermont,CLE
+fra,Clermont Foot,CLE
+fra,Clermont Foot 63,CLE
+fra,Dijon,DIJO
+fra,Dijon FCO,DIJO
+fra,Guingamp,EAG
+fra,Evian,EVN
+fra,Evian Thonon Gaillard,EVN
+fra,GFC Ajaccio,GFC
+fra,Lille,LILL
+fra,Lille OSC Métropole,LILL
+fra,FC Lorient,LOR
+fra,Lorient,LOR
+fra,Lyon,LYON
+fra,Olympique Lyonnais,LYON
+fra,Metz,METZ
+fra,AS Monaco,MON
+fra,AS Monaco FC,MON
+fra,Monaco,MON
+fra,Montpellier,MONT
+fra,Montpellier HSC,MONT
+fra,FC Nantes,NAN
+fra,Nantes,NAN
+fra,Nice,NICE
+fra,OGC Nice Côte d'Azur,NICE
+fra,Nimes,NIM
+fra,Marseille,OLM
+fra,Olympique de Marseille,OLM
+fra,Paris Saint-Germain,PSG
+fra,Paris Saint-Germain FC,PSG
+fra,Paris SG,PSG
+fra,PSG,PSG
+fra,Lens,RCL
+fra,Racing Club de Lens,RCL
+fra,Reims,REIM
+fra,Stade de Reims,REIM
+fra,Rennes,REN
+fra,Stade Rennais,REN
+fra,Stade Rennais FC,REN
+fra,Sochaux,SOC
+fra,RC Strasbourg Alsace,STR
+fra,Strasbourg,STR
+fra,Toulouse,TOU
+fra,Toulouse FC,TOU
+fra,Espérance Sportive Troyes Aube Champagne,TRY
+fra,Troyes,TRY
+fra,Valenciennes,VAFC
+ger,Alemannia Aachen,AAC
+ger,Bayer 04 Leverkusen,B04
+ger,Bayer Leverkusen,B04
+ger,Leverkusen,B04
+ger,Borussia Monchengladbach,BMG
+ger,Borussia VfL Mönchengladbach,BMG
+ger,M'gladbach,BMG
+ger,Bochum,BOC
+ger,VfL Bochum,BOC
+ger,VfL Bochum 1848,BOC
+ger,Hertha,BSC
+ger,Hertha Berlin,BSC
+ger,Hertha BSC,BSC
+ger,Energie Cottbus,COT
+ger,Borussia Dortmund,DOR
+ger,BVB 09 Borussia Dortmund,DOR
+ger,Dortmund,DOR
+ger,Arminia Bielefeld,DSC
+ger,Bielefeld,DSC
+ger,MSV Duisburg,DUI
+ger,Braunschweig,EBS
+ger,Eintracht Braunschweig,EBS
+ger,TSV Eintracht Braunschweig,EBS
+ger,Fortuna Dusseldorf,F95
+ger,Fortuna Düsseldorf,F95
+ger,Augsburg,FCA
+ger,FC Augsburg,FCA
+ger,Hansa Rostock,FCH
+ger,Kaiserslautern,FCK
+ger,FC Nurnberg,FCN
+ger,Nuremberg,FCN
+ger,Nurnberg,FCN
+ger,1. FC Union Berlin,FCU
+ger,Union Berlin,FCU
+ger,Hannover,H96
+ger,Hannover 96,H96
+ger,Hamburg,HSV
+ger,Hamburg SV,HSV
+ger,FC Ingolstadt 04,ING
+ger,Ingolstadt,ING
+ger,1. FC Köln,KOE
+ger,FC Cologne,KOE
+ger,FC Koln,KOE
+ger,Karlsruher SC,KSC
+ger,1. FSV Mainz 05,M05
+ger,Mainz,M05
+ger,Bayern Munich,MUN
+ger,FC Bayern München,MUN
+ger,Rasen Ballsport Leipzig,RBL
+ger,RB Leipzig,RBL
+ger,FC Schalke 04,S04
+ger,Schalke,S04
+ger,Schalke 04,S04
+ger,Freiburg,SCF
+ger,SC Freiburg,SCF
+ger,Paderborn,SCP
+ger,SC Paderborn 07,SCP
+ger,Ein Frankfurt,SGE
+ger,Eintracht Frankfurt,SGE
+ger,Greuther Furth,SGF
+ger,SpVgg Greuther Furth,SGF
+ger,St. Pauli,STP
+ger,Darmstadt,SVD
+ger,SV Darmstadt 98,SVD
+ger,SV Werder Bremen,SVW
+ger,Werder Bremen,SVW
+ger,Hoffenheim,TSG
+ger,TSG 1899 Hoffenheim,TSG
+ger,TSG Hoffenheim,TSG
+ger,TSV 1860 Munich,TSV
+ger,Stuttgart,VFB
+ger,VfB Stuttgart,VFB
+ger,VfB Stuttgart 1893,VFB
+ger,VfL Wolfsburg,WOB
+ger,Wolfsburg,WOB
+itl,Ancona,Ancona
+itl,Ascoli,ASC
+itl,Atalanta,ATA
+itl,Atalanta Bergamasca Calcio,ATA
+itl,Bari,BAR
+itl,Benevento,BEN
+itl,Bologna,BOL
+itl,Bologna FC 1909,BOL
+itl,Brescia,BRE
+itl,Cagliari,CAG
+itl,Carpi,CAR
+itl,Catania,CAT
+itl,Cesena,CES
+itl,Cremonese,CRE
+itl,US Cremonese,CRE
+itl,Crotone,CRO
+itl,Chievo,CVO
+itl,Chievo Verona,CVO
+itl,Empoli,EMP
+itl,Empoli FC,EMP
+itl,ACF Fiorentina,FIO
+itl,Fiorentina,FIO
+itl,Frosinone,FRO
+itl,Genoa,GEN
+itl,FC Internazionale Milano,INT
+itl,Internazionale,INT
+itl,Juventus,JUV
+itl,Juventus FC,JUV
+itl,Lazio,LAZ
+itl,SS Lazio,LAZ
+itl,Lecce,LEC
+itl,US Lecce,LEC
+itl,Livorno,LVO
+itl,Messina,Messina
+itl,AC Milan,MIL
+itl,Milan,MIL
+itl,Modena,MOD
+itl,Monza,MON
+itl,SS Monza 1912,MON
+itl,Napoli,NAP
+itl,SSC Napoli,NAP
+itl,Novara,NOV
+itl,Palermo,PAL
+itl,Parma,PAR
+itl,Perugia,PER
+itl,Pescara,PES
+itl,US Pescara,PES
+itl,Reggina,REG
+itl,AS Roma,ROMA
+itl,Roma,ROMA
+itl,Salernitana,SAL
+itl,US Salernitana 1919,SAL
+itl,Sampdoria,SAM
+itl,UC Sampdoria,SAM
+itl,Sassuolo,SAS
+itl,US Sassuolo Calcio,SAS
+itl,Siena,SNA
+itl,SPAL,SPA
+itl,Spal,SPA
+itl,ASD Spezia Calcio 2008,SPE
+itl,Spezia,SPE
+itl,Torino,TOR
+itl,Torino FC,TOR
+itl,Treviso,Treviso
+itl,Udinese,UDI
+itl,Udinese Calcio,UDI
+itl,Venezia,VEN
+itl,Hellas Verona,VER
+itl,Hellas Verona FC,VER
+itl,Verona,VER
+itl,Inter,INT
+mlb,Anaheim Angels,ANA
+mlb,Arizona Diamondbacks,ARI
+mlb,Atlanta Braves,ATL
+mlb,Baltimore Orioles,BAL
+mlb,Boston Red Sox,BOS
+mlb,Chicago Cubs,CHC
+mlb,Chicago White Sox,CHW
+mlb,Cincinnati Reds,CIN
+mlb,Cleveland Guardians,CLE
+mlb,Cleveland Indians,CLE
+mlb,Colorado Rockies,COL
+mlb,Detroit Tigers,DET
+mlb,Florida Marlins,FLA
+mlb,Houston Astros,HOU
+mlb,Kansas City Royals,KC
+mlb,LA Angels,LAA
+mlb,Los Angeles Angels,LAA
+mlb,LA Dodgers,LAD
+mlb,Los Angeles Dodgers,LAD
+mlb,Miami Marlins,MIA
+mlb,Milwaukee Brewers,MIL
+mlb,Minnesota Twins,MIN
+mlb,Montreal Expos,MON
+mlb,New York Mets,NYM
+mlb,New York Yankees,NYY
+mlb,Oakland Athletics,OAK
+mlb,Philadelphia Phillies,PHI
+mlb,Pittsburgh Pirates,PIT
+mlb,San Diego Padres,SD
+mlb,Seattle Mariners,SEA
+mlb,San Francisco Giants,SF
+mlb,San Franciso Giants,SF
+mlb,St Louis Cardinals,STL
+mlb,St. Louis Cardinals,STL
+mlb,Tampa Bay Devil Rays,TB
+mlb,Tampa Bay Rays,TB
+mlb,Texas Rangers,TEX
+mlb,Toronto Blue Jays,TOR
+mlb,Washington Nationals,WAS
+mls,Atlanta United,ATL
+mls,Atlanta United FC,ATL
+mls,Austin FC,ATX
+mls,Chicago Fire,CHI
+mls,Chicago Fire FC,CHI
+mls,Chivas USA,CHV
+mls,FC Cincinnati,CIN
+mls,Columbus Crew,CLB
+mls,Charlotte FC,CLT
+mls,Colorado Rapids,COL
+mls,FC Dallas,DAL
+mls,D.C. United,DC
+mls,DC United,DC
+mls,Houston Dynamo,HOU
+mls,Houston Dynamo FC,HOU
+mls,LA Galaxy,LA
+mls,LAFC,LAFC
+mls,Los Angeles FC,LAFC
+mls,Club Internacional de Fútbol Miami,MIA
+mls,Inter Miami CF,MIA
+mls,Inter Miami FC,MIA
+mls,Minnesota United,MIN
+mls,Minnesota United FC,MIN
+mls,CF Montreal,MTL
+mls,CF Montréal,MTL
+mls,Montreal Impact,MTL
+mls,New England Revolution,NE
+mls,Nashville SC,NSH
+mls,Nashville SC MLS,NSH
+mls,New York Red Bulls,NY
+mls,New York City,NYC
+mls,New York City FC,NYC
+mls,Orlando City,ORL
+mls,Orlando City SC,ORL
+mls,Philadelphia Union,PHI
+mls,Portland Timbers,POR
+mls,Real Salt Lake,RSL
+mls,Seattle Sounders,SEA
+mls,Seattle Sounders FC,SEA
+mls,San Jose Earthquakes,SJ
+mls,Sporting Kansas City,SKC
+mls,St. Louis City SC,STL
+mls,MLS,TEMP
+mls,Toronto FC,TOR
+mls,Vancouver Whitecaps,VAN
+mls,Vancouver Whitecaps FC,VAN
+mls,Atlanta Utd,ATL
+mls,Charlotte,CLT
+mls,Los Angeles Galaxy,LA
+mls,Inter Miami,MIA
+mls,St. Louis City,STL
+nba,Atlanta Hawks,ATL
+nba,Brooklyn Nets,BKN
+nba,Boston Celtics,BOS
+nba,Charlotte Bobcats,CHA
+nba,Charlotte Hornets,CHA
+nba,Chicago Bulls,CHI
+nba,Cleveland Cavaliers,CLE
+nba,Dallas Mavericks,DAL
+nba,Denver Nuggets,DEN
+nba,Detroit Pistons,DET
+nba,Golden State Warriors,GS
+nba,Houston Rockets,HOU
+nba,Indiana Pacers,IND
+nba,LA Clippers,LAC
+nba,Los Angeles Clippers,LAC
+nba,LA Lakers,LAL
+nba,Los Angeles Lakers,LAL
+nba,Memphis Grizzlies,MEM
+nba,Miami Heat,MIA
+nba,Milwaukee Bucks,MIL
+nba,Minnesota Timberwolves,MIN
+nba,New Jersey Nets,NJ
+nba,New Orleans Hornets,NO
+nba,New Orleans Pelicans,NO
+nba,NO/Oklahoma City Hornets,NO
+nba,"NO/Oklahoma City
+
+ Hornets",NO
+nba,New York Knicks,NY
+nba,NY Knicks,NY
+nba,Oklahoma City Thunder,OKC
+nba,Orlando Magic,ORL
+nba,Philadelphia 76ers,PHI
+nba,Phoenix Suns,PHX
+nba,Portland Trail Blazers,POR
+nba,San Antonio Spurs,SA
+nba,Sacramento Kings,SAC
+nba,Seattle SuperSonics,SEA
+nba,Toronto Raptors,TOR
+nba,Utah Jazz,UTAH
+nba,Washington Wizards,WSH
+nfl,Arizona Cardinals,ARI
+nfl,Atlanta Falcons,ATL
+nfl,Baltimore Ravens,BAL
+nfl,Buffalo Bills,BUF
+nfl,Carolina Panthers,CAR
+nfl,Chicago Bears,CHI
+nfl,Cincinnati Bengals,CIN
+nfl,Cleveland Browns,CLE
+nfl,Dallas Cowboys,DAL
+nfl,Denver Broncos,DEN
+nfl,Detroit Lions,DET
+nfl,Green Bay Packers,GB
+nfl,Houston Texans,HOU
+nfl,Indianapolis Colts,IND
+nfl,Jacksonville Jaguars,JAX
+nfl,Kansas City Chiefs,KC
+nfl,Los Angeles Chargers,LAC
+nfl,Los Angeles Rams,LAR
+nfl,Las Vegas Raiders,LV
+nfl,Miami Dolphins,MIA
+nfl,Minnesota Vikings,MIN
+nfl,New England Patriots,NE
+nfl,New Orleans Saints,NO
+nfl,New York Giants,NYG
+nfl,New York Jets,NYJ
+nfl,Oakland Raiders,OAK
+nfl,Philadelphia Eagles,PHI
+nfl,Pittsburgh Steelers,PIT
+nfl,San Diego Chargers,SD
+nfl,Seattle Seahawks,SEA
+nfl,San Francisco 49ers,SF
+nfl,St Louis Rams,STL
+nfl,St. Louis Rams,STL
+nfl,Tampa Bay Buccaneers,TB
+nfl,Tampa Bay Bucs,TB
+nfl,Tennessee Titans,TEN
+nfl,Washington,WSH
+nfl,Washington Commanders,WSH
+nfl,Washington Football Team,WSH
+nfl,Washington Redskins,WSH
+nhl,Anaheim Ducks,ANA
+nhl,Anaheim Mighty Ducks,ANA
+nhl,Arizona Coyotes,ARI
+nhl,Atlanta Thrashers,ATL
+nhl,Boston Bruins,BOS
+nhl,Buffalo Sabres,BUF
+nhl,Carolina Hurricanes,CAR
+nhl,Columbus Blue Jackets,CBJ
+nhl,Calgary Flames,CGY
+nhl,Chicago Blackhawks,CHI
+nhl,Colorado Avalanche,COL
+nhl,Dallas Stars,DAL
+nhl,Detroit Red Wings,DET
+nhl,Edmonton Oilers,EDM
+nhl,Florida Panthers,FLA
+nhl,LA Kings,LA
+nhl,Los Angeles Kings,LA
+nhl,Minnesota Wild,MIN
+nhl,Montreal Canadiens,MTL
+nhl,New Jersey Devils,NJ
+nhl,Nashville Predators,NSH
+nhl,New York Islanders,NYI
+nhl,New York Rangers,NYR
+nhl,Ottawa Senators,OTT
+nhl,Philadelphia Flyers,PHI
+nhl,Phoenix Coyotes,PHX
+nhl,Pittsburgh Pengiuns,PIT
+nhl,Pittsburgh Penguins,PIT
+nhl,Seattle Kraken,SEA
+nhl,San Jose Sharks,SJ
+nhl,St Louis Blues,STL
+nhl,St. Louis Blues,STL
+nhl,Tampa Bay Lightning,TB
+nhl,Toronto Maple Leafs,TOR
+nhl,Vancouver Canucks,VAN
+nhl,Vegas Golden Knights,VGK
+nhl,Winnipeg Jets,WPG
+nhl,Washington Capitals,WSH
+spn,Alaves,ALA
+spn,Alavés,ALA
+spn,Deportivo Alaves,ALA
+spn,Albacete,ALB
+spn,Almeria,ALM
+spn,Almería,ALM
+spn,UD Almería,ALM
+spn,Ath Bilbao,ATH
+spn,Athletic Bilbao,ATH
+spn,Athletic Club,ATH
+spn,Athletic Club Bilbao,ATH
+spn,Ath Madrid,ATM
+spn,Atletico Madrid,ATM
+spn,Club Atlético de Madrid,ATM
+spn,Barcelona,BAR
+spn,FC Barcelona,BAR
+spn,Betis,BET
+spn,Real Betis,BET
+spn,Real Betis Balompié,BET
+spn,Cadiz,CAD
+spn,Cádiz,CAD
+spn,Cádiz CF,CAD
+spn,Celta,CEL
+spn,Celta Vigo,CEL
+spn,Real Club Celta de Vigo,CEL
+spn,Cordoba,COR
+spn,Córdoba,COR
+spn,Deportivo La Coruna,DEP
+spn,Deportivo La Coruña,DEP
+spn,La Coruna,DEP
+spn,Eibar,EIB
+spn,Elche,ELC
+spn,Elche CF,ELC
+spn,Espanol,ESP
+spn,Espanyol,ESP
+spn,Reial Club Deportiu Espanyol,ESP
+spn,Getafe,GET
+spn,Getafe Club de Fútbol,GET
+spn,Gimnastic de Tarragona,GIM
+spn,Girona,GIR
+spn,Girona FC,GIR
+spn,Granada,GRA
+spn,Hercules,HER
+spn,Huesca,HUE
+spn,Recreativo Huelva,HUX
+spn,Leganes,LEG
+spn,Leganés,LEG
+spn,Levante,LEV
+spn,Las Palmas,LPA
+spn,Malaga,MCF
+spn,Málaga,MCF
+spn,Mallorca,MLL
+spn,Real Club Deportivo Mallorca,MLL
+spn,Murcia,MUR
+spn,Numancia,NUM
+spn,CA Osasuna,OSA
+spn,Osasuna,OSA
+spn,Racing Santander,RAC
+spn,Rayo Vallecano,RAY
+spn,Vallecano,RAY
+spn,Real Madrid,RMA
+spn,Real Madrid CF,RMA
+spn,Sp Gijon,RSG
+spn,Sporting Gijon,RSG
+spn,Sporting Gijón,RSG
+spn,Real Sociedad,RSO
+spn,Real Sociedad de Fútbol,RSO
+spn,Sociedad,RSO
+spn,Sevilla,SEV
+spn,Sevilla FC,SEV
+spn,Tenerife,TEN
+spn,Valencia,VAL
+spn,Valencia CF,VAL
+spn,Villarreal,VIL
+spn,Villarreal CF,VIL
+spn,Real Valladolid,VLL
+spn,Real Valladolid Club de Fútbol,VLL
+spn,Valladolid,VLL
+spn,Xerez,XER
+spn,Real Zaragoza,ZAR

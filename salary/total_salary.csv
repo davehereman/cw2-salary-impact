@@ -1,0 +1,730 @@
+﻿League,Year,Code,Team,Total_Salary
+epl,2014,BOU,AFC Bournemouth,6175000
+epl,2014,ARS,Arsenal,117241499
+epl,2014,AVL,Aston Villa,52897993
+epl,2014,BHA,Brighton & Hove Albion,1768000
+epl,2014,BUR,Burnley,2184000
+epl,2014,CHE,Chelsea,145627509
+epl,2014,CRY,Crystal Palace,10192000
+epl,2014,EVE,Everton,22459996
+epl,2014,HUD,Huddersfield Town,624000
+epl,2014,HUL,Hull City,36795000
+epl,2014,LEI,Leicester City,5824000
+epl,2014,LIV,Liverpool,28522000
+epl,2014,MNC,Manchester City,78520000
+epl,2014,MAN,Manchester United,62140000
+epl,2014,NEW,Newcastle United,16900000
+epl,2014,NOR,Norwich City,780000
+epl,2014,QPR,Queens Park Rangers,45110800
+epl,2014,SHU,Sheffield United,3640000
+epl,2014,TEMP,Sheffield Wednesday,30482
+epl,2014,SOU,Southampton,4160000
+epl,2014,STK,Stoke City,10088000
+epl,2014,SUN,Sunderland,39406000
+epl,2014,SWA,Swansea City,10712000
+epl,2014,TOT,Tottenham Hotspur,10400000
+epl,2014,WAT,Watford,780000
+epl,2014,WBA,West Bromwich Albion,1560000
+epl,2014,WHU,West Ham United,14976000
+epl,2015,BOU,AFC Bournemouth,14032200
+epl,2015,ARS,Arsenal,104172444
+epl,2015,AVL,Aston Villa,28076073
+epl,2015,BHA,Brighton & Hove Albion,7644000
+epl,2015,BUR,Burnley,10020400
+epl,2015,CAR,Cardiff City,286000
+epl,2015,CHE,Chelsea,162088013
+epl,2015,CRY,Crystal Palace,31564000
+epl,2015,EVE,Everton,46769996
+epl,2015,HUD,Huddersfield Town,3016000
+epl,2015,LEI,Leicester City,18642000
+epl,2015,LIV,Liverpool,74672000
+epl,2015,MNC,Manchester City,107952000
+epl,2015,MAN,Manchester United,95160000
+epl,2015,NEW,Newcastle United,30784000
+epl,2015,NOR,Norwich City,46364800
+epl,2015,SHU,Sheffield United,3640000
+epl,2015,TEMP,Sheffield Wednesday,2600000
+epl,2015,SOU,Southampton,15444000
+epl,2015,STK,Stoke City,32448000
+epl,2015,SUN,Sunderland,46364800
+epl,2015,SWA,Swansea City,12792000
+epl,2015,TOT,Tottenham Hotspur,29016000
+epl,2015,WAT,Watford,23972000
+epl,2015,WBA,West Bromwich Albion,6344000
+epl,2015,WHU,West Ham United,27352000
+epl,2016,BOU,AFC Bournemouth,38675000
+epl,2016,ARS,Arsenal,107438240
+epl,2016,AVL,Aston Villa,13416895
+epl,2016,BHA,Brighton & Hove Albion,17711200
+epl,2016,BUR,Burnley,24892400
+epl,2016,CAR,Cardiff City,2547000
+epl,2016,CHE,Chelsea,133789724
+epl,2016,CRY,Crystal Palace,62176400
+epl,2016,EVE,Everton,55224000
+epl,2016,FUL,Fulham,2098800
+epl,2016,HUD,Huddersfield Town,10826400
+epl,2016,HUL,Hull City,42145000
+epl,2016,LEE,Leeds United,676000
+epl,2016,LEI,Leicester City,61698000
+epl,2016,LIV,Liverpool,84734000
+epl,2016,MNC,Manchester City,118196000
+epl,2016,MAN,Manchester United,138684000
+epl,2016,MID,Middlesbrough,38868000
+epl,2016,NEW,Newcastle United,47060000
+epl,2016,SHU,Sheffield United,4108000
+epl,2016,SOU,Southampton,65135200
+epl,2016,STK,Stoke City,50284000
+epl,2016,SUN,Sunderland,47772800
+epl,2016,SWA,Swansea City,46956000
+epl,2016,TOT,Tottenham Hotspur,71656000
+epl,2016,WAT,Watford,41756000
+epl,2016,WBA,West Bromwich Albion,37544000
+epl,2016,WHU,West Ham United,52572000
+epl,2016,WOL,Wolverhampton Wanderers,4284000
+epl,2017,BOU,AFC Bournemouth,43743000
+epl,2017,ARS,Arsenal,122983273
+epl,2017,BHA,Brighton & Hove Albion,36998000
+epl,2017,BUR,Burnley,36556000
+epl,2017,CHE,Chelsea,118026000
+epl,2017,CRY,Crystal Palace,65772200
+epl,2017,EVE,Everton,79092000
+epl,2017,HUD,Huddersfield Town,29718000
+epl,2017,LEI,Leicester City,18720000
+epl,2017,LIV,Liverpool,86824000
+epl,2017,MNC,Manchester City,126490000
+epl,2017,MAN,Manchester United,147160000
+epl,2017,NEW,Newcastle United,42016000
+epl,2017,SOU,Southampton,54236000
+epl,2017,STK,Stoke City,50180000
+epl,2017,SWA,Swansea City,42640000
+epl,2017,TOT,Tottenham Hotspur,78988000
+epl,2017,WAT,Watford,44594000
+epl,2017,WBA,West Bromwich Albion,57824000
+epl,2017,WHU,West Ham United,75400000
+epl,2017,WGA,Wigan Athletic,416000
+epl,2018,BOU,AFC Bournemouth,42584000
+epl,2018,ARS,Arsenal,131745273
+epl,2018,AVL,Aston Villa,12636000
+epl,2018,BHA,Brighton & Hove Albion,38860666
+epl,2018,BUR,Burnley,43080000
+epl,2018,CAR,Cardiff City,26165166
+epl,2018,CHE,Chelsea,139946000
+epl,2018,CRY,Crystal Palace,69888000
+epl,2018,EVE,Everton,83332000
+epl,2018,FUL,Fulham,41878800
+epl,2018,HUD,Huddersfield Town,31033600
+epl,2018,HUL,Hull City,468000
+epl,2018,LEI,Leicester City,79508000
+epl,2018,LIV,Liverpool,122980000
+epl,2018,MNC,Manchester City,145206000
+epl,2018,MAN,Manchester United,148980000
+epl,2018,NEW,Newcastle United,43056000
+epl,2018,SOU,Southampton,70096000
+epl,2018,TOT,Tottenham Hotspur,86346000
+epl,2018,WAT,Watford,46752000
+epl,2018,WHU,West Ham United,85020000
+epl,2018,WOL,Wolverhampton Wanderers,39353000
+epl,2019,BOU,AFC Bournemouth,39880000
+epl,2019,ARS,Arsenal,115410273
+epl,2019,AVL,Aston Villa,37962396
+epl,2019,BHA,Brighton & Hove Albion,43642666
+epl,2019,BUR,Burnley,49648000
+epl,2019,CAR,Cardiff City,17782166
+epl,2019,CHE,Chelsea,131278000
+epl,2019,CRY,Crystal Palace,75322000
+epl,2019,DER,Derby County,6340000
+epl,2019,EVE,Everton,83116000
+epl,2019,HUD,Huddersfield Town,28610000
+epl,2019,HUL,Hull City,1000000
+epl,2019,LEI,Leicester City,74869000
+epl,2019,LIV,Liverpool,128400000
+epl,2019,MNC,Manchester City,146521000
+epl,2019,MAN,Manchester United,157595000
+epl,2019,NEW,Newcastle United,49221000
+epl,2019,NOR,Norwich City,20698000
+epl,2019,SHU,Sheffield United,16782000
+epl,2019,TEMP,Sheffield Wednesday,1300000
+epl,2019,SOU,Southampton,50752000
+epl,2019,STK,Stoke City,31642000
+epl,2019,SWA,Swansea City,21736000
+epl,2019,TOT,Tottenham Hotspur,93138000
+epl,2019,WAT,Watford,46670000
+epl,2019,WHU,West Ham United,72424000
+epl,2019,WOL,Wolverhampton Wanderers,49965000
+epl,2020,ARS,Arsenal,128779273
+epl,2020,AVL,Aston Villa,56315396
+epl,2020,BIR,Birmingham City,1924000
+epl,2020,BHA,Brighton & Hove Albion,46049333
+epl,2020,BUR,Burnley,36518000
+epl,2020,CAR,Cardiff City,12663666
+epl,2020,CHE,Chelsea,144766000
+epl,2020,CRY,Crystal Palace,87291000
+epl,2020,DER,Derby County,1820000
+epl,2020,EVE,Everton,81161000
+epl,2020,FUL,Fulham,43928800
+epl,2020,HUD,Huddersfield Town,13468000
+epl,2020,LEE,Leeds United,27826800
+epl,2020,LEI,Leicester City,73751000
+epl,2020,LIV,Liverpool,132854000
+epl,2020,TEMP,Luton Town,30000
+epl,2020,MNC,Manchester City,141449000
+epl,2020,MAN,Manchester United,184315000
+epl,2020,MID,Middlesbrough,2520024
+epl,2020,NEW,Newcastle United,58366200
+epl,2020,SHU,Sheffield United,20569600
+epl,2020,TEMP,Sheffield Wednesday,1300000
+epl,2020,SOU,Southampton,18460000
+epl,2020,STK,Stoke City,20020000
+epl,2020,SWA,Swansea City,5148000
+epl,2020,TOT,Tottenham Hotspur,129175200
+epl,2020,WBA,West Bromwich Albion,22486200
+epl,2020,WHU,West Ham United,69464000
+epl,2020,WOL,Wolverhampton Wanderers,51494000
+epl,2021,ARS,Arsenal,93961273
+epl,2021,AVL,Aston Villa,57805396
+epl,2021,BRE,Brentford,15654600
+epl,2021,BHA,Brighton & Hove Albion,38907333
+epl,2021,BUR,Burnley,33908000
+epl,2021,CAR,Cardiff City,6605000
+epl,2021,CHE,Chelsea,175512000
+epl,2021,CRY,Crystal Palace,67362000
+epl,2021,EVE,Everton,87275000
+epl,2021,HUD,Huddersfield Town,1976000
+epl,2021,LEE,Leeds United,29816800
+epl,2021,LEI,Leicester City,69165000
+epl,2021,LIV,Liverpool,136234000
+epl,2021,TEMP,Luton Town,420000
+epl,2021,MNC,Manchester City,149344000
+epl,2021,MAN,Manchester United,214485000
+epl,2021,NEW,Newcastle United,61096200
+epl,2021,NOR,Norwich City,22820000
+epl,2021,SOU,Southampton,51134000
+epl,2021,STK,Stoke City,13390000
+epl,2021,TOT,Tottenham Hotspur,89769200
+epl,2021,WAT,Watford,30489000
+epl,2021,WHU,West Ham United,66904000
+epl,2021,WOL,Wolverhampton Wanderers,48213600
+epl,2022,BOU,AFC Bournemouth,43836000
+epl,2022,ARS,Arsenal,103598000
+epl,2022,AVL,Aston Villa,86760000
+epl,2022,BRE,Brentford,30170000
+epl,2022,BHA,Brighton & Hove Albion,36465000
+epl,2022,CHE,Chelsea,214690000
+epl,2022,EVE,Everton,80707000
+epl,2022,FUL,Fulham,54068000
+epl,2022,LEE,Leeds United,20800000
+epl,2022,LEI,Leicester City,59020000
+epl,2022,LIV,Liverpool,160868000
+epl,2022,MNC,Manchester City,182640000
+epl,2022,MAN,Manchester United,211875000
+epl,2022,NEW,Newcastle United,76220600
+epl,2022,NFO,Nottingham Forest,74740000
+epl,2022,SHU,Sheffield United,13453200
+epl,2022,SOU,Southampton,21320000
+epl,2022,STK,Stoke City,40000
+epl,2022,TOT,Tottenham Hotspur,110438000
+epl,2022,WBA,West Bromwich Albion,4716200
+epl,2022,WHU,West Ham United,86560000
+epl,2022,WOL,Wolverhampton Wanderers,63102000
+mlb,2020,ARI,Arizona Diamondbacks,65598752
+mlb,2020,ATL,Atlanta Braves,63561931
+mlb,2020,BAL,Baltimore Orioles,23478635
+mlb,2020,BOS,Boston Red Sox,84210390
+mlb,2020,CHC,Chicago Cubs,86596171
+mlb,2020,CHW,Chicago White Sox,53665251
+mlb,2020,CIN,Cincinnati Reds,55535890
+mlb,2020,CLE,Cleveland Indians,39299107
+mlb,2020,COL,Colorado Rockies,67808533
+mlb,2020,DET,Detroit Tigers,43164880
+mlb,2020,HOU,Houston Astros,82890957
+mlb,2020,KC,Kansas City Royals,34812194
+mlb,2020,LAA,Los Angeles Angels,67040893
+mlb,2020,LAD,Los Angeles Dodgers,124917397
+mlb,2020,MIA,Miami Marlins,34222260
+mlb,2020,MIL,Milwaukee Brewers,41434086
+mlb,2020,MIN,Minnesota Twins,55679689
+mlb,2020,NYM,New York Mets,81945598
+mlb,2020,NYY,New York Yankees,111939081
+mlb,2020,OAK,Oakland Athletics,36720178
+mlb,2020,PHI,Philadelphia Phillies,73543547
+mlb,2020,PIT,Pittsburgh Pirates,25337837
+mlb,2020,SD,San Diego Padres,73097954
+mlb,2020,SF,San Francisco Giants,73408817
+mlb,2020,SEA,Seattle Mariners,51433829
+mlb,2020,STL,St. Louis Cardinals,73246343
+mlb,2020,TB,Tampa Bay Rays,28290689
+mlb,2020,TEX,Texas Rangers,64214137
+mlb,2020,TOR,Toronto Blue Jays,54997060
+mlb,2020,WAS,Washington Nationals,75067703
+mlb,2021,ARI,Arizona Diamondbacks,91632929
+mlb,2021,ATL,Atlanta Braves,152750691
+mlb,2021,BAL,Baltimore Orioles,42421870
+mlb,2021,BOS,Boston Red Sox,187100784
+mlb,2021,CHC,Chicago Cubs,144037170
+mlb,2021,CHW,Chicago White Sox,140926169
+mlb,2021,CIN,Cincinnati Reds,126587447
+mlb,2021,CLE,Cleveland Indians,50670534
+mlb,2021,COL,Colorado Rockies,116408966
+mlb,2021,DET,Detroit Tigers,86348945
+mlb,2021,HOU,Houston Astros,194222042
+mlb,2021,KC,Kansas City Royals,91595545
+mlb,2021,LAA,Los Angeles Angels,183849560
+mlb,2021,LAD,Los Angeles Dodgers,266020809
+mlb,2021,MIA,Miami Marlins,58157900
+mlb,2021,MIL,Milwaukee Brewers,99377415
+mlb,2021,MIN,Minnesota Twins,120084606
+mlb,2021,NYM,New York Mets,201189189
+mlb,2021,NYY,New York Yankees,205669863
+mlb,2021,OAK,Oakland Athletics,90400598
+mlb,2021,PHI,Philadelphia Phillies,197263223
+mlb,2021,PIT,Pittsburgh Pirates,54356609
+mlb,2021,SD,San Diego Padres,179764272
+mlb,2021,SF,San Francisco Giants,171890308
+mlb,2021,SEA,Seattle Mariners,83822113
+mlb,2021,STL,St. Louis Cardinals,151469994
+mlb,2021,TB,Tampa Bay Rays,70836327
+mlb,2021,TEX,Texas Rangers,95788819
+mlb,2021,TOR,Toronto Blue Jays,150140253
+mlb,2021,WAS,Washington Nationals,144415187
+mlb,2022,ARI,Arizona Diamondbacks,85964090
+mlb,2022,ATL,Atlanta Braves,183438888
+mlb,2022,BAL,Baltimore Orioles,44888388
+mlb,2022,BOS,Boston Red Sox,211812131
+mlb,2022,CHC,Chicago Cubs,151054737
+mlb,2022,CHW,Chicago White Sox,203205326
+mlb,2022,CIN,Cincinnati Reds,115467321
+mlb,2022,CLE,Cleveland Guardians,66477492
+mlb,2022,COL,Colorado Rockies,140012218
+mlb,2022,DET,Detroit Tigers,136287588
+mlb,2022,HOU,Houston Astros,183791796
+mlb,2022,KC,Kansas City Royals,92613711
+mlb,2022,LAA,Los Angeles Angels,179877811
+mlb,2022,LAD,Los Angeles Dodgers,270381426
+mlb,2022,MIA,Miami Marlins,82954422
+mlb,2022,MIL,Milwaukee Brewers,130769325
+mlb,2022,MIN,Minnesota Twins,149030158
+mlb,2022,NYM,New York Mets,268292506
+mlb,2022,NYY,New York Yankees,236098989
+mlb,2022,OAK,Oakland Athletics,48443900
+mlb,2022,PHI,Philadelphia Phillies,244484097
+mlb,2022,PIT,Pittsburgh Pirates,56184032
+mlb,2022,SD,San Diego Padres,224511694
+mlb,2022,SF,San Francisco Giants,162453046
+mlb,2022,SEA,Seattle Mariners,115838907
+mlb,2022,STL,St. Louis Cardinals,156428325
+mlb,2022,TB,Tampa Bay Rays,98342073
+mlb,2022,TEX,Texas Rangers,150037446
+mlb,2022,TOR,Toronto Blue Jays,177071670
+mlb,2022,WAS,Washington Nationals,126809535
+mls,2018,ATL,Atlanta United FC,9773612
+mls,2018,CHI,Chicago Fire,13209392
+mls,2018,COL,Colorado Rapids,10540637
+mls,2018,CLB,Columbus Crew,6999423
+mls,2018,DC,D.C. United,8865513
+mls,2018,CIN,FC Cincinnati,2057576
+mls,2018,DAL,FC Dallas,8176794
+mls,2018,HOU,Houston Dynamo,5304148
+mls,2018,LA,LA Galaxy,16976812
+mls,2018,LAFC,Los Angeles FC,14166738
+mls,2018,MIN,Minnesota United FC,8290505
+mls,2018,MTL,Montreal Impact,11768066
+mls,2018,NE,New England Revolution,7806034
+mls,2018,NYC,New York City FC,14053171
+mls,2018,NY,New York Red Bulls,7336534
+mls,2018,ORL,Orlando City,7719087
+mls,2018,PHI,Philadelphia Union,8072129
+mls,2018,POR,Portland Timbers,10164053
+mls,2018,RSL,Real Salt Lake,8729424
+mls,2018,SJ,San Jose Earthquakes,7508343
+mls,2018,SEA,Seattle Sounders FC,12787745
+mls,2018,SKC,Sporting Kansas City,9655576
+mls,2018,TOR,Toronto FC,25747264
+mls,2018,VAN,Vancouver Whitecaps FC,7178880
+mls,2019,ATL,Atlanta United FC,11485111
+mls,2019,CHI,Chicago Fire,16073705
+mls,2019,COL,Colorado Rapids,8036215
+mls,2019,CLB,Columbus Crew,10049306
+mls,2019,DC,D.C. United,10414746
+mls,2019,CIN,FC Cincinnati,9488759
+mls,2019,DAL,FC Dallas,7466944
+mls,2019,HOU,Houston Dynamo,7602582
+mls,2019,LA,LA Galaxy,17724081
+mls,2019,LAFC,Los Angeles FC,13338959
+mls,2019,MIN,Minnesota United FC,8222686
+mls,2019,MTL,Montreal Impact,11470278
+mls,2019,NSH,Nashville SC,172296
+mls,2019,NE,New England Revolution,8182996
+mls,2019,NYC,New York City FC,9542039
+mls,2019,NY,New York Red Bulls,7486025
+mls,2019,ORL,Orlando City,10684789
+mls,2019,PHI,Philadelphia Union,8459186
+mls,2019,POR,Portland Timbers,11105358
+mls,2019,RSL,Real Salt Lake,9940119
+mls,2019,SJ,San Jose Earthquakes,8121656
+mls,2019,SEA,Seattle Sounders FC,12054716
+mls,2019,SKC,Sporting Kansas City,12080510
+mls,2019,TOR,Toronto FC,21244519
+mls,2019,VAN,Vancouver Whitecaps FC,5807495
+mls,2020,ATL,Atlanta United FC,13184580
+mls,2020,CHI,Chicago Fire,11472125
+mls,2020,COL,Colorado Rapids,6120394
+mls,2020,CLB,Columbus Crew,12384982
+mls,2020,DC,D.C. United,8068092
+mls,2020,CIN,FC Cincinnati,12016445
+mls,2020,DAL,FC Dallas,10090541
+mls,2020,HOU,Houston Dynamo,8870968
+mls,2020,MIA,Inter Miami FC,13086521
+mls,2020,LA,LA Galaxy,16811192
+mls,2020,LAFC,Los Angeles FC,12899502
+mls,2020,MIN,Minnesota United FC,9002470
+mls,2020,MTL,Montreal Impact,10641859
+mls,2020,NSH,Nashville SC,8063650
+mls,2020,NE,New England Revolution,11447878
+mls,2020,NYC,New York City FC,12187832
+mls,2020,NY,New York Red Bulls,7050054
+mls,2020,ORL,Orlando City,10003461
+mls,2020,PHI,Philadelphia Union,8516499
+mls,2020,POR,Portland Timbers,11443295
+mls,2020,RSL,Real Salt Lake,9254828
+mls,2020,SJ,San Jose Earthquakes,9874989
+mls,2020,SEA,Seattle Sounders FC,12412500
+mls,2020,SKC,Sporting Kansas City,12807584
+mls,2020,TOR,Toronto FC,18528776
+mls,2020,VAN,Vancouver Whitecaps FC,7639268
+mls,2021,ATL,Atlanta United FC,18826032
+mls,2021,ATX,Austin FC,11751103
+mls,2021,MTL,CF Montreal,11186772
+mls,2021,CHI,Chicago Fire,13002668
+mls,2021,COL,Colorado Rapids,8820038
+mls,2021,CLB,Columbus Crew,12557305
+mls,2021,DC,D.C. United,10574323
+mls,2021,CIN,FC Cincinnati,14082405
+mls,2021,DAL,FC Dallas,10506289
+mls,2021,HOU,Houston Dynamo,10573227
+mls,2021,MIA,Inter Miami FC,16525292
+mls,2021,LA,LA Galaxy,17839427
+mls,2021,LAFC,Los Angeles FC,14189716
+mls,2021,MIN,Minnesota United FC,11527572
+mls,2021,NSH,Nashville SC,10315124
+mls,2021,NE,New England Revolution,10507615
+mls,2021,NYC,New York City FC,13760924
+mls,2021,NY,New York Red Bulls,9036175
+mls,2021,ORL,Orlando City,10828754
+mls,2021,PHI,Philadelphia Union,8919596
+mls,2021,POR,Portland Timbers,10417198
+mls,2021,RSL,Real Salt Lake,10307956
+mls,2021,SJ,San Jose Earthquakes,9716050
+mls,2021,SEA,Seattle Sounders FC,12742519
+mls,2021,SKC,Sporting Kansas City,12387795
+mls,2021,TOR,Toronto FC,15513555
+mls,2021,VAN,Vancouver Whitecaps FC,10507728
+mls,2022,ATL,Atlanta United FC,18072906
+mls,2022,ATX,Austin FC,15081027
+mls,2022,MTL,CF Montreal,11752370
+mls,2022,CLT,Charlotte FC,10919686
+mls,2022,CHI,Chicago Fire,17787877
+mls,2022,COL,Colorado Rapids,10483345
+mls,2022,CLB,Columbus Crew,16110506
+mls,2022,DC,D.C. United,16079608
+mls,2022,CIN,FC Cincinnati,13437446
+mls,2022,DAL,FC Dallas,13778280
+mls,2022,HOU,Houston Dynamo,15899836
+mls,2022,MIA,Inter Miami FC,17680936
+mls,2022,LA,LA Galaxy,22827019
+mls,2022,LAFC,Los Angeles FC,20451014
+mls,2022,TEMP,MLS,1333333
+mls,2022,MIN,Minnesota United FC,10284693
+mls,2022,NSH,Nashville SC,10897348
+mls,2022,NE,New England Revolution,15522060
+mls,2022,NYC,New York City FC,11925850
+mls,2022,NY,New York Red Bulls,11701891
+mls,2022,ORL,Orlando City,11162418
+mls,2022,PHI,Philadelphia Union,10657333
+mls,2022,POR,Portland Timbers,10438560
+mls,2022,RSL,Real Salt Lake,11470686
+mls,2022,SJ,San Jose Earthquakes,11039654
+mls,2022,SEA,Seattle Sounders FC,16121352
+mls,2022,SKC,Sporting Kansas City,14834978
+mls,2022,TOR,Toronto FC,33241969
+mls,2022,VAN,Vancouver Whitecaps FC,12440827
+nba,2020,ATL,Atlanta Hawks,116695055
+nba,2020,BOS,Boston Celtics,130767745
+nba,2020,BKN,Brooklyn Nets,168550487
+nba,2020,CHA,Charlotte Hornets,107134070
+nba,2020,CHI,Chicago Bulls,128065350
+nba,2020,CLE,Cleveland Cavaliers,126527288
+nba,2020,DAL,Dallas Mavericks,125815404
+nba,2020,DEN,Denver Nuggets,131820534
+nba,2020,DET,Detroit Pistons,115013466
+nba,2020,GS,Golden State Warriors,175825052
+nba,2020,HOU,Houston Rockets,129533390
+nba,2020,IND,Indiana Pacers,129005732
+nba,2020,LAC,LA Clippers,137405301
+nba,2020,LAL,Los Angeles Lakers,138544305
+nba,2020,MEM,Memphis Grizzlies,134245326
+nba,2020,MIA,Miami Heat,135572405
+nba,2020,MIL,Milwaukee Bucks,133224345
+nba,2020,MIN,Minnesota Timberwolves,159195461
+nba,2020,NO,New Orleans Pelicans,132616252
+nba,2020,NY,New York Knicks,101969879
+nba,2020,OKC,Oklahoma City Thunder,104570165
+nba,2020,ORL,Orlando Magic,118898403
+nba,2020,PHI,Philadelphia 76ers,147787869
+nba,2020,PHX,Phoenix Suns,130285572
+nba,2020,POR,Portland Trail Blazers,135448164
+nba,2020,SAC,Sacramento Kings,115582515
+nba,2020,SA,San Antonio Spurs,150150620
+nba,2020,TOR,Toronto Raptors,143726386
+nba,2020,UTAH,Utah Jazz,138998838
+nba,2020,WSH,Washington Wizards,160772292
+nba,2021,ATL,Atlanta Hawks,132773339
+nba,2021,BOS,Boston Celtics,135425801
+nba,2021,BKN,Brooklyn Nets,172820410
+nba,2021,CHA,Charlotte Hornets,120990744
+nba,2021,CHI,Chicago Bulls,136118673
+nba,2021,CLE,Cleveland Cavaliers,133138401
+nba,2021,DAL,Dallas Mavericks,146734486
+nba,2021,DEN,Denver Nuggets,138963942
+nba,2021,DET,Detroit Pistons,128989131
+nba,2021,GS,Golden State Warriors,184024769
+nba,2021,HOU,Houston Rockets,132065764
+nba,2021,IND,Indiana Pacers,136089712
+nba,2021,LAC,LA Clippers,166162398
+nba,2021,LAL,Los Angeles Lakers,160861720
+nba,2021,MEM,Memphis Grizzlies,115994102
+nba,2021,MIA,Miami Heat,138804919
+nba,2021,MIL,Milwaukee Bucks,160663369
+nba,2021,MIN,Minnesota Timberwolves,165734220
+nba,2021,NO,New Orleans Pelicans,134663536
+nba,2021,NY,New York Knicks,118396240
+nba,2021,OKC,Oklahoma City Thunder,90513233
+nba,2021,ORL,Orlando Magic,128481240
+nba,2021,PHI,Philadelphia 76ers,156429129
+nba,2021,PHX,Phoenix Suns,133742329
+nba,2021,POR,Portland Trail Blazers,129526823
+nba,2021,SAC,Sacramento Kings,132576503
+nba,2021,SA,San Antonio Spurs,126419926
+nba,2021,TOR,Toronto Raptors,149439621
+nba,2021,UTAH,Utah Jazz,145969091
+nba,2021,WSH,Washington Wizards,155635311
+nba,2022,ATL,Atlanta Hawks,149133740
+nba,2022,BOS,Boston Celtics,176795764
+nba,2022,BKN,Brooklyn Nets,166975123
+nba,2022,CHA,Charlotte Hornets,146049640
+nba,2022,CHI,Chicago Bulls,153093665
+nba,2022,CLE,Cleveland Cavaliers,154561446
+nba,2022,DAL,Dallas Mavericks,180090371
+nba,2022,DEN,Denver Nuggets,169601210
+nba,2022,DET,Detroit Pistons,127673493
+nba,2022,GS,Golden State Warriors,199320856
+nba,2022,HOU,Houston Rockets,138296534
+nba,2022,IND,Indiana Pacers,123981439
+nba,2022,LAC,LA Clippers,193025394
+nba,2022,LAL,Los Angeles Lakers,180067292
+nba,2022,MEM,Memphis Grizzlies,127756781
+nba,2022,MIA,Miami Heat,152766041
+nba,2022,MIL,Milwaukee Bucks,181849255
+nba,2022,MIN,Minnesota Timberwolves,174906722
+nba,2022,NO,New Orleans Pelicans,154090191
+nba,2022,NY,New York Knicks,150263571
+nba,2022,OKC,Oklahoma City Thunder,155437627
+nba,2022,ORL,Orlando Magic,138311945
+nba,2022,PHI,Philadelphia 76ers,164391836
+nba,2022,PHX,Phoenix Suns,175806777
+nba,2022,POR,Portland Trail Blazers,151480955
+nba,2022,SAC,Sacramento Kings,154815256
+nba,2022,SA,San Antonio Spurs,101549048
+nba,2022,TOR,Toronto Raptors,149260166
+nba,2022,UTAH,Utah Jazz,147162541
+nba,2022,WSH,Washington Wizards,183801576
+nfl,2020,ARI,Arizona Cardinals,194162965
+nfl,2020,ATL,Atlanta Falcons,199335990
+nfl,2020,BAL,Baltimore Ravens,190989245
+nfl,2020,BUF,Buffalo Bills,218228694
+nfl,2020,CAR,Carolina Panthers,204039300
+nfl,2020,CHI,Chicago Bears,204713154
+nfl,2020,CIN,Cincinnati Bengals,197637354
+nfl,2020,CLE,Cleveland Browns,199101772
+nfl,2020,DAL,Dallas Cowboys,191282501
+nfl,2020,DEN,Denver Broncos,195780141
+nfl,2020,DET,Detroit Lions,201274115
+nfl,2020,GB,Green Bay Packers,199876795
+nfl,2020,HOU,Houston Texans,210781361
+nfl,2020,IND,Indianapolis Colts,231385518
+nfl,2020,JAX,Jacksonville Jaguars,184288252
+nfl,2020,KC,Kansas City Chiefs,216749367
+nfl,2020,LV,Las Vegas Raiders,214145655
+nfl,2020,LAC,Los Angeles Chargers,195831096
+nfl,2020,LAR,Los Angeles Rams,196611667
+nfl,2020,MIA,Miami Dolphins,202755153
+nfl,2020,MIN,Minnesota Vikings,195029407
+nfl,2020,NE,New England Patriots,186649624
+nfl,2020,NO,New Orleans Saints,194082268
+nfl,2020,NYG,New York Giants,192619204
+nfl,2020,NYJ,New York Jets,182498749
+nfl,2020,PHI,Philadelphia Eagles,200593459
+nfl,2020,PIT,Pittsburgh Steelers,194669953
+nfl,2020,SF,San Francisco 49ers,202659073
+nfl,2020,SEA,Seattle Seahawks,200893810
+nfl,2020,TB,Tampa Bay Buccaneers,199841623
+nfl,2020,TEN,Tennessee Titans,216614008
+nfl,2020,WSH,Washington Football Team,193135405
+nfl,2021,ARI,Arizona Cardinals,191127625
+nfl,2021,ATL,Atlanta Falcons,185499791
+nfl,2021,BAL,Baltimore Ravens,182781957
+nfl,2021,BUF,Buffalo Bills,187735198
+nfl,2021,CAR,Carolina Panthers,181771931
+nfl,2021,CHI,Chicago Bears,188749384
+nfl,2021,CIN,Cincinnati Bengals,191286587
+nfl,2021,CLE,Cleveland Browns,202441273
+nfl,2021,DAL,Dallas Cowboys,205327031
+nfl,2021,DEN,Denver Broncos,188343846
+nfl,2021,DET,Detroit Lions,196592545
+nfl,2021,GB,Green Bay Packers,181317830
+nfl,2021,HOU,Houston Texans,186825534
+nfl,2021,IND,Indianapolis Colts,187317746
+nfl,2021,JAX,Jacksonville Jaguars,180473269
+nfl,2021,KC,Kansas City Chiefs,185112146
+nfl,2021,LV,Las Vegas Raiders,189930974
+nfl,2021,LAC,Los Angeles Chargers,183047309
+nfl,2021,LAR,Los Angeles Rams,184237455
+nfl,2021,MIA,Miami Dolphins,195163942
+nfl,2021,MIN,Minnesota Vikings,188620675
+nfl,2021,NE,New England Patriots,200573159
+nfl,2021,NO,New Orleans Saints,185212258
+nfl,2021,NYG,New York Giants,182521051
+nfl,2021,NYJ,New York Jets,205736640
+nfl,2021,PHI,Philadelphia Eagles,189181452
+nfl,2021,PIT,Pittsburgh Steelers,175907130
+nfl,2021,SF,San Francisco 49ers,195101014
+nfl,2021,SEA,Seattle Seahawks,172703125
+nfl,2021,TB,Tampa Bay Buccaneers,181119199
+nfl,2021,TEN,Tennessee Titans,184416734
+nfl,2021,WSH,Washington Football Team,193566718
+nfl,2022,ARI,Arizona Cardinals,204903998
+nfl,2022,ATL,Atlanta Falcons,202265825
+nfl,2022,BAL,Baltimore Ravens,204617520
+nfl,2022,BUF,Buffalo Bills,206691460
+nfl,2022,CAR,Carolina Panthers,202249051
+nfl,2022,CHI,Chicago Bears,204696905
+nfl,2022,CIN,Cincinnati Bengals,210200068
+nfl,2022,CLE,Cleveland Browns,186513983
+nfl,2022,DAL,Dallas Cowboys,215338768
+nfl,2022,DEN,Denver Broncos,210892216
+nfl,2022,DET,Detroit Lions,214423875
+nfl,2022,GB,Green Bay Packers,211925991
+nfl,2022,HOU,Houston Texans,212666643
+nfl,2022,IND,Indianapolis Colts,205811217
+nfl,2022,JAX,Jacksonville Jaguars,231233180
+nfl,2022,KC,Kansas City Chiefs,205249141
+nfl,2022,LV,Las Vegas Raiders,199666719
+nfl,2022,LAC,Los Angeles Chargers,212129671
+nfl,2022,LAR,Los Angeles Rams,200270156
+nfl,2022,MIA,Miami Dolphins,208559442
+nfl,2022,MIN,Minnesota Vikings,208790359
+nfl,2022,NE,New England Patriots,208004554
+nfl,2022,NO,New Orleans Saints,206828041
+nfl,2022,NYG,New York Giants,203667108
+nfl,2022,NYJ,New York Jets,201530545
+nfl,2022,PHI,Philadelphia Eagles,219359743
+nfl,2022,PIT,Pittsburgh Steelers,210658592
+nfl,2022,SF,San Francisco 49ers,206082457
+nfl,2022,SEA,Seattle Seahawks,215796566
+nfl,2022,TB,Tampa Bay Buccaneers,202960773
+nfl,2022,TEN,Tennessee Titans,208998318
+nfl,2022,WSH,Washington Commanders,207402414
+nhl,2020,ANA,Anaheim Ducks,81500000
+nhl,2020,ARI,Arizona Coyotes,81500000
+nhl,2020,BOS,Boston Bruins,82245943
+nhl,2020,BUF,Buffalo Sabres,72678411
+nhl,2020,CGY,Calgary Flames,77897228
+nhl,2020,CAR,Carolina Hurricanes,77568328
+nhl,2020,CHI,Chicago Blackhawks,81500000
+nhl,2020,COL,Colorado Avalanche,81500000
+nhl,2020,CBJ,Columbus Blue Jackets,73835118
+nhl,2020,DAL,Dallas Stars,81500000
+nhl,2020,DET,Detroit Red Wings,73725168
+nhl,2020,EDM,Edmonton Oilers,81500000
+nhl,2020,FLA,Florida Panthers,80743103
+nhl,2020,LA,Los Angeles Kings,71143210
+nhl,2020,MIN,Minnesota Wild,81088412
+nhl,2020,MTL,Montreal Canadiens,81500000
+nhl,2020,NSH,Nashville Predators,83520657
+nhl,2020,NJ,New Jersey Devils,62254273
+nhl,2020,NYI,New York Islanders,81500000
+nhl,2020,NYR,New York Rangers,74226625
+nhl,2020,OTT,Ottawa Senators,66354638
+nhl,2020,PHI,Philadelphia Flyers,78849867
+nhl,2020,PIT,Pittsburgh Penguins,81500000
+nhl,2020,SJ,San Jose Sharks,79896022
+nhl,2020,STL,St Louis Blues,81500000
+nhl,2020,TB,Tampa Bay Lightning,81500000
+nhl,2020,TOR,Toronto Maple Leafs,81500000
+nhl,2020,VAN,Vancouver Canucks,81500000
+nhl,2020,VGK,Vegas Golden Knights,81500000
+nhl,2020,WSH,Washington Capitals,81500000
+nhl,2020,WPG,Winnipeg Jets,81500000
+nhl,2021,ANA,Anaheim Ducks,60305455
+nhl,2021,ARI,Arizona Coyotes,85587556
+nhl,2021,BOS,Boston Bruins,81650744
+nhl,2021,BUF,Buffalo Sabres,65994622
+nhl,2021,CGY,Calgary Flames,81500000
+nhl,2021,CAR,Carolina Hurricanes,81500000
+nhl,2021,CHI,Chicago Blackhawks,81500000
+nhl,2021,COL,Colorado Avalanche,81500000
+nhl,2021,CBJ,Columbus Blue Jackets,69433690
+nhl,2021,DAL,Dallas Stars,81500000
+nhl,2021,DET,Detroit Red Wings,69557687
+nhl,2021,EDM,Edmonton Oilers,81500000
+nhl,2021,FLA,Florida Panthers,81500000
+nhl,2021,LA,Los Angeles Kings,81500000
+nhl,2021,MIN,Minnesota Wild,83330618
+nhl,2021,MTL,Montreal Canadiens,81500000
+nhl,2021,NSH,Nashville Predators,71653906
+nhl,2021,NJ,New Jersey Devils,73577425
+nhl,2021,NYI,New York Islanders,79269354
+nhl,2021,NYR,New York Rangers,82449595
+nhl,2021,OTT,Ottawa Senators,71522731
+nhl,2021,PHI,Philadelphia Flyers,81500000
+nhl,2021,PIT,Pittsburgh Penguins,81500000
+nhl,2021,SJ,San Jose Sharks,76292867
+nhl,2021,SEA,Seattle Kraken,71773775
+nhl,2021,STL,St Louis Blues,81500000
+nhl,2021,TB,Tampa Bay Lightning,81500000
+nhl,2021,TOR,Toronto Maple Leafs,81500000
+nhl,2021,VAN,Vancouver Canucks,81500000
+nhl,2021,VGK,Vegas Golden Knights,81500000
+nhl,2021,WSH,Washington Capitals,81500000
+nhl,2021,WPG,Winnipeg Jets,81500000
+nhl,2022,ANA,Anaheim Ducks,70771464
+nhl,2022,ARI,Arizona Coyotes,67553790
+nhl,2022,BOS,Boston Bruins,82500000
+nhl,2022,BUF,Buffalo Sabres,65265598
+nhl,2022,CGY,Calgary Flames,82590180
+nhl,2022,CAR,Carolina Hurricanes,82387500
+nhl,2022,CHI,Chicago Blackhawks,81924351
+nhl,2022,COL,Colorado Avalanche,82475000
+nhl,2022,CBJ,Columbus Blue Jackets,82500000
+nhl,2022,DAL,Dallas Stars,81981992
+nhl,2022,DET,Detroit Red Wings,74721594
+nhl,2022,EDM,Edmonton Oilers,81604000
+nhl,2022,FLA,Florida Panthers,87439609
+nhl,2022,LA,Los Angeles Kings,80201091
+nhl,2022,MIN,Minnesota Wild,82114357
+nhl,2022,MTL,Montreal Canadiens,81367500
+nhl,2022,NSH,Nashville Predators,81370388
+nhl,2022,NJ,New Jersey Devils,82500000
+nhl,2022,NYI,New York Islanders,81095304
+nhl,2022,NYR,New York Rangers,83446494
+nhl,2022,OTT,Ottawa Senators,79244572
+nhl,2022,PHI,Philadelphia Flyers,82205000
+nhl,2022,PIT,Pittsburgh Penguins,82500000
+nhl,2022,SJ,San Jose Sharks,82500000
+nhl,2022,SEA,Seattle Kraken,82500000
+nhl,2022,STL,St Louis Blues,80736327
+nhl,2022,TB,Tampa Bay Lightning,82500000
+nhl,2022,TOR,Toronto Maple Leafs,82287500
+nhl,2022,VAN,Vancouver Canucks,81250000
+nhl,2022,VGK,Vegas Golden Knights,82500000
+nhl,2022,WSH,Washington Capitals,82400000
+nhl,2022,WPG,Winnipeg Jets,81735703

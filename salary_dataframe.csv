@@ -1,0 +1,865 @@
+﻿,League,Year,Code,Team,Salary
+0,epl,2014,TEMP,Arsenal,117241499.0
+1,epl,2014,TEMP,Aston Villa,52897993.0
+2,epl,2014,TEMP,Chelsea,145627509.0
+3,epl,2014,TEMP,Everton,22459996.0
+4,epl,2014,TEMP,Liverpool,28522000.0
+5,epl,2014,TEMP,Manchester City,78520000.0
+6,epl,2014,TEMP,Manchester United,62140000.0
+7,epl,2014,TEMP,Newcastle United,16900000.0
+8,epl,2014,TEMP,Norwich City,780000.0
+9,epl,2014,TEMP,Southampton,4160000.0
+10,epl,2014,TEMP,Stoke City,10088000.0
+11,epl,2014,TEMP,Swansea City,10712000.0
+12,epl,2014,TEMP,Tottenham Hotspur,10400000.0
+13,epl,2014,TEMP,West Bromwich Albion,1560000.0
+14,epl,2014,TEMP,West Ham United,14976000.0
+15,epl,2014,TEMP,Burnley,2184000.0
+16,epl,2014,TEMP,AFC Bournemouth,6175000.0
+17,epl,2014,TEMP,Crystal Palace,10192000.0
+18,epl,2014,TEMP,Leicester City,5824000.0
+19,epl,2014,TEMP,Watford,780000.0
+20,epl,2014,TEMP,Brighton & Hove Albion,1768000.0
+21,epl,2014,TEMP,Huddersfield Town,624000.0
+22,epl,2014,TEMP,Sheffield United,3640000.0
+23,epl,2014,TEMP,Sheffield Wednesday,30482.0
+24,epl,2014,TEMP,Wolverhampton Wanderers,0.0
+25,epl,2014,TEMP,Luton Town,0.0
+26,epl,2014,TEMP,Fulham,0.0
+27,epl,2014,TEMP,Queens Park Rangers,0.0
+28,epl,2014,TEMP,Reading,0.0
+29,epl,2014,TEMP,Sunderland,0.0
+30,epl,2014,TEMP,Wigan Athletic,0.0
+31,epl,2014,TEMP,Hull City,0.0
+32,epl,2014,TEMP,Middlesbrough,0.0
+33,epl,2014,TEMP,Barnsley,0.0
+34,epl,2014,TEMP,Birmingham City,0.0
+35,epl,2014,TEMP,Bolton Wanderers,0.0
+36,epl,2014,TEMP,Brentford,0.0
+37,epl,2014,TEMP,Bristol City,0.0
+38,epl,2014,TEMP,Burton Albion,0.0
+39,epl,2014,TEMP,Cardiff City,0.0
+40,epl,2014,TEMP,Derby County,0.0
+41,epl,2014,TEMP,Ipswich Town,0.0
+42,epl,2014,TEMP,Leeds United,0.0
+43,epl,2014,TEMP,Millwall,0.0
+44,epl,2014,TEMP,Nottingham Forest,0.0
+45,epl,2014,TEMP,Preston North End,0.0
+0,epl,2015,TEMP,Arsenal,104172444.0
+1,epl,2015,TEMP,Aston Villa,28076073.0
+2,epl,2015,TEMP,Chelsea,162088013.0
+3,epl,2015,TEMP,Everton,46769996.0
+4,epl,2015,TEMP,Liverpool,74672000.0
+5,epl,2015,TEMP,Manchester City,107952000.0
+6,epl,2015,TEMP,Manchester United,95160000.0
+7,epl,2015,TEMP,Newcastle United,30784000.0
+8,epl,2015,TEMP,Norwich City,0.0
+9,epl,2015,TEMP,Southampton,15444000.0
+10,epl,2015,TEMP,Stoke City,32448000.0
+11,epl,2015,TEMP,Swansea City,12792000.0
+12,epl,2015,TEMP,Tottenham Hotspur,29016000.0
+13,epl,2015,TEMP,West Bromwich Albion,6344000.0
+14,epl,2015,TEMP,West Ham United,27352000.0
+15,epl,2015,TEMP,Burnley,10020400.0
+16,epl,2015,TEMP,AFC Bournemouth,14032200.0
+17,epl,2015,TEMP,Crystal Palace,31564000.0
+18,epl,2015,TEMP,Leicester City,18642000.0
+19,epl,2015,TEMP,Watford,23972000.0
+20,epl,2015,TEMP,Brighton & Hove Albion,7644000.0
+21,epl,2015,TEMP,Huddersfield Town,3016000.0
+22,epl,2015,TEMP,Cardiff City,286000.0
+23,epl,2015,TEMP,Sheffield United,3640000.0
+24,epl,2015,TEMP,Sheffield Wednesday,2600000.0
+25,epl,2015,TEMP,Wolverhampton Wanderers,0.0
+26,epl,2015,TEMP,Fulham,0.0
+27,epl,2015,TEMP,Queens Park Rangers,0.0
+28,epl,2015,TEMP,Reading,0.0
+29,epl,2015,TEMP,Sunderland,0.0
+30,epl,2015,TEMP,Wigan Athletic,0.0
+31,epl,2015,TEMP,Hull City,0.0
+32,epl,2015,TEMP,Middlesbrough,0.0
+33,epl,2015,TEMP,Barnsley,0.0
+34,epl,2015,TEMP,Birmingham City,0.0
+35,epl,2015,TEMP,Bolton Wanderers,0.0
+36,epl,2015,TEMP,Brentford,0.0
+37,epl,2015,TEMP,Bristol City,0.0
+38,epl,2015,TEMP,Burton Albion,0.0
+39,epl,2015,TEMP,Derby County,0.0
+40,epl,2015,TEMP,Ipswich Town,0.0
+41,epl,2015,TEMP,Leeds United,0.0
+42,epl,2015,TEMP,Millwall,0.0
+43,epl,2015,TEMP,Nottingham Forest,0.0
+44,epl,2015,TEMP,Preston North End,0.0
+45,epl,2015,TEMP,Luton Town,0.0
+0,epl,2016,TEMP,Arsenal,107438240.0
+1,epl,2016,TEMP,Aston Villa,13416895.0
+2,epl,2016,TEMP,Chelsea,133789724.0
+3,epl,2016,TEMP,Everton,55224000.0
+4,epl,2016,TEMP,Fulham,2098800.0
+5,epl,2016,TEMP,Liverpool,84734000.0
+6,epl,2016,TEMP,Manchester City,118196000.0
+7,epl,2016,TEMP,Manchester United,138684000.0
+8,epl,2016,TEMP,Newcastle United,47060000.0
+9,epl,2016,TEMP,Norwich City,0.0
+10,epl,2016,TEMP,Southampton,65135200.0
+11,epl,2016,TEMP,Stoke City,50284000.0
+12,epl,2016,TEMP,Swansea City,46956000.0
+13,epl,2016,TEMP,Tottenham Hotspur,71656000.0
+14,epl,2016,TEMP,West Bromwich Albion,37544000.0
+15,epl,2016,TEMP,West Ham United,52572000.0
+16,epl,2016,TEMP,Burnley,24892400.0
+17,epl,2016,TEMP,AFC Bournemouth,38675000.0
+18,epl,2016,TEMP,Crystal Palace,62176400.0
+19,epl,2016,TEMP,Leicester City,61698000.0
+20,epl,2016,TEMP,Watford,41756000.0
+21,epl,2016,TEMP,Brighton & Hove Albion,17711200.0
+22,epl,2016,TEMP,Huddersfield Town,10826400.0
+23,epl,2016,TEMP,Cardiff City,2547000.0
+24,epl,2016,TEMP,Leeds United,676000.0
+25,epl,2016,TEMP,Sheffield United,4108000.0
+26,epl,2016,TEMP,Wolverhampton Wanderers,4284000.0
+27,epl,2016,TEMP,Queens Park Rangers,0.0
+28,epl,2016,TEMP,Reading,0.0
+29,epl,2016,TEMP,Sunderland,0.0
+30,epl,2016,TEMP,Wigan Athletic,0.0
+31,epl,2016,TEMP,Hull City,0.0
+32,epl,2016,TEMP,Middlesbrough,0.0
+33,epl,2016,TEMP,Barnsley,0.0
+34,epl,2016,TEMP,Birmingham City,0.0
+35,epl,2016,TEMP,Bolton Wanderers,0.0
+36,epl,2016,TEMP,Brentford,0.0
+37,epl,2016,TEMP,Bristol City,0.0
+38,epl,2016,TEMP,Burton Albion,0.0
+39,epl,2016,TEMP,Derby County,0.0
+40,epl,2016,TEMP,Ipswich Town,0.0
+41,epl,2016,TEMP,Millwall,0.0
+42,epl,2016,TEMP,Nottingham Forest,0.0
+43,epl,2016,TEMP,Preston North End,0.0
+44,epl,2016,TEMP,Sheffield Wednesday,0.0
+45,epl,2016,TEMP,Luton Town,0.0
+0,epl,2017,TEMP,Wigan Athletic,416000.0
+1,epl,2017,TEMP,Burnley,36556000.0
+2,epl,2017,TEMP,Chelsea,118026000.0
+3,epl,2017,TEMP,Arsenal,122983273.0
+4,epl,2017,TEMP,AFC Bournemouth,43743000.0
+5,epl,2017,TEMP,Crystal Palace,65772200.0
+6,epl,2017,TEMP,Everton,79092000.0
+7,epl,2017,TEMP,Watford,44594000.0
+8,epl,2017,TEMP,West Ham United,75400000.0
+9,epl,2017,TEMP,Leicester City,18720000.0
+10,epl,2017,TEMP,Manchester City,126490000.0
+11,epl,2017,TEMP,Manchester United,147160000.0
+12,epl,2017,TEMP,Newcastle United,42016000.0
+13,epl,2017,TEMP,Southampton,54236000.0
+14,epl,2017,TEMP,Stoke City,50180000.0
+15,epl,2017,TEMP,Swansea City,42640000.0
+16,epl,2017,TEMP,Tottenham Hotspur,78988000.0
+17,epl,2017,TEMP,West Bromwich Albion,57824000.0
+18,epl,2017,TEMP,Luton Town,160000.0
+19,epl,2017,TEMP,Brighton & Hove Albion,36998000.0
+20,epl,2017,TEMP,Huddersfield Town,29718000.0
+21,epl,2017,TEMP,Liverpool,86824000.0
+0,epl,2018,TEMP,Manchester United,148980000.0
+1,epl,2018,TEMP,Newcastle United,43056000.0
+2,epl,2018,TEMP,Southampton,70096000.0
+3,epl,2018,TEMP,AFC Bournemouth,42584000.0
+4,epl,2018,TEMP,Reading,0.0
+5,epl,2018,TEMP,Sunderland,0.0
+6,epl,2018,TEMP,Wigan Athletic,0.0
+7,epl,2018,TEMP,Hull City,468000.0
+8,epl,2018,TEMP,Middlesbrough,0.0
+9,epl,2018,TEMP,Birmingham City,0.0
+10,epl,2018,TEMP,Bolton Wanderers,0.0
+11,epl,2018,TEMP,Bristol City,0.0
+12,epl,2018,TEMP,Derby County,0.0
+13,epl,2018,TEMP,Millwall,0.0
+14,epl,2018,TEMP,Aston Villa,12636000.0
+15,epl,2018,TEMP,Fulham,41878800.0
+16,epl,2018,TEMP,Tottenham Hotspur,86346000.0
+17,epl,2018,TEMP,West Ham United,85020000.0
+18,epl,2018,TEMP,Burnley,43080000.0
+19,epl,2018,TEMP,Crystal Palace,69888000.0
+20,epl,2018,TEMP,Leicester City,79508000.0
+21,epl,2018,TEMP,Watford,46752000.0
+22,epl,2018,TEMP,Brighton & Hove Albion,38860666.0
+23,epl,2018,TEMP,Huddersfield Town,31033600.0
+24,epl,2018,TEMP,Queens Park Rangers,0.0
+25,epl,2018,TEMP,Barnsley,0.0
+26,epl,2018,TEMP,Burton Albion,0.0
+27,epl,2018,TEMP,Ipswich Town,0.0
+28,epl,2018,TEMP,Preston North End,0.0
+29,epl,2018,TEMP,Sheffield Wednesday,0.0
+30,epl,2018,TEMP,Cardiff City,26165166.0
+31,epl,2018,TEMP,Luton Town,160000.0
+32,epl,2018,TEMP,Wolverhampton Wanderers,39353000.0
+33,epl,2018,TEMP,Everton,83332000.0
+34,epl,2018,TEMP,Liverpool,122980000.0
+35,epl,2018,TEMP,Arsenal,131745273.0
+36,epl,2018,TEMP,Manchester City,145206000.0
+37,epl,2018,TEMP,Chelsea,139946000.0
+0,epl,2019,TEMP,Barnsley,0.0
+1,epl,2019,TEMP,Burton Albion,0.0
+2,epl,2019,TEMP,Ipswich Town,0.0
+3,epl,2019,TEMP,Arsenal,115410273.0
+4,epl,2019,TEMP,Millwall,0.0
+5,epl,2019,TEMP,Chelsea,131278000.0
+6,epl,2019,TEMP,Preston North End,0.0
+7,epl,2019,TEMP,Everton,83116000.0
+8,epl,2019,TEMP,Liverpool,128400000.0
+9,epl,2019,TEMP,Manchester City,146521000.0
+10,epl,2019,TEMP,Manchester United,157595000.0
+11,epl,2019,TEMP,Newcastle United,49221000.0
+12,epl,2019,TEMP,Norwich City,20698000.0
+13,epl,2019,TEMP,Southampton,50752000.0
+14,epl,2019,TEMP,Tottenham Hotspur,93138000.0
+15,epl,2019,TEMP,West Ham United,72424000.0
+16,epl,2019,TEMP,Burnley,49648000.0
+17,epl,2019,TEMP,AFC Bournemouth,39880000.0
+18,epl,2019,TEMP,Crystal Palace,75322000.0
+19,epl,2019,TEMP,Leicester City,74869000.0
+20,epl,2019,TEMP,Watford,46670000.0
+21,epl,2019,TEMP,Brighton & Hove Albion,43642666.0
+22,epl,2019,TEMP,Sheffield United,16782000.0
+23,epl,2019,TEMP,Wolverhampton Wanderers,49965000.0
+24,epl,2019,TEMP,Queens Park Rangers,0.0
+25,epl,2019,TEMP,Reading,0.0
+26,epl,2019,TEMP,Stoke City,31642000.0
+27,epl,2019,TEMP,Sunderland,0.0
+28,epl,2019,TEMP,Swansea City,21736000.0
+29,epl,2019,TEMP,Wigan Athletic,0.0
+30,epl,2019,TEMP,Hull City,1000000.0
+31,epl,2019,TEMP,Middlesbrough,0.0
+32,epl,2019,TEMP,Huddersfield Town,28610000.0
+33,epl,2019,TEMP,Birmingham City,0.0
+34,epl,2019,TEMP,Bolton Wanderers,0.0
+35,epl,2019,TEMP,Bristol City,0.0
+36,epl,2019,TEMP,Cardiff City,17782166.0
+37,epl,2019,TEMP,Derby County,6340000.0
+38,epl,2019,TEMP,Sheffield Wednesday,1300000.0
+39,epl,2019,TEMP,Luton Town,160000.0
+40,epl,2019,TEMP,Aston Villa,37962396.0
+0,epl,2020,TEMP,Fulham,43928800.0
+1,epl,2020,TEMP,Queens Park Rangers,0.0
+2,epl,2020,TEMP,Reading,0.0
+3,epl,2020,TEMP,Stoke City,20020000.0
+4,epl,2020,TEMP,Swansea City,5148000.0
+5,epl,2020,TEMP,Hull City,0.0
+6,epl,2020,TEMP,Middlesbrough,2520024.0
+7,epl,2020,TEMP,Huddersfield Town,13468000.0
+8,epl,2020,TEMP,Birmingham City,1924000.0
+9,epl,2020,TEMP,Bristol City,0.0
+10,epl,2020,TEMP,Cardiff City,12663666.0
+11,epl,2020,TEMP,Derby County,1820000.0
+12,epl,2020,TEMP,Sheffield Wednesday,1300000.0
+13,epl,2020,TEMP,Sunderland,0.0
+14,epl,2020,TEMP,Wigan Athletic,0.0
+15,epl,2020,TEMP,Barnsley,0.0
+16,epl,2020,TEMP,Bolton Wanderers,0.0
+17,epl,2020,TEMP,Burton Albion,0.0
+18,epl,2020,TEMP,Ipswich Town,0.0
+19,epl,2020,TEMP,Millwall,0.0
+20,epl,2020,TEMP,Preston North End,0.0
+21,epl,2020,TEMP,Luton Town,830000.0
+22,epl,2020,TEMP,Arsenal,128779273.0
+23,epl,2020,TEMP,Aston Villa,56315396.0
+24,epl,2020,TEMP,Chelsea,144766000.0
+25,epl,2020,TEMP,Everton,81161000.0
+26,epl,2020,TEMP,Liverpool,132854000.0
+27,epl,2020,TEMP,Manchester City,141449000.0
+28,epl,2020,TEMP,Manchester United,184315000.0
+29,epl,2020,TEMP,Newcastle United,58366200.0
+30,epl,2020,TEMP,Southampton,18460000.0
+31,epl,2020,TEMP,Tottenham Hotspur,129175200.0
+32,epl,2020,TEMP,West Bromwich Albion,22486200.0
+33,epl,2020,TEMP,Burnley,36518000.0
+34,epl,2020,TEMP,Crystal Palace,87291000.0
+35,epl,2020,TEMP,Leicester City,73751000.0
+36,epl,2020,TEMP,Brighton & Hove Albion,46049333.0
+37,epl,2020,TEMP,Leeds United,27826800.0
+38,epl,2020,TEMP,Sheffield United,20569600.0
+39,epl,2020,TEMP,Wolverhampton Wanderers,51494000.0
+40,epl,2020,TEMP,West Ham United,69464000.0
+0,epl,2021,TEMP,Ipswich Town,0.0
+1,epl,2021,TEMP,Millwall,0.0
+2,epl,2021,TEMP,Preston North End,0.0
+3,epl,2021,TEMP,Sheffield Wednesday,0.0
+4,epl,2021,TEMP,Liverpool,136234000.0
+5,epl,2021,TEMP,Leicester City,69165000.0
+6,epl,2021,TEMP,Norwich City,22820000.0
+7,epl,2021,TEMP,Watford,30489000.0
+8,epl,2021,TEMP,Queens Park Rangers,0.0
+9,epl,2021,TEMP,Reading,0.0
+10,epl,2021,TEMP,Stoke City,13390000.0
+11,epl,2021,TEMP,Sunderland,0.0
+12,epl,2021,TEMP,Swansea City,0.0
+13,epl,2021,TEMP,Wigan Athletic,0.0
+14,epl,2021,TEMP,Hull City,0.0
+15,epl,2021,TEMP,Middlesbrough,0.0
+16,epl,2021,TEMP,Huddersfield Town,2236000.0
+17,epl,2021,TEMP,Arsenal,93961273.0
+18,epl,2021,TEMP,Barnsley,0.0
+19,epl,2021,TEMP,Aston Villa,57805396.0
+20,epl,2021,TEMP,Birmingham City,0.0
+21,epl,2021,TEMP,Chelsea,175512000.0
+22,epl,2021,TEMP,Bolton Wanderers,0.0
+23,epl,2021,TEMP,Everton,87275000.0
+24,epl,2021,TEMP,Bristol City,0.0
+25,epl,2021,TEMP,Burton Albion,0.0
+26,epl,2021,TEMP,Cardiff City,6605000.0
+27,epl,2021,TEMP,Manchester City,149344000.0
+28,epl,2021,TEMP,Derby County,0.0
+29,epl,2021,TEMP,Manchester United,214485000.0
+30,epl,2021,TEMP,Newcastle United,61096200.0
+31,epl,2021,TEMP,Southampton,51134000.0
+32,epl,2021,TEMP,Tottenham Hotspur,89769200.0
+33,epl,2021,TEMP,West Ham United,66904000.0
+34,epl,2021,TEMP,Burnley,35728000.0
+35,epl,2021,TEMP,Crystal Palace,67362000.0
+36,epl,2021,TEMP,Brighton & Hove Albion,38907333.0
+37,epl,2021,TEMP,Leeds United,29816800.0
+38,epl,2021,TEMP,Wolverhampton Wanderers,48213600.0
+39,epl,2021,TEMP,Luton Town,2840000.0
+40,epl,2021,TEMP,Brentford,15654600.0
+0,epl,2022,TEMP,Queens Park Rangers,0.0
+1,epl,2022,TEMP,Arsenal,103598000.0
+2,epl,2022,TEMP,Reading,0.0
+3,epl,2022,TEMP,Aston Villa,86760000.0
+4,epl,2022,TEMP,Stoke City,40000.0
+5,epl,2022,TEMP,Chelsea,214690000.0
+6,epl,2022,TEMP,Sunderland,0.0
+7,epl,2022,TEMP,Everton,80707000.0
+8,epl,2022,TEMP,Swansea City,0.0
+9,epl,2022,TEMP,Liverpool,160868000.0
+10,epl,2022,TEMP,West Bromwich Albion,4716200.0
+11,epl,2022,TEMP,Manchester City,182640000.0
+12,epl,2022,TEMP,Wigan Athletic,0.0
+13,epl,2022,TEMP,Manchester United,213695000.0
+14,epl,2022,TEMP,Newcastle United,76220600.0
+15,epl,2022,TEMP,Hull City,0.0
+16,epl,2022,TEMP,Southampton,21320000.0
+17,epl,2022,TEMP,Middlesbrough,0.0
+18,epl,2022,TEMP,Tottenham Hotspur,110438000.0
+19,epl,2022,TEMP,Huddersfield Town,0.0
+20,epl,2022,TEMP,West Ham United,86560000.0
+21,epl,2022,TEMP,Barnsley,0.0
+22,epl,2022,TEMP,Leicester City,59020000.0
+23,epl,2022,TEMP,Birmingham City,0.0
+24,epl,2022,TEMP,Brighton & Hove Albion,36465000.0
+25,epl,2022,TEMP,Bolton Wanderers,0.0
+26,epl,2022,TEMP,Brentford,30170000.0
+27,epl,2022,TEMP,Bristol City,0.0
+28,epl,2022,TEMP,Leeds United,20800000.0
+29,epl,2022,TEMP,Burton Albion,0.0
+30,epl,2022,TEMP,Wolverhampton Wanderers,63102000.0
+31,epl,2022,TEMP,Derby County,0.0
+32,epl,2022,TEMP,Sheffield United,14273200.0
+33,epl,2022,TEMP,Fulham,54068000.0
+34,epl,2022,TEMP,AFC Bournemouth,43836000.0
+35,epl,2022,TEMP,Nottingham Forest,74740000.0
+36,epl,2022,TEMP,Cardiff City,0.0
+37,epl,2022,TEMP,Ipswich Town,0.0
+38,epl,2022,TEMP,Millwall,0.0
+39,epl,2022,TEMP,Preston North End,0.0
+40,epl,2022,TEMP,Sheffield Wednesday,0.0
+0,mls,2018,TEMP,FC Cincinnati,2057576.0
+1,mls,2018,TEMP,Houston Dynamo,5304148.0
+2,mls,2018,TEMP,New York Red Bulls,7336534.0
+3,mls,2018,TEMP,Vancouver Whitecaps FC,7178880.0
+4,mls,2018,TEMP,FC Dallas,8176794.0
+5,mls,2018,TEMP,New England Revolution,7806034.0
+6,mls,2018,TEMP,Columbus Crew,6999423.0
+7,mls,2018,TEMP,D.C. United,8865513.0
+8,mls,2018,TEMP,San Jose Earthquakes,7508343.0
+9,mls,2018,TEMP,Minnesota United FC,8290505.0
+10,mls,2018,TEMP,Real Salt Lake,8729424.0
+11,mls,2018,TEMP,Orlando City,7719087.0
+12,mls,2018,TEMP,Philadelphia Union,8072129.0
+13,mls,2018,TEMP,Sporting Kansas City,9655576.0
+14,mls,2018,TEMP,Atlanta United FC,9773612.0
+15,mls,2018,TEMP,Portland Timbers,10164053.0
+16,mls,2018,TEMP,Colorado Rapids,10540637.0
+17,mls,2018,TEMP,Montreal Impact,11768066.0
+18,mls,2018,TEMP,Seattle Sounders FC,12787745.0
+19,mls,2018,TEMP,Chicago Fire,13209392.0
+20,mls,2018,TEMP,New York City FC,14053171.0
+21,mls,2018,TEMP,Los Angeles FC,14166738.0
+22,mls,2018,TEMP,LA Galaxy,16976812.0
+23,mls,2018,TEMP,Toronto FC,25747264.0
+0,mls,2019,TEMP,Nashville SC,172296.0
+1,mls,2019,TEMP,Vancouver Whitecaps FC,5807495.0
+2,mls,2019,TEMP,Houston Dynamo,7602582.0
+3,mls,2019,TEMP,New York Red Bulls,7486025.0
+4,mls,2019,TEMP,FC Dallas,7466944.0
+5,mls,2019,TEMP,Colorado Rapids,8036215.0
+6,mls,2019,TEMP,New England Revolution,8182996.0
+7,mls,2019,TEMP,San Jose Earthquakes,8121656.0
+8,mls,2019,TEMP,FC Cincinnati,9488759.0
+9,mls,2019,TEMP,Minnesota United FC,8222686.0
+10,mls,2019,TEMP,Philadelphia Union,8459186.0
+11,mls,2019,TEMP,Real Salt Lake,9940119.0
+12,mls,2019,TEMP,New York City FC,9542039.0
+13,mls,2019,TEMP,Columbus Crew,10049306.0
+14,mls,2019,TEMP,D.C. United,10414746.0
+15,mls,2019,TEMP,Orlando City,10684789.0
+16,mls,2019,TEMP,Atlanta United FC,11485111.0
+17,mls,2019,TEMP,Sporting Kansas City,12080510.0
+18,mls,2019,TEMP,Portland Timbers,11105358.0
+19,mls,2019,TEMP,Montreal Impact,11470278.0
+20,mls,2019,TEMP,Seattle Sounders FC,12054716.0
+21,mls,2019,TEMP,Los Angeles FC,13338959.0
+22,mls,2019,TEMP,Chicago Fire,16073705.0
+23,mls,2019,TEMP,LA Galaxy,17724081.0
+24,mls,2019,TEMP,Toronto FC,21244519.0
+0,mls,2020,TEMP,Colorado Rapids,6120394.0
+1,mls,2020,TEMP,New York Red Bulls,7050054.0
+2,mls,2020,TEMP,Nashville SC,8063650.0
+3,mls,2020,TEMP,Vancouver Whitecaps FC,7639268.0
+4,mls,2020,TEMP,D.C. United,8068092.0
+5,mls,2020,TEMP,Minnesota United FC,9002470.0
+6,mls,2020,TEMP,Philadelphia Union,8516499.0
+7,mls,2020,TEMP,Real Salt Lake,9254828.0
+8,mls,2020,TEMP,Houston Dynamo,8870968.0
+9,mls,2020,TEMP,San Jose Earthquakes,9874989.0
+10,mls,2020,TEMP,Montreal Impact,10641859.0
+11,mls,2020,TEMP,FC Dallas,10090541.0
+12,mls,2020,TEMP,Orlando City,10003461.0
+13,mls,2020,TEMP,Portland Timbers,11443295.0
+14,mls,2020,TEMP,Chicago Fire,11472125.0
+15,mls,2020,TEMP,New York City FC,12187832.0
+16,mls,2020,TEMP,Inter Miami FC,13086521.0
+17,mls,2020,TEMP,FC Cincinnati,12016445.0
+18,mls,2020,TEMP,Columbus Crew,12384982.0
+19,mls,2020,TEMP,New England Revolution,11447878.0
+20,mls,2020,TEMP,Seattle Sounders FC,12412500.0
+21,mls,2020,TEMP,Sporting Kansas City,12807584.0
+22,mls,2020,TEMP,Atlanta United FC,13184580.0
+23,mls,2020,TEMP,Los Angeles FC,12899502.0
+24,mls,2020,TEMP,Toronto FC,18528776.0
+25,mls,2020,TEMP,LA Galaxy,16811192.0
+0,mls,2021,TEMP,New York Red Bulls,9036175.0
+1,mls,2021,TEMP,Colorado Rapids,8820038.0
+2,mls,2021,TEMP,Philadelphia Union,8919596.0
+3,mls,2021,TEMP,San Jose Earthquakes,9716050.0
+4,mls,2021,TEMP,D.C. United,10574323.0
+5,mls,2021,TEMP,Nashville SC,10315124.0
+6,mls,2021,TEMP,Houston Dynamo,10573227.0
+7,mls,2021,TEMP,Real Salt Lake,10307956.0
+8,mls,2021,TEMP,Vancouver Whitecaps FC,10507728.0
+9,mls,2021,TEMP,FC Dallas,10506289.0
+10,mls,2021,TEMP,CF Montreal,11186772.0
+11,mls,2021,TEMP,Portland Timbers,10417198.0
+12,mls,2021,TEMP,Orlando City,10828754.0
+13,mls,2021,TEMP,Toronto FC,15513555.0
+14,mls,2021,TEMP,Sporting Kansas City,12387795.0
+15,mls,2021,TEMP,Minnesota United FC,11527572.0
+16,mls,2021,TEMP,FC Cincinnati,14082405.0
+17,mls,2021,TEMP,New England Revolution,10507615.0
+18,mls,2021,TEMP,Austin FC,11751103.0
+19,mls,2021,TEMP,Columbus Crew,12557305.0
+20,mls,2021,TEMP,New York City FC,13760924.0
+21,mls,2021,TEMP,Chicago Fire,13002668.0
+22,mls,2021,TEMP,Seattle Sounders FC,12742519.0
+23,mls,2021,TEMP,Los Angeles FC,14189716.0
+24,mls,2021,TEMP,LA Galaxy,17839427.0
+25,mls,2021,TEMP,Inter Miami FC,16525292.0
+26,mls,2021,TEMP,Atlanta United FC,18826032.0
+0,mls,2022,TEMP,MLS,1333333.0
+1,mls,2022,TEMP,CF Montreal,11752370.0
+2,mls,2022,TEMP,Colorado Rapids,10483345.0
+3,mls,2022,TEMP,Philadelphia Union,10657333.0
+4,mls,2022,TEMP,Minnesota United FC,10284693.0
+5,mls,2022,TEMP,New York Red Bulls,11701891.0
+6,mls,2022,TEMP,San Jose Earthquakes,11039654.0
+7,mls,2022,TEMP,Real Salt Lake,11470686.0
+8,mls,2022,TEMP,Charlotte FC,10919686.0
+9,mls,2022,TEMP,Orlando City,11162418.0
+10,mls,2022,TEMP,Nashville SC,10897348.0
+11,mls,2022,TEMP,FC Cincinnati,13437446.0
+12,mls,2022,TEMP,Portland Timbers,10438560.0
+13,mls,2022,TEMP,New York City FC,11925850.0
+14,mls,2022,TEMP,FC Dallas,13778280.0
+15,mls,2022,TEMP,Vancouver Whitecaps FC,12440827.0
+16,mls,2022,TEMP,Sporting Kansas City,14834978.0
+17,mls,2022,TEMP,Austin FC,15081027.0
+18,mls,2022,TEMP,D.C. United,16079608.0
+19,mls,2022,TEMP,Houston Dynamo,15899836.0
+20,mls,2022,TEMP,New England Revolution,15522060.0
+21,mls,2022,TEMP,Columbus Crew,16110506.0
+22,mls,2022,TEMP,Inter Miami FC,17680936.0
+23,mls,2022,TEMP,Seattle Sounders FC,16121352.0
+24,mls,2022,TEMP,Chicago Fire,17787877.0
+25,mls,2022,TEMP,Los Angeles FC,20451014.0
+26,mls,2022,TEMP,Atlanta United FC,18072906.0
+27,mls,2022,TEMP,LA Galaxy,22827019.0
+28,mls,2022,TEMP,Toronto FC,33241969.0
+0,mlb,2020,TEMP,Los Angeles Dodgers,124917397.0
+1,mlb,2020,TEMP,New York Yankees,111939081.0
+2,mlb,2020,TEMP,Chicago Cubs,86596171.0
+3,mlb,2020,TEMP,Boston Red Sox,84210390.0
+4,mlb,2020,TEMP,Houston Astros,82890957.0
+5,mlb,2020,TEMP,New York Mets,81945598.0
+6,mlb,2020,TEMP,Washington Nationals,75067703.0
+7,mlb,2020,TEMP,Philadelphia Phillies,73543547.0
+8,mlb,2020,TEMP,San Francisco Giants,73408817.0
+9,mlb,2020,TEMP,St. Louis Cardinals,73246343.0
+10,mlb,2020,TEMP,San Diego Padres,73097954.0
+11,mlb,2020,TEMP,Colorado Rockies,67808533.0
+12,mlb,2020,TEMP,Los Angeles Angels,67040893.0
+13,mlb,2020,TEMP,Arizona Diamondbacks,65598752.0
+14,mlb,2020,TEMP,Texas Rangers,64214137.0
+15,mlb,2020,TEMP,Atlanta Braves,63561931.0
+16,mlb,2020,TEMP,Minnesota Twins,55679689.0
+17,mlb,2020,TEMP,Cincinnati Reds,55535890.0
+18,mlb,2020,TEMP,Toronto Blue Jays,54997060.0
+19,mlb,2020,TEMP,Chicago White Sox,53665251.0
+20,mlb,2020,TEMP,Seattle Mariners,51433829.0
+21,mlb,2020,TEMP,Detroit Tigers,43164880.0
+22,mlb,2020,TEMP,Milwaukee Brewers,41434086.0
+23,mlb,2020,TEMP,Cleveland Indians,39299107.0
+24,mlb,2020,TEMP,Oakland Athletics,36720178.0
+25,mlb,2020,TEMP,Kansas City Royals,34812194.0
+26,mlb,2020,TEMP,Miami Marlins,34222260.0
+27,mlb,2020,TEMP,Tampa Bay Rays,28290689.0
+28,mlb,2020,TEMP,Pittsburgh Pirates,25337837.0
+29,mlb,2020,TEMP,Baltimore Orioles,23478635.0
+0,mlb,2021,TEMP,Los Angeles Dodgers,265343390.0
+1,mlb,2021,TEMP,New York Yankees,205669863.0
+2,mlb,2021,TEMP,New York Mets,201189189.0
+3,mlb,2021,TEMP,Philadelphia Phillies,197263223.0
+4,mlb,2021,TEMP,Houston Astros,194222042.0
+5,mlb,2021,TEMP,Boston Red Sox,187100784.0
+6,mlb,2021,TEMP,Los Angeles Angels,183849560.0
+7,mlb,2021,TEMP,San Diego Padres,179764272.0
+8,mlb,2021,TEMP,San Francisco Giants,171890308.0
+9,mlb,2021,TEMP,Atlanta Braves,152750691.0
+10,mlb,2021,TEMP,St. Louis Cardinals,151469994.0
+11,mlb,2021,TEMP,Toronto Blue Jays,150140253.0
+12,mlb,2021,TEMP,Washington Nationals,144415187.0
+13,mlb,2021,TEMP,Chicago Cubs,144037170.0
+14,mlb,2021,TEMP,Chicago White Sox,140926169.0
+15,mlb,2021,TEMP,Cincinnati Reds,126587447.0
+16,mlb,2021,TEMP,Minnesota Twins,120084606.0
+17,mlb,2021,TEMP,Colorado Rockies,116408966.0
+18,mlb,2021,TEMP,Milwaukee Brewers,99377415.0
+19,mlb,2021,TEMP,Texas Rangers,95788819.0
+20,mlb,2021,TEMP,Arizona Diamondbacks,91632929.0
+21,mlb,2021,TEMP,Kansas City Royals,91595545.0
+22,mlb,2021,TEMP,Oakland Athletics,90400598.0
+23,mlb,2021,TEMP,Detroit Tigers,86348945.0
+24,mlb,2021,TEMP,Seattle Mariners,83822113.0
+25,mlb,2021,TEMP,Tampa Bay Rays,70836327.0
+26,mlb,2021,TEMP,Miami Marlins,58157900.0
+27,mlb,2021,TEMP,Pittsburgh Pirates,54356609.0
+28,mlb,2021,TEMP,Cleveland Indians,50670534.0
+29,mlb,2021,TEMP,Baltimore Orioles,42421870.0
+0,mlb,2022,TEMP,Los Angeles Dodgers,270381426.0
+1,mlb,2022,TEMP,New York Mets,268292506.0
+2,mlb,2022,TEMP,New York Yankees,252957200.0
+3,mlb,2022,TEMP,Philadelphia Phillies,244484097.0
+4,mlb,2022,TEMP,San Diego Padres,224511694.0
+5,mlb,2022,TEMP,Boston Red Sox,211812131.0
+6,mlb,2022,TEMP,Chicago White Sox,203205326.0
+7,mlb,2022,TEMP,Houston Astros,183791796.0
+8,mlb,2022,TEMP,Atlanta Braves,179938888.0
+9,mlb,2022,TEMP,Los Angeles Angels,179877811.0
+10,mlb,2022,TEMP,Toronto Blue Jays,177013980.0
+11,mlb,2022,TEMP,San Francisco Giants,162453046.0
+12,mlb,2022,TEMP,St. Louis Cardinals,156428325.0
+13,mlb,2022,TEMP,Chicago Cubs,151054737.0
+14,mlb,2022,TEMP,Texas Rangers,150037446.0
+15,mlb,2022,TEMP,Minnesota Twins,149030158.0
+16,mlb,2022,TEMP,Colorado Rockies,140012218.0
+17,mlb,2022,TEMP,Detroit Tigers,136287588.0
+18,mlb,2022,TEMP,Milwaukee Brewers,130769325.0
+19,mlb,2022,TEMP,Washington Nationals,126809535.0
+20,mlb,2022,TEMP,Seattle Mariners,115838907.0
+21,mlb,2022,TEMP,Cincinnati Reds,115467321.0
+22,mlb,2022,TEMP,Tampa Bay Rays,98342073.0
+23,mlb,2022,TEMP,Kansas City Royals,92613711.0
+24,mlb,2022,TEMP,Arizona Diamondbacks,85964090.0
+25,mlb,2022,TEMP,Miami Marlins,82954422.0
+26,mlb,2022,TEMP,Cleveland Guardians,66477492.0
+27,mlb,2022,TEMP,Pittsburgh Pirates,56184032.0
+28,mlb,2022,TEMP,Oakland Athletics,48443900.0
+29,mlb,2022,TEMP,Baltimore Orioles,44888388.0
+0,nfl,2020,CLE,Cleveland Browns,199101772.0
+1,nfl,2020,DAL,Dallas Cowboys,191282501.0
+2,nfl,2020,NYJ,New York Jets,182498749.0
+3,nfl,2020,NE,New England Patriots,186649624.0
+4,nfl,2020,JAC,Jacksonville Jaguars,184288252.0
+5,nfl,2020,PHI,Philadelphia Eagles,200593459.0
+6,nfl,2020,DEN,Denver Broncos,195780141.0
+7,nfl,2020,WAS,Washington Football Team,193135405.0
+8,nfl,2020,MIA,Miami Dolphins,202755153.0
+9,nfl,2020,DET,Detroit Lions,201274115.0
+10,nfl,2020,CIN,Cincinnati Bengals,197637354.0
+11,nfl,2020,IND,Indianapolis Colts,231385518.0
+12,nfl,2020,CHI,Chicago Bears,204713154.0
+13,nfl,2020,LAR,Los Angeles Rams,196611667.0
+14,nfl,2020,HOU,Houston Texans,210781361.0
+15,nfl,2020,BAL,Baltimore Ravens,190989245.0
+16,nfl,2020,LAC,Los Angeles Chargers,195831096.0
+17,nfl,2020,PIT,Pittsburgh Steelers,194669953.0
+18,nfl,2020,LV,Las Vegas Raiders,214145655.0
+19,nfl,2020,NYG,New York Giants,192619204.0
+20,nfl,2020,CAR,Carolina Panthers,204039300.0
+21,nfl,2020,TB,Tampa Bay Buccaneers,199841623.0
+22,nfl,2020,KC,Kansas City Chiefs,216749367.0
+23,nfl,2020,GB,Green Bay Packers,199876795.0
+24,nfl,2020,SF,San Francisco 49ers,202659073.0
+25,nfl,2020,NO,New Orleans Saints,194082268.0
+26,nfl,2020,TEN,Tennessee Titans,216614008.0
+27,nfl,2020,BUF,Buffalo Bills,218228694.0
+28,nfl,2020,ATL,Atlanta Falcons,199335990.0
+29,nfl,2020,MIN,Minnesota Vikings,195029407.0
+30,nfl,2020,ARI,Arizona Cardinals,194162965.0
+31,nfl,2020,SEA,Seattle Seahawks,200893810.0
+0,nfl,2021,JAC,Jacksonville Jaguars,180473269.0
+1,nfl,2021,PHI,Philadelphia Eagles,189181452.0
+2,nfl,2021,DEN,Denver Broncos,188343846.0
+3,nfl,2021,PIT,Pittsburgh Steelers,175907130.0
+4,nfl,2021,SEA,Seattle Seahawks,172703125.0
+5,nfl,2021,CLE,Cleveland Browns,202441273.0
+6,nfl,2021,LAC,Los Angeles Chargers,183047309.0
+7,nfl,2021,HOU,Houston Texans,186825534.0
+8,nfl,2021,WAS,Washington Football Team,193566718.0
+9,nfl,2021,TEN,Tennessee Titans,184416734.0
+10,nfl,2021,NE,New England Patriots,200573159.0
+11,nfl,2021,NYJ,New York Jets,205736640.0
+12,nfl,2021,GB,Green Bay Packers,181317830.0
+13,nfl,2021,CAR,Carolina Panthers,181771931.0
+14,nfl,2021,DAL,Dallas Cowboys,205327031.0
+15,nfl,2021,CIN,Cincinnati Bengals,191286587.0
+16,nfl,2021,IND,Indianapolis Colts,187317746.0
+17,nfl,2021,KC,Kansas City Chiefs,185112146.0
+18,nfl,2021,NYG,New York Giants,182521051.0
+19,nfl,2021,LAR,Los Angeles Rams,184237455.0
+20,nfl,2021,MIA,Miami Dolphins,195163942.0
+21,nfl,2021,CHI,Chicago Bears,188749384.0
+22,nfl,2021,DET,Detroit Lions,196592545.0
+23,nfl,2021,TB,Tampa Bay Buccaneers,181119199.0
+24,nfl,2021,ARI,Arizona Cardinals,191127625.0
+25,nfl,2021,SF,San Francisco 49ers,195101014.0
+26,nfl,2021,BUF,Buffalo Bills,187735198.0
+27,nfl,2021,LV,Las Vegas Raiders,189930974.0
+28,nfl,2021,NO,New Orleans Saints,185212258.0
+29,nfl,2021,BAL,Baltimore Ravens,182781957.0
+30,nfl,2021,ATL,Atlanta Falcons,185499791.0
+31,nfl,2021,MIN,Minnesota Vikings,188620675.0
+0,nfl,2022,CLE,Cleveland Browns,186513983.0
+1,nfl,2022,CAR,Carolina Panthers,202249051.0
+2,nfl,2022,DEN,Denver Broncos,210892216.0
+3,nfl,2022,NYJ,New York Jets,202470545.0
+4,nfl,2022,LV,Las Vegas Raiders,199666719.0
+5,nfl,2022,IND,Indianapolis Colts,205811217.0
+6,nfl,2022,ATL,Atlanta Falcons,201717487.0
+7,nfl,2022,WAS,Washington Commanders,207402414.0
+8,nfl,2022,SF,San Francisco 49ers,206082457.0
+9,nfl,2022,CHI,Chicago Bears,204696905.0
+10,nfl,2022,PHI,Philadelphia Eagles,219359743.0
+11,nfl,2022,DAL,Dallas Cowboys,215338768.0
+12,nfl,2022,PIT,Pittsburgh Steelers,210658592.0
+13,nfl,2022,MIA,Miami Dolphins,208559442.0
+14,nfl,2022,LAC,Los Angeles Chargers,212129671.0
+15,nfl,2022,GB,Green Bay Packers,211925991.0
+16,nfl,2022,KC,Kansas City Chiefs,205249141.0
+17,nfl,2022,DET,Detroit Lions,214423875.0
+18,nfl,2022,NYG,New York Giants,203667108.0
+19,nfl,2022,TB,Tampa Bay Buccaneers,202960773.0
+20,nfl,2022,JAC,Jacksonville Jaguars,231233180.0
+21,nfl,2022,ARI,Arizona Cardinals,204903998.0
+22,nfl,2022,NE,New England Patriots,208004554.0
+23,nfl,2022,CIN,Cincinnati Bengals,210200068.0
+24,nfl,2022,BUF,Buffalo Bills,206691460.0
+25,nfl,2022,TEN,Tennessee Titans,208998318.0
+26,nfl,2022,SEA,Seattle Seahawks,215796566.0
+27,nfl,2022,HOU,Houston Texans,212666643.0
+28,nfl,2022,MIN,Minnesota Vikings,208790359.0
+29,nfl,2022,LAR,Los Angeles Rams,200270156.0
+30,nfl,2022,BAL,Baltimore Ravens,204617520.0
+31,nfl,2022,NO,New Orleans Saints,206828041.0
+0,nhl,2020,NJD,New Jersey Devils,62254273.0
+1,nhl,2020,OTT,Ottawa Senators,66354638.0
+2,nhl,2020,LAK,Los Angeles Kings,71143210.0
+3,nhl,2020,BUF,Buffalo Sabres,72678411.0
+4,nhl,2020,DET,Detroit Red Wings,73725168.0
+5,nhl,2020,CBJ,Columbus Blue Jackets,73835118.0
+6,nhl,2020,NYR,New York Rangers,74226625.0
+7,nhl,2020,CAR,Carolina Hurricanes,77568328.0
+8,nhl,2020,CGY,Calgary Flames,77897228.0
+9,nhl,2020,PHI,Philadelphia Flyers,78849867.0
+10,nhl,2020,SJS,San Jose Sharks,79896022.0
+11,nhl,2020,FLA,Florida Panthers,80743103.0
+12,nhl,2020,MIN,Minnesota Wild,81088412.0
+13,nhl,2020,MTL,Montreal Canadiens,81500000.0
+14,nhl,2020,PIT,Pittsburgh Penguins,81500000.0
+15,nhl,2020,NYI,New York Islanders,81500000.0
+16,nhl,2020,WAS,Washington Capitals,81500000.0
+17,nhl,2020,TOR,Toronto Maple Leafs,81500000.0
+18,nhl,2020,TBL,Tampa Bay Lightning,81500000.0
+19,nhl,2020,DAL,Dallas Stars,81500000.0
+20,nhl,2020,VAN,Vancouver Canucks,81500000.0
+21,nhl,2020,ANA,Anaheim Ducks,81500000.0
+22,nhl,2020,COL,Colorado Avalanche,81500000.0
+23,nhl,2020,STL,St Louis Blues,81500000.0
+24,nhl,2020,CHI,Chicago Blackhawks,81500000.0
+25,nhl,2020,EDM,Edmonton Oilers,81500000.0
+26,nhl,2020,WPG,Winnipeg Jets,81500000.0
+27,nhl,2020,ARI,Arizona Coyotes,81500000.0
+28,nhl,2020,VGK,Vegas Golden Knights,81500000.0
+29,nhl,2020,BOS,Boston Bruins,82245943.0
+30,nhl,2020,NSH,Nashville Predators,83520657.0
+0,nhl,2021,ANA,Anaheim Ducks,60305455.0
+1,nhl,2021,BUF,Buffalo Sabres,65994622.0
+2,nhl,2021,CBJ,Columbus Blue Jackets,69433690.0
+3,nhl,2021,DET,Detroit Red Wings,69557687.0
+4,nhl,2021,OTT,Ottawa Senators,71522731.0
+5,nhl,2021,NSH,Nashville Predators,71653906.0
+6,nhl,2021,SEA,Seattle Kraken,71773775.0
+7,nhl,2021,NJD,New Jersey Devils,73577425.0
+8,nhl,2021,SJS,San Jose Sharks,76292867.0
+9,nhl,2021,NYI,New York Islanders,79269354.0
+10,nhl,2021,DAL,Dallas Stars,81500000.0
+11,nhl,2021,LAK,Los Angeles Kings,81500000.0
+12,nhl,2021,CAR,Carolina Hurricanes,81500000.0
+13,nhl,2021,VGK,Vegas Golden Knights,81500000.0
+14,nhl,2021,PIT,Pittsburgh Penguins,81500000.0
+15,nhl,2021,MTL,Montreal Canadiens,81500000.0
+16,nhl,2021,PHI,Philadelphia Flyers,81500000.0
+17,nhl,2021,WAS,Washington Capitals,81500000.0
+18,nhl,2021,FLA,Florida Panthers,81500000.0
+19,nhl,2021,TBL,Tampa Bay Lightning,81500000.0
+20,nhl,2021,CGY,Calgary Flames,81500000.0
+21,nhl,2021,VAN,Vancouver Canucks,81500000.0
+22,nhl,2021,COL,Colorado Avalanche,81500000.0
+23,nhl,2021,CHI,Chicago Blackhawks,81500000.0
+24,nhl,2021,STL,St Louis Blues,81500000.0
+25,nhl,2021,EDM,Edmonton Oilers,81500000.0
+26,nhl,2021,WPG,Winnipeg Jets,81500000.0
+27,nhl,2021,TOR,Toronto Maple Leafs,81500000.0
+28,nhl,2021,BOS,Boston Bruins,81650744.0
+29,nhl,2021,NYR,New York Rangers,82449595.0
+30,nhl,2021,MIN,Minnesota Wild,83330618.0
+31,nhl,2021,ARI,Arizona Coyotes,85587556.0
+0,nhl,2022,BUF,Buffalo Sabres,65265598.0
+1,nhl,2022,ARI,Arizona Coyotes,67553790.0
+2,nhl,2022,ANA,Anaheim Ducks,70771464.0
+3,nhl,2022,DET,Detroit Red Wings,74721594.0
+4,nhl,2022,OTT,Ottawa Senators,79244572.0
+5,nhl,2022,LAK,Los Angeles Kings,80201091.0
+6,nhl,2022,NYI,New York Islanders,81095304.0
+7,nhl,2022,NSH,Nashville Predators,81370388.0
+8,nhl,2022,WPG,Winnipeg Jets,81735703.0
+9,nhl,2022,STL,St Louis Blues,80736327.0
+10,nhl,2022,MIN,Minnesota Wild,82114357.0
+11,nhl,2022,CHI,Chicago Blackhawks,81924351.0
+12,nhl,2022,EDM,Edmonton Oilers,81604000.0
+13,nhl,2022,SEA,Seattle Kraken,82500000.0
+14,nhl,2022,WAS,Washington Capitals,82400000.0
+15,nhl,2022,MTL,Montreal Canadiens,81367500.0
+16,nhl,2022,NJD,New Jersey Devils,82500000.0
+17,nhl,2022,CAR,Carolina Hurricanes,82387500.0
+18,nhl,2022,PIT,Pittsburgh Penguins,82500000.0
+19,nhl,2022,BOS,Boston Bruins,82500000.0
+20,nhl,2022,PHI,Philadelphia Flyers,82205000.0
+21,nhl,2022,TOR,Toronto Maple Leafs,82287500.0
+22,nhl,2022,TBL,Tampa Bay Lightning,82500000.0
+23,nhl,2022,SJS,San Jose Sharks,82500000.0
+24,nhl,2022,VAN,Vancouver Canucks,81250000.0
+25,nhl,2022,COL,Colorado Avalanche,82475000.0
+26,nhl,2022,CBJ,Columbus Blue Jackets,82500000.0
+27,nhl,2022,VGK,Vegas Golden Knights,82500000.0
+28,nhl,2022,CGY,Calgary Flames,82590180.0
+29,nhl,2022,DAL,Dallas Stars,81981992.0
+30,nhl,2022,NYR,New York Rangers,83446494.0
+31,nhl,2022,FLA,Florida Panthers,87439609.0
+0,nba,2020,TEMP,New York Knicks,101969879.0
+1,nba,2020,TEMP,Oklahoma City Thunder,104570165.0
+2,nba,2020,TEMP,Charlotte Hornets,107134070.0
+3,nba,2020,TEMP,Detroit Pistons,115013466.0
+4,nba,2020,TEMP,Sacramento Kings,115582515.0
+5,nba,2020,TEMP,Atlanta Hawks,116695055.0
+6,nba,2020,TEMP,Orlando Magic,118898403.0
+7,nba,2020,TEMP,Dallas Mavericks,125815404.0
+8,nba,2020,TEMP,Cleveland Cavaliers,126527288.0
+9,nba,2020,TEMP,Chicago Bulls,128065350.0
+10,nba,2020,TEMP,Indiana Pacers,129005732.0
+11,nba,2020,TEMP,Houston Rockets,129533390.0
+12,nba,2020,TEMP,Phoenix Suns,130285572.0
+13,nba,2020,TEMP,Boston Celtics,130767745.0
+14,nba,2020,TEMP,Denver Nuggets,131820534.0
+15,nba,2020,TEMP,New Orleans Pelicans,132616252.0
+16,nba,2020,TEMP,Milwaukee Bucks,133224345.0
+17,nba,2020,TEMP,Memphis Grizzlies,134245326.0
+18,nba,2020,TEMP,Portland Trail Blazers,135448164.0
+19,nba,2020,TEMP,Miami Heat,135572405.0
+20,nba,2020,TEMP,LA Clippers,137405301.0
+21,nba,2020,TEMP,Los Angeles Lakers,138544305.0
+22,nba,2020,TEMP,Utah Jazz,138998838.0
+23,nba,2020,TEMP,Toronto Raptors,143726386.0
+24,nba,2020,TEMP,Philadelphia 76ers,147787869.0
+25,nba,2020,TEMP,San Antonio Spurs,150150620.0
+26,nba,2020,TEMP,Minnesota Timberwolves,159195461.0
+27,nba,2020,TEMP,Washington Wizards,160772292.0
+28,nba,2020,TEMP,Brooklyn Nets,168550487.0
+29,nba,2020,TEMP,Golden State Warriors,175825052.0
+0,nba,2021,TEMP,Oklahoma City Thunder,90513233.0
+1,nba,2021,TEMP,Memphis Grizzlies,115994102.0
+2,nba,2021,TEMP,New York Knicks,118396240.0
+3,nba,2021,TEMP,Charlotte Hornets,120990744.0
+4,nba,2021,TEMP,San Antonio Spurs,126419926.0
+5,nba,2021,TEMP,Orlando Magic,128481240.0
+6,nba,2021,TEMP,Detroit Pistons,128989131.0
+7,nba,2021,TEMP,Portland Trail Blazers,129526823.0
+8,nba,2021,TEMP,Houston Rockets,132065764.0
+9,nba,2021,TEMP,Sacramento Kings,132576503.0
+10,nba,2021,TEMP,Atlanta Hawks,132773339.0
+11,nba,2021,TEMP,Cleveland Cavaliers,133138401.0
+12,nba,2021,TEMP,Phoenix Suns,133742329.0
+13,nba,2021,TEMP,New Orleans Pelicans,134663536.0
+14,nba,2021,TEMP,Boston Celtics,135425801.0
+15,nba,2021,TEMP,Indiana Pacers,136089712.0
+16,nba,2021,TEMP,Chicago Bulls,136118673.0
+17,nba,2021,TEMP,Miami Heat,138804919.0
+18,nba,2021,TEMP,Denver Nuggets,138963942.0
+19,nba,2021,TEMP,Utah Jazz,145969091.0
+20,nba,2021,TEMP,Dallas Mavericks,146734486.0
+21,nba,2021,TEMP,Toronto Raptors,149439621.0
+22,nba,2021,TEMP,Washington Wizards,155635311.0
+23,nba,2021,TEMP,Philadelphia 76ers,156429129.0
+24,nba,2021,TEMP,Milwaukee Bucks,160663369.0
+25,nba,2021,TEMP,Los Angeles Lakers,160861720.0
+26,nba,2021,TEMP,Minnesota Timberwolves,165734220.0
+27,nba,2021,TEMP,LA Clippers,166162398.0
+28,nba,2021,TEMP,Brooklyn Nets,172820410.0
+29,nba,2021,TEMP,Golden State Warriors,184024769.0
+0,nba,2022,TEMP,San Antonio Spurs,101549048.0
+1,nba,2022,TEMP,Indiana Pacers,123981439.0
+2,nba,2022,TEMP,Detroit Pistons,127673493.0
+3,nba,2022,TEMP,Memphis Grizzlies,127756781.0
+4,nba,2022,TEMP,Houston Rockets,138296534.0
+5,nba,2022,TEMP,Orlando Magic,138311945.0
+6,nba,2022,TEMP,Charlotte Hornets,146049640.0
+7,nba,2022,TEMP,Utah Jazz,147162541.0
+8,nba,2022,TEMP,Atlanta Hawks,149133740.0
+9,nba,2022,TEMP,Toronto Raptors,149260166.0
+10,nba,2022,TEMP,New York Knicks,150263571.0
+11,nba,2022,TEMP,Portland Trail Blazers,151480955.0
+12,nba,2022,TEMP,Miami Heat,152766041.0
+13,nba,2022,TEMP,Chicago Bulls,153093665.0
+14,nba,2022,TEMP,New Orleans Pelicans,154090191.0
+15,nba,2022,TEMP,Cleveland Cavaliers,154561446.0
+16,nba,2022,TEMP,Sacramento Kings,154815256.0
+17,nba,2022,TEMP,Oklahoma City Thunder,155437627.0
+18,nba,2022,TEMP,Philadelphia 76ers,164391836.0
+19,nba,2022,TEMP,Brooklyn Nets,166975123.0
+20,nba,2022,TEMP,Denver Nuggets,169601210.0
+21,nba,2022,TEMP,Minnesota Timberwolves,174906722.0
+22,nba,2022,TEMP,Phoenix Suns,175806777.0
+23,nba,2022,TEMP,Boston Celtics,176795764.0
+24,nba,2022,TEMP,Los Angeles Lakers,180067292.0
+25,nba,2022,TEMP,Dallas Mavericks,180090371.0
+26,nba,2022,TEMP,Milwaukee Bucks,181849255.0
+27,nba,2022,TEMP,Washington Wizards,183801576.0
+28,nba,2022,TEMP,LA Clippers,193025394.0
+29,nba,2022,TEMP,Golden State Warriors,199320856.0
